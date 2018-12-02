@@ -1,0 +1,65 @@
+---------------------------------------------训练自己的数据集----------------------------------------
+数据集准备:
+        数据集格式如下：
+        1. 建立训练文件夹： /data/*_train_raw
+                ├── Ariel_Sharon
+                │   ├── Ariel_Sharon_0006.png
+                │   ├── Ariel_Sharon_0007.png
+                │   ├── Ariel_Sharon_0008.png
+                │   ├── Ariel_Sharon_0009.png
+                │   └── Ariel_Sharon_0010.png
+                ├── Arnold_Schwarzenegger
+                │   ├── Arnold_Schwarzenegger_0006.png
+                │   ├── Arnold_Schwarzenegger_0007.png
+                │   ├── Arnold_Schwarzenegger_0008.png
+                │   ├── Arnold_Schwarzenegger_0009.png
+                │   └── Arnold_Schwarzenegger_0010.png
+                ├── Colin_Powell
+                │   ├── Colin_Powell_0006.png
+                │   ├── Colin_Powell_0007.png
+
+        2. 建立测试文件夹：/data/*_test_raw 用于测试，格式同上
+                ├── Ariel_Sharon
+                │   ├── Ariel_Sharon_0006.png
+                │   ├── Ariel_Sharon_0007.png
+                │   ├── Ariel_Sharon_0008.png
+                │   ├── Ariel_Sharon_0009.png
+                │   └── Ariel_Sharon_0010.png
+                ├── Arnold_Schwarzenegger
+                │   ├── Arnold_Schwarzenegger_0006.png
+                │   ├── Arnold_Schwarzenegger_0007.png
+                │   ├── Arnold_Schwarzenegger_0008.png
+                │   ├── Arnold_Schwarzenegger_0009.png
+                │   └── Arnold_Schwarzenegger_0010.png
+                ├── Colin_Powell
+                │   ├── Colin_Powell_0006.png
+                │   ├── Colin_Powell_0007.png
+        3. 建立空文件夹：/data/*_train_output 用于保存图像对准后的数据和图像
+
+
+训练步骤：
+        1. 首先调用 my_align_dataset_mtcnn.py 用于对准数据集，输出文件夹为target_output_dir
+            （1）设置input_dir = 'data/*_train_raw'
+            （2）设置target_output_dir = 'data/*_train_output'
+
+        2. 调用face_detection_classify_train.py 用于训练生成 *_SVC_classifier.pkl
+            训练：
+            （1）设置 data_dir = 'data/*_train_output/'
+            （2）设置 pretrained_model = 'models/20170512-110547/20170512-110547.pb'
+            （3）设置 SVC_classifier_filename = 'models/classifiers/*_SVC_classifier.pkl'
+            （4）设置 mode = 'TRAIN'
+            测试分类效果：
+            （1）设置 data_dir = 'data/*_test_raw/'
+            （2）设置 pretrained_model = 'models/20170512-110547/20170512-110547.pb'
+            （3）设置 SVC_classifier_filename = 'models/classifiers/*_SVC_classifier.pkl'
+            （4）设置 mode = 'CLASSIFY'
+
+        3. 调用 face_detection_classify_test.py 使用*_SVC_classifier.pkl分类器进行人脸识别和分类，并绘制脸部方框和脸部特征点
+            （1）设置 test_image_dir = 'data/sex_test_raw/'
+            （2）设置 classifier_model = os.path.dirname(__file__) + "/models/classifiers/sex_SVC_classifier.pkl"
+
+
+-----------------------------------------------------小工具--------------------------------------------------------------
+1. detection_mtcnn_test.py                  用于快速识别人脸，并绘制脸部方框和脸部特征点（不能分类）
+2. real_time_face_recognition.py            用于采集摄像头数据进行人脸的动态识别和分类，并动态绘制脸部方框和脸部特征点
+    （1）设置 classifier_model = os.path.dirname(__file__) + "/models/classifiers/*_SVC_classifier.pkl"

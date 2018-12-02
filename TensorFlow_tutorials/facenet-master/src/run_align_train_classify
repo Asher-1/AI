@@ -1,0 +1,26 @@
+
+----------------------------------------预处理：align_dataset_mtcnn.py------------------------------
+python src/align/align_dataset_mtcnn.py G:/develop/PycharmProjects/datasets/lfw/lfw_raw G:/develop/PycharmProjects/datasets/lfw/lfw_test --image_size 160 --margin 32 --random_order --gpu_memory_fraction 0.6
+
+python src/validate_on_lfw.py G:/develop/PycharmProjects/datasets/lfw/lfw_test data/models/20170512-110547/20170512-110547.pb
+
+-----------------------------------------------lfw分类器--------------------------------------------------------------------------------------------
+---------------------------------------分类器的训练classifier.py------------------------------------
+train: python src/classifier.py TRAIN G:/develop/PycharmProjects/datasets/lfw/lfw_test data/models/20170512-110547/20170512-110547.pb data/classifiers/lfw_classifier.pkl --batch_size 100 --min_nrof_images_per_class 40 --nrof_train_images_per_class 35 --use_split_dataset
+
+---------------------------------------分类器的测试classifier.py------------------------------------
+classify: python src/classifier.py CLASSIFY G:/develop/PycharmProjects/datasets/lfw/lfw_test data/models/20170512-110547/20170512-110547.pb data/classifiers/lfw_classifier.pkl --batch_size 100 --min_nrof_images_per_class 40 --nrof_train_images_per_class 35 --use_split_dataset
+
+
+-----------------------------------------------自己数据库的分类器--------------------------------------------------------------------------------------------
+---------------------------------------自己数据库的分类器的训练classifier.py-"train"-----------------------------------
+python src/my_classifier.py TRAIN data/my_dataset/train/ data/models/20170512-110547/20170512-110547.pb data/classifiers/my_dataset_classifier.pkl --batch_size 1000
+
+---------------------------------------自己数据库的分类器的测试classifier.py-"test"------------------------------------
+python src/my_classifier.py CLASSIFY data/my_dataset/test/ data/models/20170512-110547/20170512-110547.pb data/classifiers/my_dataset_classifier.pkl --batch_size 1000
+
+
+---------------------------------------Triplet loss training---------------------------------------
+python src/train_tripletloss.py --logs_base_dir G:/develop/PycharmProjects/TensorFlow_tutorials/facenet-master/data/logs --models_base_dir ~/models/facenet/ --data_dir ~/datasets/casia/casia_maxpy_mtcnnalign_182_160 --image_size 160 --model_def models.inception_resnet_v1 --lfw_dir G:/develop/PycharmProjects/TensorFlow_tutorials/facenet-master/data/lfw_test --optimizer RMSPROP --learning_rate 0.01 --weight_decay 1e-4 --max_nrof_epochs 500
+
+

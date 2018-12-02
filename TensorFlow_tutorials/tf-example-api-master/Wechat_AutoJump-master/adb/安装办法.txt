@@ -1,0 +1,2 @@
+◆将名称中含有adb的文件，和fastboot.exe复制到 c:/windows/system32目录
+◆将名称中含有adb的所有文件复制到 c:/windows/system目录

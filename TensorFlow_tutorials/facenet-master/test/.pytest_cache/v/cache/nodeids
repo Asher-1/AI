@@ -1,0 +1,4 @@
+[
+  "restore_test.py::TrainTest::test_restore_ema",
+  "restore_test.py::TrainTest::test_restore_noema"
+]

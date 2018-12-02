@@ -1,0 +1,37 @@
+minibatch_size: 64
+
+initial_finetune:
+  pos_thresh: 0.7
+  neg_thresh: 0.3
+  pos_num: 180
+  neg_num: 120
+  iter: 300 # as in the original paper
+  learning_rate: 0.0003
+
+finetune:
+  interval: 30
+  pos_thresh: 0.7
+  neg_thresh: 0.3
+  long_term: 20
+  short_term: 20
+  pos_num: 32
+  neg_num: 18
+  iter: 30  # as in the original paper
+  learning_rate: 0.0001
+
+action_move:
+  x: 0.03
+  y: 0.03
+  w: 0.03
+  h: 0.03
+
+action_history: 10
+redetection:
+  samples: 64
+
+predict:
+  roi_zoom: 1.4
+  num_action: 20
+  stop_iou: 0.93
+  thresh_fail: 0.50
+  thresh_success: 0.50

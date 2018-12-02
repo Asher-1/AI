@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:\\develop\\PycharmProjects\\TensorFlow_tutorials\\tf-example-object-detection-api-master\\tfClassifier-master\\text_classification\\model.tflearn"
+all_model_checkpoint_paths: "G:\\develop\\PycharmProjects\\TensorFlow_tutorials\\tf-example-object-detection-api-master\\tfClassifier-master\\text_classification\\model.tflearn"

@@ -1,0 +1,7 @@
+[
+  "test_generate_tfrecord.py::CSVToTFExampleTest::test_csv_to_tf_example_multiple_raccoons_multiple_files",
+  "test_generate_tfrecord.py::CSVToTFExampleTest::test_csv_to_tf_example_multiple_raccoons_per_file",
+  "test_generate_tfrecord.py::CSVToTFExampleTest::test_csv_to_tf_example_one_raccoon_per_file",
+  "test_generate_tfrecord.py::CSVToTFExampleTest::test_csv_to_tf_example_one_raccoons_multiple_files",
+  "test_generate_tfrecord.py::CSVToTFExampleTest::test_session"
+]

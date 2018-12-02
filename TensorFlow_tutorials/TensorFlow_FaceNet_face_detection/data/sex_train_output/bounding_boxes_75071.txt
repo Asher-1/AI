@@ -1,0 +1,15 @@
+data/sex_train_output\Male\res27.png 747 52 1053 454
+data/sex_train_output\Male\res18.png 724 72 1108 572
+data/sex_train_output\Male\res23.png 396 129 630 422
+data/sex_train_output\Male\res5.png 886 341 1313 888
+data/sex_train_output\Male\res10.png 325 227 742 692
+data/sex_train_output\Male\res20.png 1028 235 1338 578
+data/sex_train_output\Female\image_020_1.png 576 38 889 441
+data/sex_train_output\Female\res17.png 801 157 1356 921
+data/sex_train_output\Female\res13.png 576 264 945 733
+data/sex_train_output\Female\res42.png 1564 588 2619 2007
+data/sex_train_output\Female\image_09.png 107 26 324 300
+data/sex_train_output\Female\res3.png 660 258 973 653
+data/sex_train_output\Female\res49.png 579 61 869 382
+data/sex_train_output\Female\res11.png 594 157 824 458
+data/sex_train_output\Female\res50.png 504 191 886 706

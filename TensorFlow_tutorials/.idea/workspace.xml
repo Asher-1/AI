@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d2783a1-3709-430b-853a-98504b02a33a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$create_text.coverage" NAME="create_text Coverage Results" MODIFIED="1522510155394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/object_detection/datasets/VOC_Maker_Tools/windows_v1.4.3" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$my_classifier.coverage" NAME="my_classifier Coverage Results" MODIFIED="1522649279663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-master/src" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$my_align_dataset_mtcnn.coverage" NAME="my_align_dataset_mtcnn Coverage Results" MODIFIED="1521890145543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$validate_on_lfw.coverage" NAME="validate_on_lfw Coverage Results" MODIFIED="1521801175932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-master/src" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$py_test_in_reader_test_py.coverage" NAME="py.test in reader_test.py Coverage Results" MODIFIED="1521967672071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/tutorials/rnn/ptb" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$py_test_in_model_test_py.coverage" NAME="py.test in model_test.py Coverage Results" MODIFIED="1521966712895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/research/object_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$preprocess.coverage" NAME="preprocess Coverage Results" MODIFIED="1522586001646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_TensorFlow_demos/GeneGAN-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$2_tfrecord.coverage" NAME="2-生成tfrecord文件 Coverage Results" MODIFIED="1521291709250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_captcha_recognition" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$my_face_detection_train.coverage" NAME="my_face_detection_train Coverage Results" MODIFIED="1522649344536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-master/src" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$alexnet_benchmark.coverage" NAME="alexnet_benchmark Coverage Results" MODIFIED="1521968108160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/tutorials/image/alexnet" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$test.coverage" NAME="test Coverage Results" MODIFIED="1523161499109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/GeneGAN-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$create_pet_tf_record2.coverage" NAME="create_pet_tf_record2 Coverage Results" MODIFIED="1522240201053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/tensorflow_toy_detector" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$convolutional.coverage" NAME="convolutional Coverage Results" MODIFIED="1521967789868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/tutorials/image/mnist" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$dqn.coverage" NAME="dqn Coverage Results" MODIFIED="1522929894919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/dqn-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$linear_regression_categorical.coverage" NAME="linear_regression_categorical Coverage Results" MODIFIED="1521973020367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/samples/cookbook/regression" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$coco_masks_hdf5.coverage" NAME="coco_masks_hdf5 Coverage Results" MODIFIED="1522679946447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation/training" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$pycocoEvalDemo.coverage" NAME="pycocoEvalDemo Coverage Results" MODIFIED="1522243431436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/object_detection/datasets/cocoapi-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$train__2_.coverage" NAME="train (2) Coverage Results" MODIFIED="1522514765461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_TensorFlow_demos/Wechat_AutoJump-master/cnn_coarse_to_fine/config/base.fine" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$retrain_model_classifier.coverage" NAME="retrain_model_classifier Coverage Results" MODIFIED="1522509054358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/tfClassifier-master/image_classification" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$real_time_pose_recognition_multithreading_app.coverage" NAME="real_time_pose_recognition_multithreading_app Coverage Results" MODIFIED="1522924160303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$run.coverage" NAME="run Coverage Results" MODIFIED="1522751284584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/tf-pose-estimation-master/src" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$MusicDownloader.coverage" NAME="MusicDownloader Coverage Results" MODIFIED="1521187509496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$cvwavplot.coverage" NAME="cvwavplot Coverage Results" MODIFIED="1522779688492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_TensorFlow_demos/VideoAudioEMGViewer-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$face.coverage" NAME="face Coverage Results" MODIFIED="1522062975232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/src" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$object_detection_faster_rcnn_inception_v2_tutorial.coverage" NAME="object_detection_faster_rcnn_inception_v2_tutorial Coverage Results" MODIFIED="1522752830612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$classifier_train__1_.coverage" NAME="classifier_train (1) Coverage Results" MODIFIED="1521813894863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$classifier_train.coverage" NAME="classifier_train Coverage Results" MODIFIED="1522648368245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$runner.coverage" NAME="runner Coverage Results" MODIFIED="1522932986739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/tf-adnet-tracking-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$nn4.coverage" NAME="nn4 Coverage Results" MODIFIED="1521812271188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-master/tmp" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$stylenet_patch.coverage" NAME="stylenet_patch Coverage Results" MODIFIED="1522945294386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/stylenet-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$xml_to_csv.coverage" NAME="xml_to_csv Coverage Results" MODIFIED="1522298371016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/tensorflow_toy_detector" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$dataset_util.coverage" NAME="dataset_util Coverage Results" MODIFIED="1522077047673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/research/object_detection/utils" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$.coverage" NAME="下载数据集 Coverage Results" MODIFIED="1521040043613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow迁移学习实现-基于inception-v3模型训练自己的模型" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$retrain.coverage" NAME="retrain Coverage Results" MODIFIED="1522510264948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/tfClassifier-master/image_classification" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$util.coverage" NAME="util Coverage Results" MODIFIED="1521967678860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/tutorials/rnn/ptb" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$demo_image__1_.coverage" NAME="demo_image (1) Coverage Results" MODIFIED="1522919180350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$my_face_detection_test.coverage" NAME="my_face_detection_test Coverage Results" MODIFIED="1522649642500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-master/src" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$simple_word2vec.coverage" NAME="simple_word2vec Coverage Results" MODIFIED="1521372029043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_text_recognition" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$py_test_in_box_coder_builder_test_py.coverage" NAME="py.test in box_coder_builder_test.py Coverage Results" MODIFIED="1521962840188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/TensorFlow-models-master/object_detection/builders" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$RNN.coverage" NAME="递归神经网络RNN Coverage Results" MODIFIED="1542558280669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_TensorFlow_demos" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$my_align_dataset_mtcnn__1_.coverage" NAME="my_align_dataset_mtcnn (1) Coverage Results" MODIFIED="1521889547503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$cifar10_utils.coverage" NAME="cifar10_utils Coverage Results" MODIFIED="1521967302568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/tutorials/image/cifar10_estimator" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$real_time_face_recognition.coverage" NAME="real_time_face_recognition Coverage Results" MODIFIED="1522924460799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$vgg19_trainable.coverage" NAME="vgg19_trainable Coverage Results" MODIFIED="1522771847104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/tensorflow-vgg-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$dump_caffe_layers.coverage" NAME="dump_caffe_layers Coverage Results" MODIFIED="1522684703722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation/model" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$train_model.coverage" NAME="train_model Coverage Results" MODIFIED="1521967697373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/tutorials/rnn/quickdraw" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$neural_style__1_.coverage" NAME="neural_style (1) Coverage Results" MODIFIED="1522939428156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/neural-style-tf-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$py_test_in_regression_test_py.coverage" NAME="py.test in regression_test.py Coverage Results" MODIFIED="1521973037146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/samples/cookbook/regression" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$real_time_face_recognition_multithreading_app.coverage" NAME="real_time_face_recognition_multithreading_app Coverage Results" MODIFIED="1522735348315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/tf-pose-estimation-master/src" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$py_test_in_word2vec_test_py.coverage" NAME="py.test in word2vec_test.py Coverage Results" MODIFIED="1521968595588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/tutorials/embedding" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$py_test_in_decov_loss_test_py.coverage" NAME="py.test in decov_loss_test.py Coverage Results" MODIFIED="1521786854190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-master/test" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$cifar10_train.coverage" NAME="cifar10_train Coverage Results" MODIFIED="1522063128004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/tutorials/image/cifar10" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$3_.coverage" NAME="3-验证码识别 Coverage Results" MODIFIED="1521352967375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_captcha_recognition" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$object_detection_faster_rcnn_inception_v2_tutorial__1_.coverage" NAME="object_detection_faster_rcnn_inception_v2_tutorial (1) Coverage Results" MODIFIED="1522326740140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/object_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$classifier.coverage" NAME="classifier Coverage Results" MODIFIED="1522509025593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/tfClassifier-master/image_classification" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$run_image_directory.coverage" NAME="run_image_directory Coverage Results" MODIFIED="1522921870606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$create_pascal2007_tf_record.coverage" NAME="create_pascal2007_tf_record Coverage Results" MODIFIED="1522142998702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/object_detection/datasets" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$real_time_body_pose_recognition_multithreading_app.coverage" NAME="real_time_body_pose_recognition_multithreading_app Coverage Results" MODIFIED="1522941392599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/tf-pose-estimation-master/src" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$neural_style.coverage" NAME="neural_style Coverage Results" MODIFIED="1522939055356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/neural-style-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$tensorboard.coverage" NAME="tensorboard可视化 Coverage Results" MODIFIED="1542728587407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_TensorFlow_demos/Visual_test" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$object_detection_app__1_.coverage" NAME="object_detection_app (1) Coverage Results" MODIFIED="1522157030835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/object_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$real_time_object_detection_multithreading_app.coverage" NAME="real_time_object_detection_multithreading_app Coverage Results" MODIFIED="1522505873343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/object_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1521786706942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-master/tmp" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$demo_image.coverage" NAME="demo_image Coverage Results" MODIFIED="1522927466574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$create_own_data_tf_record.coverage" NAME="create_own_data_tf_record Coverage Results" MODIFIED="1522238361798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/tensorflow_toy_detector" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$word2vec.coverage" NAME="word2vec Coverage Results" MODIFIED="1521968368572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/tutorials/embedding" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$CompositeVideoClips.coverage" NAME="CompositeVideoClips Coverage Results" MODIFIED="1522997674284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/video_prediction/push" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$py_test_in_test_generate_tfrecord_py.coverage" NAME="py.test in test_generate_tfrecord.py Coverage Results" MODIFIED="1522252005430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/tensorflow_toy_detector" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$classify_image.coverage" NAME="classify_image Coverage Results" MODIFIED="1521995403983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/tutorials/image/imagenet" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$custom_regression.coverage" NAME="custom_regression Coverage Results" MODIFIED="1521972963112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/samples/cookbook/regression" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$py_test_in_test_align_py.coverage" NAME="py.test in test_align.py Coverage Results" MODIFIED="1521786710749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-master/tmp" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$detect_face.coverage" NAME="detect_face Coverage Results" MODIFIED="1521788612683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_FaceNet_face_detect" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$MNIST.coverage" NAME="卷积神经网络应用于MNIST数据集分类 Coverage Results" MODIFIED="1542632601420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_TensorFlow_demos" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$multi_faces_gpu.coverage" NAME="multi-faces-gpu Coverage Results" MODIFIED="1521904079271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/face-detection-mtcnn-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$train.coverage" NAME="train Coverage Results" MODIFIED="1523121151451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/GeneGAN-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$setup.coverage" NAME="setup Coverage Results" MODIFIED="1522500045249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/Faster-RCNN_TF-master/lib" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$real_time_face_recognition2.coverage" NAME="real_time_face_recognition2 Coverage Results" MODIFIED="1522320463825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1522937126072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/object_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$train_softmax.coverage" NAME="train_softmax Coverage Results" MODIFIED="1521796897007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-master/src" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$object_detection_tutorial.coverage" NAME="object_detection_tutorial Coverage Results" MODIFIED="1522153685369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/object_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$demosafjdoijda.coverage" NAME="demosafjdoijda Coverage Results" MODIFIED="1521985294017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/research/object_detection/protos" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$py_test_in_restore_test_py.coverage" NAME="py.test in restore_test.py Coverage Results" MODIFIED="1521796975372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-master/test" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$nn_play__1_.coverage" NAME="nn_play (1) Coverage Results" MODIFIED="1522569359397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_TensorFlow_demos/Wechat_AutoJump-master/adb" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$classify_text.coverage" NAME="classify_text Coverage Results" MODIFIED="1522511977443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/tfClassifier-master/text_classification" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$googleinception_v3.coverage" NAME="下载google图像识别网络inception-v3 Coverage Results" MODIFIED="1521039571146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow迁移学习实现-基于inception-v3模型训练自己的模型" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$servicePort.coverage" NAME="servicePort Coverage Results" MODIFIED="1520507991283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$prediction_train.coverage" NAME="prediction_train Coverage Results" MODIFIED="1522993813382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/video_prediction" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$YOLO_tiny_tf.coverage" NAME="YOLO_tiny_tf Coverage Results" MODIFIED="1522474992724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/YOLO_tensorflow-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$trainer.coverage" NAME="trainer Coverage Results" MODIFIED="1522138521279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/object_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$box_coder_builder.coverage" NAME="box_coder_builder Coverage Results" MODIFIED="1521962604398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/TensorFlow-models-master/object_detection/builders" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$Dropout.coverage" NAME="Dropout Coverage Results" MODIFIED="1521980426799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$preprocess__1_.coverage" NAME="preprocess (1) Coverage Results" MODIFIED="1522642147333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/GeneGAN-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$YOLO_small_tf.coverage" NAME="YOLO_small_tf Coverage Results" MODIFIED="1522474855676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/YOLO_tensorflow-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$py_test_in_test_classifier_py.coverage" NAME="py.test in test_classifier.py Coverage Results" MODIFIED="1521788737624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_FaceNet_face_detect" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$YOLO_face_tf.coverage" NAME="YOLO_face_tf Coverage Results" MODIFIED="1522475590490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/YOLO_tensorflow-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$run_directory.coverage" NAME="run_directory Coverage Results" MODIFIED="1522754688656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/tf-pose-estimation-master/src" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$MNIST_Demo.coverage" NAME="MNIST_Demo Coverage Results" MODIFIED="1521980507614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$MNIST_.coverage" NAME="卷积神经网络应用于MNIST数据集分类_快速版 Coverage Results" MODIFIED="1542726356614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_TensorFlow_demos" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$cifar10_main.coverage" NAME="cifar10_main Coverage Results" MODIFIED="1521967219846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/tutorials/image/cifar10_estimator" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$annotate.coverage" NAME="annotate Coverage Results" MODIFIED="1522235621533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$TensorFlow_tutorials.coverage" NAME="TensorFlow_tutorials Coverage Results" MODIFIED="1522924631397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$real_time_object_detection_tutorial.coverage" NAME="real_time_object_detection_tutorial Coverage Results" MODIFIED="1522158713075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/object_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$4_captcha_test.coverage" NAME="4-captcha_test Coverage Results" MODIFIED="1521354715882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_captcha_recognition" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$my_face_detection_train__1_.coverage" NAME="my_face_detection_train (1) Coverage Results" MODIFIED="1521889942076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$openai_gym.coverage" NAME="openai_gym Coverage Results" MODIFIED="1522502921644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/tensorforce-master/examples" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$convert.coverage" NAME="convert Coverage Results" MODIFIED="1522777776168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/caffe-tensorflow-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$create_coco_tf_record.coverage" NAME="create_coco_tf_record Coverage Results" MODIFIED="1522668005522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$real_time_face_recognition__1_.coverage" NAME="real_time_face_recognition (1) Coverage Results" MODIFIED="1521901355891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/src" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$align_dataset_mtcnn.coverage" NAME="align_dataset_mtcnn Coverage Results" MODIFIED="1521809949046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-master/src/align" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$NonLine_Regression.coverage" NAME="NonLine_Regression Coverage Results" MODIFIED="1522134027765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$export_inference_graph.coverage" NAME="export_inference_graph Coverage Results" MODIFIED="1522993508085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/object_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$build_mscoco_data.coverage" NAME="build_mscoco_data Coverage Results" MODIFIED="1522064963750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/research/im2txt/im2txt/data" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$create_pascal2012_tf_record.coverage" NAME="create_pascal2012_tf_record Coverage Results" MODIFIED="1522650565900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$run_inference.coverage" NAME="run_inference Coverage Results" MODIFIED="1521977864445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/research/im2txt/im2txt" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$nn_play.coverage" NAME="nn_play Coverage Results" MODIFIED="1522555873028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_TensorFlow_demos/Wechat_AutoJump-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$audio_classification_train.coverage" NAME="audio_classification_train Coverage Results" MODIFIED="1521382263719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_audio_recognition" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$googleinception_v3__1_.coverage" NAME="下载google图像识别网络inception-v3并查看结构 (1) Coverage Results" MODIFIED="1520769955543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GoogleNet_inceptionV3_test" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$train_pose__1_.coverage" NAME="train_pose (1) Coverage Results" MODIFIED="1522932019550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation/training" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$object_detection_tutorial__1_.coverage" NAME="object_detection_tutorial (1) Coverage Results" MODIFIED="1522072845128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-race-cars-master/object_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$object_detection_app.coverage" NAME="object_detection_app Coverage Results" MODIFIED="1522156339807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/object_detector_app-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$retrain_new.coverage" NAME="retrain_new Coverage Results" MODIFIED="1522511787053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/tfClassifier-master/image_classification" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$automobile_data.coverage" NAME="automobile_data Coverage Results" MODIFIED="1521972848571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/samples/cookbook/regression" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$run_webcam.coverage" NAME="run_webcam Coverage Results" MODIFIED="1522735630367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/tf-pose-estimation-master/src" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$create_pet_tf_record.coverage" NAME="create_pet_tf_record Coverage Results" MODIFIED="1522250312988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/tensorflow_toy_detector" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$py_test_in_train_test_py.coverage" NAME="py.test in train_test.py Coverage Results" MODIFIED="1521787815104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-master/test" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$mtcnn_test.coverage" NAME="mtcnn_test Coverage Results" MODIFIED="1521791081292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-master/tmp" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$tensorboard__1_.coverage" NAME="tensorboard可视化 (1) Coverage Results" MODIFIED="1520655794946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Visual_test" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$ptb_word_lm.coverage" NAME="ptb_word_lm Coverage Results" MODIFIED="1521967656939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/tutorials/rnn/ptb" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$real_time_face_detection_and__recognition.coverage" NAME="real time face detection and  recognition Coverage Results" MODIFIED="1521807508707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/real_time_face_recognition-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$face_detection_classify_test.coverage" NAME="face_detection_classify_test Coverage Results" MODIFIED="1521905690810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$rmpe_server.coverage" NAME="rmpe_server Coverage Results" MODIFIED="1522760981780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation/py_rmpe_server" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$saver_save.coverage" NAME="saver_save Coverage Results" MODIFIED="1520782360930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/saver_restore" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$coco_model_faster_rcnn_inception_v2_tutorial.coverage" NAME="coco_model_faster_rcnn_inception_v2_tutorial Coverage Results" MODIFIED="1522937712067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/object_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$py_test_in_triplet_loss_test_py.coverage" NAME="py.test in triplet_loss_test.py Coverage Results" MODIFIED="1521791022751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-master/test" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$main.coverage" NAME="测试自己训练的模型main Coverage Results" MODIFIED="1522992434461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$real_time_face_recognition__2_.coverage" NAME="real_time_face_recognition (2) Coverage Results" MODIFIED="1521901446050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$train_classifier.coverage" NAME="train_classifier Coverage Results" MODIFIED="1521791886718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_FaceNet_face_detect" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$pycocoDemo.coverage" NAME="pycocoDemo Coverage Results" MODIFIED="1522650289993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$run_video.coverage" NAME="run_video Coverage Results" MODIFIED="1522755467989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/tf-pose-estimation-master/src" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$exporter.coverage" NAME="exporter Coverage Results" MODIFIED="1522993497057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/research/object_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$inception_v3.coverage" NAME="使用inception-v3做各种图像的识别 Coverage Results" MODIFIED="1522028468897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GoogleNet_inceptionV3_test" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$create_pascal_tf_record.coverage" NAME="create_pascal_tf_record Coverage Results" MODIFIED="1522074872848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/object_detection/datasets" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$real_time_feature_changing_multithreading_app.coverage" NAME="real_time_feature_changing_multithreading_app Coverage Results" MODIFIED="1523166267977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/GeneGAN-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$ripple_demo.coverage" NAME="ripple_demo Coverage Results" MODIFIED="1521961652571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_simulation_demos" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$generate_tfrecord.coverage" NAME="generate_tfrecord Coverage Results" MODIFIED="1522300073496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/tensorflow_toy_detector" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$demo.coverage" NAME="demo Coverage Results" MODIFIED="1522500845846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/Faster-RCNN_TF-master/tools" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$droplets.coverage" NAME="droplets Coverage Results" MODIFIED="1520507493097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$py_test_in_test_vgg19_trainable_py.coverage" NAME="py.test in test_vgg19_trainable.py Coverage Results" MODIFIED="1522772139715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/tensorflow-vgg-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$cifar10_eval.coverage" NAME="cifar10_eval Coverage Results" MODIFIED="1522065031052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/tutorials/image/cifar10" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$cutemg.coverage" NAME="cutemg Coverage Results" MODIFIED="1522780215073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_TensorFlow_demos/VideoAudioEMGViewer-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$train_pose.coverage" NAME="train_pose Coverage Results" MODIFIED="1522925023852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-master/training" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$rmpe_server_tester.coverage" NAME="rmpe_server_tester Coverage Results" MODIFIED="1522760964597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation/testing" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$create_text__1_.coverage" NAME="create_text (1) Coverage Results" MODIFIED="1522510236951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/object_detection/datasets/VOC_Maker_Tools" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$detection_mtcnn_test.coverage" NAME="detection_mtcnn_test Coverage Results" MODIFIED="1521904268635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$create_coco_tf_record__1_.coverage" NAME="create_coco_tf_record (1) Coverage Results" MODIFIED="1522212451728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/object_detection/datasets/cocoapi-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$grab_train_images.coverage" NAME="grab_train_images Coverage Results" MODIFIED="1521977192262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/research/video_prediction" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$face_detection_classify_train.coverage" NAME="face_detection_classify_train Coverage Results" MODIFIED="1522063017192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$run_checkpoint.coverage" NAME="run_checkpoint Coverage Results" MODIFIED="1522771313990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/tf-pose-estimation-master/src" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$py_test_in_test_detection_mtcnn_py.coverage" NAME="py.test in test_detection_mtcnn.py Coverage Results" MODIFIED="1521793050093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_FaceNet_face_detect" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$py_test_in_center_loss_test_py.coverage" NAME="py.test in center_loss_test.py Coverage Results" MODIFIED="1521786791970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-master/test" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$saver_restore.coverage" NAME="saver_restore Coverage Results" MODIFIED="1520782612762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/saver_restore" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$py_test_in_box_coder_builder_test_py__1_.coverage" NAME="py.test in box_coder_builder_test.py (1) Coverage Results" MODIFIED="1521966647898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/research/object_detection/builders" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1522646851062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/GeneGAN-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$cifar10_model.coverage" NAME="cifar10_model Coverage Results" MODIFIED="1521967296803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/tutorials/image/cifar10_estimator" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$face_detection.coverage" NAME="face-detection Coverage Results" MODIFIED="1521806264170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/face-detection-mtcnn-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$object_detection_multithreading.coverage" NAME="object_detection_multithreading Coverage Results" MODIFIED="1522157198511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/object_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$real_time_object_detection_app.coverage" NAME="real_time_object_detection_app Coverage Results" MODIFIED="1522937902547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/object_detection" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$eval.coverage" NAME="eval Coverage Results" MODIFIED="1522512595391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/cnn-text-classification-tf-master" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$dnn_regression.coverage" NAME="dnn_regression Coverage Results" MODIFIED="1521972997867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/samples/cookbook/regression" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$create_dataset.coverage" NAME="create_dataset Coverage Results" MODIFIED="1521967688997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/tutorials/rnn/quickdraw" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$mtcnn_test_pnet_dbg.coverage" NAME="mtcnn_test_pnet_dbg Coverage Results" MODIFIED="1521788195586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-master/tmp" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$classifier_test.coverage" NAME="classifier_test Coverage Results" MODIFIED="1521868420302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_FaceNet_face_detect" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$1_.coverage" NAME="1-验证码生成 Coverage Results" MODIFIED="1521287966156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_captcha_recognition" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$Mandelbrot_demo2.coverage" NAME="Mandelbrot_demo2 Coverage Results" MODIFIED="1521958662629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_simulation_demos" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$preprocessor_builder.coverage" NAME="preprocessor_builder Coverage Results" MODIFIED="1521985305025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Anaconda3/envs/tensorflow-gpu/Lib/site-packages/object_detection-0.1-py3.6.egg/object_detection/builders" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$reader.coverage" NAME="reader Coverage Results" MODIFIED="1521967667688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow-master/models-master/tutorials/rnn/ptb" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$Mandelbrot_demo.coverage" NAME="Mandelbrot_demo Coverage Results" MODIFIED="1521961038531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_simulation_demos" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$export_inference_graph__1_.coverage" NAME="export_inference_graph (1) Coverage Results" MODIFIED="1522250112987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/tensorflow_toy_detector" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1217750355">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TensorFlow_tutorials" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my_TensorFlow_demos/卷积神经网络应用于MNIST数据集分类_快速版.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="265" column="25" selection-start-line="265" selection-start-column="11" selection-end-line="265" selection-end-column="47" />
+              <folding>
+                <element signature="n#!!doc" />
+                <element signature="e#45#89#1" />
+                <element signature="e#517#528#0" />
+                <element signature="e#779#1209#0" />
+                <element signature="e#820#1209#0" />
+                <element signature="e#1255#1356#0" />
+                <element signature="e#1400#1480#0" />
+                <element signature="e#1508#1857#0" />
+                <element signature="e#1508#1576#0" />
+                <element signature="e#1889#1983#0" />
+                <element signature="e#2024#2321#0" />
+                <element signature="e#2205#2321#0" />
+                <element signature="e#2357#2888#0" />
+                <element signature="e#2922#3455#0" />
+                <element signature="e#3457#3493#0" />
+                <element signature="e#3573#4359#0" />
+                <element signature="e#4393#4770#0" />
+                <element signature="e#4718#4770#0" />
+                <element signature="e#4822#4995#0" />
+                <element signature="e#5176#5511#0" />
+                <element signature="e#5226#5340#0" />
+                <element signature="e#5385#5511#0" />
+                <element signature="e#5599#9018#0" />
+                <element signature="e#5964#6095#0" />
+                <element signature="e#6843#9018#0" />
+                <element signature="e#7601#7651#0" />
+                <element signature="e#7952#9018#0" />
+                <element signature="e#8307#8649#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my_TensorFlow_demos/Visual_test/tensorboard可视化.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gpu</find>
+      <find>cpu</find>
+      <find>pretrained_model</find>
+      <find>output_dir</find>
+      <find>kee</find>
+      <find>SAVE_INTERVAL</find>
+      <find>checkpoint_iteration_num</find>
+      <find>checkpoint_step</find>
+      <find>num_iterations</find>
+      <find>MODEL_DIR</find>
+      <find>convert_variables_to_constants</find>
+      <find>final_result</find>
+      <find>final_tensor_name</find>
+      <find>input_type</find>
+      <find>output_node_names</find>
+      <find>opti</find>
+      <find>name</find>
+      <find>self</find>
+      <find>stepsize</find>
+      <find>saver</find>
+      <find>model_dir</find>
+      <find>output_dir_name</find>
+      <find>variable_scope</find>
+      <find>tf.AUTO_REUSE</find>
+      <find>get_variable</find>
+      <find>conv1</find>
+      <find>Ax</find>
+      <find>is_tr</find>
+      <find>is_train</find>
+      <find>res</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>output_dir_path</replace>
+      <replace>True</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tf-example-api-master/tensorflow-vgg-master/test_vgg19_trainable.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/tensorflow-vgg-master/vgg19_trainable.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/tf-pose-estimation-master/src/networks.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/tensorflow-vgg-master/stylenet-master/stylenet_patch.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/tensorflow-vgg-master/stylenet-master/custom_vgg19.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/stylenet-master/tensorflow_vgg/test_vgg19_trainable.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/stylenet-master/custom_vgg19.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/stylenet-master/stylenet_core.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/caffe-tensorflow-master/convert.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/caffe-tensorflow-master/kaffe/caffe/caffepb.py" />
+        <option value="$PROJECT_DIR$/my_TensorFlow_demos/VideoAudioEMGViewer-master/cutemg.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation/config_reader.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation/model.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-master/demo_image.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-master/model.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation/demo_image.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation/run_image_directory.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation/real_time_pose_recognition_multithreading_app.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation/real_time_face_recognition.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-master/training/inspect_dataset.ipynb" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-master/training/train_pose.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/dqn-master/dqn.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation/py_rmpe_server/rmpe_server.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation/training/coco_masks_hdf5.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation/training/train_pose.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/tf-adnet-tracking-master/runner.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/stylenet-master/tensorflow_vgg/vgg19.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/stylenet-master/tensorflow_vgg/vgg16.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/create_coco_tf_record.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/output_record/faster_rcnn_inception_v2_coco.config" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/output_record/faster_rcnn_resnet50_coco.config" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/output_record/ssd_inception_v2_coco.config" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/object_detection/train.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/object_detection/export_inference_graph.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/object_detection/coco_model_faster_rcnn_inception_v2_tutorial.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/neural-style-master/vgg.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/neural-style-master/neural_style.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/neural-style-tf-master/neural_style.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/stylenet-master/stylenet_patch.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/tf-pose-estimation-master/src/train.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/tf-pose-estimation-master/src/run_webcam.py" />
+        <option value="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/训练自己的数据集main.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/video_prediction/push/CompositeVideoClips.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/video_prediction/prediction_train.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/dataset.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/train.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/model2.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/test.py" />
+        <option value="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/face-detection-mtcnn-master/multi-faces-gpu.py" />
+        <option value="$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/real_time_feature_changing_multithreading_app.py" />
+        <option value="$PROJECT_DIR$/my_TensorFlow_demos/卷积神经网络应用于MNIST数据集分类_快速版.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/tensorflow-master/models-master/research/syntaxnet/dragnn/viz/package.json" />
+      <path value="$PROJECT_DIR$/tf-example-api-master/syntaxnet-master/dragnn/viz/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="150" />
+    <option name="y" value="-15" />
+    <option name="width" value="1200" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyInterpreterInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <autoscrollToSource ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TensorFlow_tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TensorFlow_tutorials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TensorFlow_tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TensorFlow_tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="my_TensorFlow_demos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TensorFlow_tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TensorFlow_tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="my_TensorFlow_demos" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TensorFlow_tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TensorFlow_tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="my_TensorFlow_demos" type="462c0819:PsiDirectoryNode" />
+              <item name="Visual_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="TensorFlow_tutorials" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="TensorFlow_tutorials" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\develop\PycharmProjects\TensorFlow_tutorials\tf-example-api-master\object_detection\datasets\cocoapi-master" />
+      <recent name="G:\develop\PycharmProjects\TensorFlow_tutorials\tf-example-api-master\stylenet-master\tensorflow_vgg" />
+      <recent name="G:\develop\PycharmProjects\TensorFlow_tutorials\tf-example-api-master\stylenet-master\test_data" />
+      <recent name="G:\develop\PycharmProjects\TensorFlow_tutorials\tf-example-api-master\stylenet-master" />
+      <recent name="G:\develop\PycharmProjects\TensorFlow_tutorials\tf-example-api-master" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\develop\PycharmProjects\TensorFlow_tutorials\tf-example-api-master\GeneGAN-master" />
+      <recent name="G:\develop\PycharmProjects\TensorFlow_tutorials\tf-example-api-master\keras_Realtime_Multi-Person_Pose_Estimation-new-generation" />
+      <recent name="G:\develop\PycharmProjects\TensorFlow_tutorials\tf-example-api-master\keras_Realtime_Multi-Person_Pose_Estimation-master\model" />
+      <recent name="G:\develop\PycharmProjects\TensorFlow_tutorials\tf-example-api-master" />
+      <recent name="G:\develop\PycharmProjects\TensorFlow_tutorials\tf-example-api-master\tf-pose-estimation-master\etcs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.tensorboard可视化">
+    <configuration name="download_and_preprocess_mscoco.sh" type="BashConfigurationType" factoryName="Bash">
+      <module name="TensorFlow_tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="c:\cygwin\bin\bash.exe" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow-master/models-master/research/im2txt/im2txt/data" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow-master/models-master/research/im2txt/im2txt/data/download_and_preprocess_mscoco.sh" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stylize_image.sh" type="BashConfigurationType" factoryName="Bash">
+      <module name="TensorFlow_tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="c:\cygwin\bin\bash.exe" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf-example-object-detection-api-master/neural-style-tf-master" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf-example-object-detection-api-master/neural-style-tf-master/stylize_image.sh" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="卷积神经网络应用于MNIST数据集分类" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TensorFlow_tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_TensorFlow_demos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_TensorFlow_demos/卷积神经网络应用于MNIST数据集分类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="卷积神经网络应用于MNIST数据集分类_快速版" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TensorFlow_tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_TensorFlow_demos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_TensorFlow_demos/卷积神经网络应用于MNIST数据集分类_快速版.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="递归神经网络RNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TensorFlow_tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_TensorFlow_demos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_TensorFlow_demos/递归神经网络RNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="real_time_feature_changing_multithreading_app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TensorFlow_tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf-example-api-master/GeneGAN-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/real_time_feature_changing_multithreading_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tensorboard可视化" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TensorFlow_tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_TensorFlow_demos/Visual_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_TensorFlow_demos/Visual_test/tensorboard可视化.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TensorFlow_tutorials" type="Python.Ipnb" factoryName="Jupyter Notebook">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TensorFlow_tutorials" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
+    <list>
+      <item itemvalue="Bash.download_and_preprocess_mscoco.sh" />
+      <item itemvalue="Bash.stylize_image.sh" />
+      <item itemvalue="Python.real_time_feature_changing_multithreading_app" />
+      <item itemvalue="Python.卷积神经网络应用于MNIST数据集分类_快速版" />
+      <item itemvalue="Python.递归神经网络RNN" />
+      <item itemvalue="Python.卷积神经网络应用于MNIST数据集分类" />
+      <item itemvalue="Python.tensorboard可视化" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tensorboard可视化" />
+        <item itemvalue="Python.卷积神经网络应用于MNIST数据集分类_快速版" />
+        <item itemvalue="Python.卷积神经网络应用于MNIST数据集分类" />
+        <item itemvalue="Python.递归神经网络RNN" />
+        <item itemvalue="Python.real_time_feature_changing_multithreading_app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d2783a1-3709-430b-853a-98504b02a33a" name="Default" comment="" />
+      <created>1520413527866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520413527866</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_in_test_detection_mtcnn_py - 2018.03.23 at 16h 17m 33s.xml">
+      <configuration name="py.test in test_detection_mtcnn.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_generate_tfrecord_py - 2018.03.28 at 23h 46m 51s.xml">
+      <configuration name="py.test in test_generate_tfrecord.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_vgg19_trainable_py - 2018.04.04 at 00h 03m 33s.xml">
+      <configuration name="py.test in test_vgg19_trainable.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_vgg19_trainable_py - 2018.04.04 at 00h 05m 57s.xml">
+      <configuration name="py.test in test_vgg19_trainable.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_vgg19_trainable_py - 2018.04.04 at 00h 07m 40s.xml">
+      <configuration name="py.test in test_vgg19_trainable.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_vgg19_trainable_py - 2018.04.04 at 00h 08m 50s.xml">
+      <configuration name="py.test in test_vgg19_trainable.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_vgg19_trainable_py - 2018.04.04 at 00h 11m 09s.xml">
+      <configuration name="py.test in test_vgg19_trainable.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_vgg19_trainable_py - 2018.04.04 at 00h 12m 23s.xml">
+      <configuration name="py.test in test_vgg19_trainable.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_vgg19_trainable_py - 2018.04.04 at 00h 15m 51s.xml">
+      <configuration name="py.test in test_vgg19_trainable.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_word2vec_test_py - 2018.03.25 at 17h 03m 18s.xml">
+      <configuration name="py.test in word2vec_test.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" x="848" y="166" width="224" height="697" id="Project" order="0" sideWeight="0.49328858" visible="true" weight="0.26925653" />
+      <window_info id="Structure" order="1" weight="0.24983256" />
+      <window_info id="Favorites" order="2" sideWeight="0.5067114" side_tool="true" weight="0.17679559" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3091335" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.61888814" weight="0.37199435" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35219237" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4967811" weight="0.3592645" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.38111186" side_tool="true" weight="0.37199435" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.36633664" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.3290398" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3299356" />
+      <window_info anchor="right" id="R Packages" order="4" weight="0.3299356" />
+      <window_info anchor="right" id="R Graphics" order="5" weight="0.3299356" />
+      <window_info anchor="right" x="0" y="0" width="434" height="848" id="Documentation" order="6" weight="0.3299356" />
+      <window_info anchor="right" auto_hide="true" x="1292" y="146" width="615" height="525" id="SciView" order="7" show_stripe_button="false" type="FLOATING" weight="0.42328325" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21190988" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" visible="true" weight="0.24121779" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4145199" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5032189" side_tool="true" weight="0.3290398" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.3676815" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4967811" weight="0.3290398" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Packages" order="3" weight="0.3299356" />
+      <window_info anchor="right" id="R Graphics" order="4" weight="0.3299356" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3299356" />
+      <window_info anchor="right" x="1184" y="184" width="615" height="525" id="SciView" order="6" weight="0.2886266" />
+      <window_info anchor="right" x="0" y="0" width="434" height="848" id="Documentation" order="7" weight="0.3299356" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TensorFlow迁移学习实现-基于inception-v3模型训练自己的模型/train_own_datasets/训练自己的数据集main.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TensorFlow迁移学习实现-基于inception-v3模型训练自己的模型/train_own_datasets/训练自己的数据集main.py</url>
+          <line>138</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TensorFlow迁移学习实现-基于inception-v3模型训练自己的模型/train_own_datasets/训练自己的数据集main.py</url>
+          <line>172</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TensorFlow迁移学习实现-基于inception-v3模型训练自己的模型/train_own_datasets/训练自己的数据集main.py</url>
+          <line>202</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TensorFlow迁移学习实现-基于inception-v3模型训练自己的模型/train_own_datasets/训练自己的数据集main.py</url>
+          <line>221</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tensorflow-master/models-master/research/video_prediction/grab_train_images.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tf-example-object-detection-api-master/tensorflow_toy_detector/create_pet_tf_record.py</url>
+          <line>184</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tf-example-object-detection-api-master/tensorflow_train_owndata_detector/generate_tfrecord.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tf-example-object-detection-api-master/object_detection/object_detection_faster_rcnn_inception_v2_tutorial.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tf-example-api-master/caffe-tensorflow-master/kaffe/caffe/resolver.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-master/config_reader.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tf-example-api-master/dqn-master/dqn.py</url>
+          <line>298</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tf-example-api-master/neural-style-master/vgg.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tensorflow-master/models-master/research/object_detection/exporter.py</url>
+          <line>410</line>
+          <option name="timeStamp" value="310" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="vocab._vocab" />
+        <watch expression="obj" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/video_prediction/push_datafiles.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5947" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/video_prediction/push_listing.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5947" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-848863243/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/../../Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/platform/tf_logging.py" />
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/tf-pose-estimation-master/src/run_webcam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/platform/app.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="1667" selection-start-line="1667" selection-end-line="1667" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/framework/graph_util.py" />
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/object_detection/real_time_object_detection_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1270">
+          <caret line="37" column="16" lean-forward="true" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/video_prediction/prediction_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1898">
+          <caret line="252" column="32" selection-start-line="252" selection-start-column="32" selection-end-line="252" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow-master/models-master/research/object_detection/exporter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="412" column="41" lean-forward="true" selection-start-line="412" selection-start-column="41" selection-end-line="412" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/object_detection/export_inference_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="161" column="24" lean-forward="true" selection-start-line="161" selection-start-column="24" selection-end-line="161" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/video_prediction/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Anaconda3/envs/tensorflow-gpu/Lib/site-packages/moviepy/video/io/VideoFileClip.py" />
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/video_prediction/push/CompositeVideoClips.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/output/interpolation.jpg" />
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/video_prediction/prediction_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="279" selection-start-line="279" selection-end-line="281" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation/training/Canonical.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-739">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation/training/train_common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation/training/train_pose.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-460">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/tf-pose-estimation-master/.dockerignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/tf-pose-estimation-master/src/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2500">
+          <caret line="163" column="9" selection-start-line="163" selection-start-column="9" selection-end-line="163" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/测试自己训练的模型main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="69" column="6" lean-forward="true" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/训练自己的数据集main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="278" column="4" lean-forward="true" selection-start-line="278" selection-start-column="4" selection-end-line="278" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-4164" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Anaconda3/envs/tensorflow-gpu/Lib/site-packages/scipy/misc/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/model2.py" />
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/object_detection/real_time_object_detection_multithreading_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-501">
+          <caret line="95" column="63" lean-forward="true" selection-start-line="95" selection-start-column="63" selection-end-line="95" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/output/feature_Eyeglasses/four_matrix.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/output/feature_Young/four_matrix.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/output/feature_Young/swap_out2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/output/feature_Young/swap_out1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="199" column="19" lean-forward="true" selection-start-line="199" selection-start-column="19" selection-end-line="199" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="134" column="22" selection-start-line="134" selection-start-column="17" selection-end-line="134" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="92" column="64" lean-forward="true" selection-start-line="92" selection-start-column="64" selection-end-line="92" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/real_time_face_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation/real_time_pose_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1654">
+          <caret line="297" column="45" lean-forward="true" selection-start-line="297" selection-start-column="45" selection-end-line="297" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/tf-pose-estimation-master/src/real_time_body_pose_recognition_multithreading_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-229">
+          <caret line="113" column="25" selection-start-line="113" selection-start-column="25" selection-end-line="113" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/face-detection-mtcnn-master/multi-faces-gpu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="45" selection-start-line="45" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/output/feature_Eyeglasses/interpolation.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/output/feature_Eyeglasses/ori_img.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/output/feature_Eyeglasses/swap_out1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/output/feature_Eyeglasses/swap_out2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/preprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="172" column="73" lean-forward="true" selection-start-line="172" selection-start-column="73" selection-end-line="172" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/real_time_feature_changing_multithreading_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="395" column="45" lean-forward="true" selection-start-line="395" selection-start-column="45" selection-end-line="395" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/real_time_face_recognition_multithreading_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_TensorFlow_demos/递归神经网络RNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1267">
+          <caret line="66" column="55" lean-forward="true" selection-start-line="66" selection-start-column="55" selection-end-line="66" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_TensorFlow_demos/卷积神经网络应用于MNIST数据集分类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="280" column="47" selection-start-line="280" selection-start-column="47" selection-end-line="280" selection-end-column="47" />
+          <folding>
+            <element signature="e#91#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_TensorFlow_demos/卷积神经网络应用于MNIST数据集分类_快速版.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="265" column="25" selection-start-line="265" selection-start-column="11" selection-end-line="265" selection-end-column="47" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#45#89#1" />
+            <element signature="e#517#528#0" />
+            <element signature="e#779#1209#0" />
+            <element signature="e#820#1209#0" />
+            <element signature="e#1255#1356#0" />
+            <element signature="e#1400#1480#0" />
+            <element signature="e#1508#1857#0" />
+            <element signature="e#1508#1576#0" />
+            <element signature="e#1889#1983#0" />
+            <element signature="e#2024#2321#0" />
+            <element signature="e#2205#2321#0" />
+            <element signature="e#2357#2888#0" />
+            <element signature="e#2922#3455#0" />
+            <element signature="e#3457#3493#0" />
+            <element signature="e#3573#4359#0" />
+            <element signature="e#4393#4770#0" />
+            <element signature="e#4718#4770#0" />
+            <element signature="e#4822#4995#0" />
+            <element signature="e#5176#5511#0" />
+            <element signature="e#5226#5340#0" />
+            <element signature="e#5385#5511#0" />
+            <element signature="e#5599#9018#0" />
+            <element signature="e#5964#6095#0" />
+            <element signature="e#6843#9018#0" />
+            <element signature="e#7601#7651#0" />
+            <element signature="e#7952#9018#0" />
+            <element signature="e#8307#8649#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_TensorFlow_demos/Visual_test/tensorboard可视化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
