@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e5d9e7c-930f-4006-9af8-6e364891f1cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MNISTClassification/12_Softmax_regression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MNISTClassification/13_saving_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MNISTClassification/14_restoring_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MNISTClassification/16_DNN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linearRegression/00_tensorflow_version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linearRegression/01_first_graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linearRegression/02_better_session_run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linearRegression/03_global_variables_initializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linearRegression/04_interactive_session.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linearRegression/05_manager_graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linearRegression/06_lifecycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linearRegression/07_linear_regression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linearRegression/08_manually_gradients.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linearRegression/09_autodiff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linearRegression/10_using_optimizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linearRegression/11_placeholder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0e5d9e7c-930f-4006-9af8-6e364891f1cd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,29 +74,25 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-2063738310">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="MachineLearning" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNISTClassification/16_DNN.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MNISTClassification/12_Softmax_regression.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="481">
-              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
               <folding>
                 <element signature="e#75#133#0" expanded="true" />
               </folding>
@@ -169,17 +145,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="ML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ML" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="linearRegression" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="ML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ML" type="462c0819:PsiDirectoryNode" />
               <item name="MNISTClassification" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -362,7 +333,7 @@
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4957806" visible="true" weight="0.15405224" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4957806" visible="true" weight="0.15606162" />
       <window_info id="Structure" order="1" sideWeight="0.5042194" side_tool="true" weight="0.17682518" />
       <window_info id="Favorites" order="2" sideWeight="0.5021097" side_tool="true" weight="0.17682518" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -505,7 +476,7 @@
     <entry file="file://$PROJECT_DIR$/MNISTClassification/16_DNN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
@@ -515,7 +486,7 @@
     <entry file="file://$PROJECT_DIR$/MNISTClassification/12_Softmax_regression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="481">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
           <folding>
             <element signature="e#75#133#0" expanded="true" />
           </folding>
