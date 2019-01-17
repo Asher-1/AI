@@ -1,7 +1,323 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d2783a1-3709-430b-853a-98504b02a33a" name="Default" comment="" />
+    <list default="true" id="6d2783a1-3709-430b-853a-98504b02a33a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/.idea/tutorialsDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/NeuralNetwork/HandwrittenDigitsRecognition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/NeuralNetwork/NeuralNetwork.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/NeuralNetwork/SimpleTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/NeuralNetwork/VisualizeDigits.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/NeuralNetwork/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/SVM/SVM.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/SVM/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/demo1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CalTextNum/Cal_Text_Num.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CalTextNum/Cal_rows_num.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CalTextNum/extract_mainText.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CalTextNum/media/abc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/Create_random_num.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/media/KhmerOS.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/AzKI.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/CAle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/EFfa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/LUSV.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/XdjZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/ZrXB.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/aAuO.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/ebTE.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/fVNL.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/kwfr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/mITU.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/reOD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/wNrl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/zKAG.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/zrOC.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/im_explorer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/imageDownloader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/img/res.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/img/res18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/img/res19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/img/res2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/img/res24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/img/res27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/img/res3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/img/res49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/img/res51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/out.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/destdir/res.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/destdir/res18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/destdir/res19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/destdir/res2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/destdir/res24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/destdir/res27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/destdir/res3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/destdir/res49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/destdir/res51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/img/res.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/img/res18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/img/res19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/img/res2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/img/res24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/img/res27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/img/res3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/img/res49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/img/res51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/processor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/expython/Itcastcpp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/expython/Itcastcpp.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/expython/Itcastcpp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/expython/Itcastcppwrapper.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/expython/build/temp.win-amd64-3.6/Release/Itcastcpp.cp36-win_amd64.def" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/expython/build/temp.win-amd64-3.6/Release/itcastcpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/expython/build/temp.win-amd64-3.6/Release/itcastcppwrapper.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/expython/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/1.ttc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/10.TTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/11.TTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/12.TTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/13.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/14.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/15.TTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/16.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/17.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/18.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/19.TTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/2.TTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/20.TTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/21.TTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/22.TTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/23.TTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/24.TTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/25.TTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/26.TTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/27.TTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/28.TTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/3.TTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/4.TTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/5.ttc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/6.TTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/7.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/8.TTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/9.ttc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res33.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res36.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res37.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res58.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res61.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res62.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res64.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/0_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/10_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/11_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/12_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/13_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/14_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/15_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/16_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/17_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/18_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/19_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/1_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/20_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/21_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/22_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/23_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/24_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/25_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/26_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/27_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/28_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/29_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/2_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/30_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/31_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/32_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/33_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/34_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/35_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/36_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/37_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/38_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/39_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/3_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/40_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/41_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/42_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/43_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/44_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/45_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/46_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/47_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/48_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/49_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/4_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/50_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/51_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/52_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/53_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/54_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/55_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/56_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/57_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/58_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/59_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/5_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/60_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/6_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/7_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/8_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/9_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/put_Text_On_Image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/web/get_and_post.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/web/get_visitors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/web/xwp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/Hierarchical_Clustering.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000051.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000052.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000055.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000056.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000057.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000059.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000062.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000063.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000065.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000066.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000067.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000068.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000069.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000070.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000071.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000072.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000073.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000074.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000075.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/tree.jpg" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,61 +550,42 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1082101590">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Dockerfile" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1478734568">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="TensorFlow_tutorials" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my_TensorFlow_demos/卷积神经网络应用于MNIST数据集分类_快速版.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="265" column="25" selection-start-line="265" selection-start-column="11" selection-end-line="265" selection-end-column="47" />
-              <folding>
-                <element signature="n#!!doc" />
-                <element signature="e#45#89#1" />
-                <element signature="e#517#528#0" />
-                <element signature="e#779#1209#0" />
-                <element signature="e#820#1209#0" />
-                <element signature="e#1255#1356#0" />
-                <element signature="e#1400#1480#0" />
-                <element signature="e#1508#1857#0" />
-                <element signature="e#1508#1576#0" />
-                <element signature="e#1889#1983#0" />
-                <element signature="e#2024#2321#0" />
-                <element signature="e#2205#2321#0" />
-                <element signature="e#2357#2888#0" />
-                <element signature="e#2922#3455#0" />
-                <element signature="e#3457#3493#0" />
-                <element signature="e#3573#4359#0" />
-                <element signature="e#4393#4770#0" />
-                <element signature="e#4718#4770#0" />
-                <element signature="e#4822#4995#0" />
-                <element signature="e#5176#5511#0" />
-                <element signature="e#5226#5340#0" />
-                <element signature="e#5385#5511#0" />
-                <element signature="e#5599#9018#0" />
-                <element signature="e#5964#6095#0" />
-                <element signature="e#6843#9018#0" />
-                <element signature="e#7601#7651#0" />
-                <element signature="e#7952#9018#0" />
-                <element signature="e#8307#8649#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/my_TensorFlow_demos/Visual_test/tensorboard可视化.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -334,6 +631,9 @@
       <replace>output_dir_path</replace>
       <replace>True</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -406,15 +706,14 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/tensorflow-master/models-master/research/syntaxnet/dragnn/viz/package.json" />
       <path value="$PROJECT_DIR$/tf-example-api-master/syntaxnet-master/dragnn/viz/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="150" />
+    <option name="x" value="-15" />
     <option name="y" value="-15" />
-    <option name="width" value="1200" />
-    <option name="height" value="780" />
+    <option name="width" value="2870" />
+    <option name="height" value="1700" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -433,6 +732,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <showMembers ProjectPane="true" />
@@ -451,19 +751,7 @@
             <path>
               <item name="TensorFlow_tutorials" type="b2602c69:ProjectViewProjectNode" />
               <item name="TensorFlow_tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="my_TensorFlow_demos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TensorFlow_tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TensorFlow_tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="my_TensorFlow_demos" type="462c0819:PsiDirectoryNode" />
-              <item name="logs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TensorFlow_tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TensorFlow_tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="my_TensorFlow_demos" type="462c0819:PsiDirectoryNode" />
-              <item name="Visual_test" type="462c0819:PsiDirectoryNode" />
+              <item name="tf-example-api-master" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -473,9 +761,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ML" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -739,9 +1027,9 @@
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" x="848" y="166" width="224" height="697" id="Project" order="0" sideWeight="0.49328858" visible="true" weight="0.26925653" />
-      <window_info id="Structure" order="1" weight="0.24983256" />
-      <window_info id="Favorites" order="2" sideWeight="0.5067114" side_tool="true" weight="0.17679559" />
+      <window_info active="true" content_ui="combo" x="848" y="166" width="224" height="697" id="Project" order="0" sideWeight="0.49328858" visible="true" weight="0.1574012" />
+      <window_info id="Structure" order="1" sideWeight="0.49433428" weight="0.24983256" />
+      <window_info id="Favorites" order="2" sideWeight="0.5056657" side_tool="true" weight="0.24983256" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3091335" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.61888814" weight="0.37199435" />
@@ -751,7 +1039,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4967811" weight="0.3592645" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.38111186" side_tool="true" weight="0.37199435" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.38111186" side_tool="true" weight="0.3711048" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.36633664" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.3290398" />
@@ -887,11 +1175,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tf-example-api-master/video_prediction/push_datafiles.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5947" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tf-example-api-master/video_prediction/push_listing.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5947" />
@@ -929,13 +1212,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow-master/models-master/research/object_detection/exporter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="412" column="41" lean-forward="true" selection-start-line="412" selection-start-column="41" selection-end-line="412" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow-master/models-master/research/object_detection/exporter.py" />
     <entry file="file://$PROJECT_DIR$/tf-example-api-master/object_detection/export_inference_graph.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
@@ -952,13 +1229,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../Anaconda3/envs/tensorflow-gpu/Lib/site-packages/moviepy/video/io/VideoFileClip.py" />
-    <entry file="file://$PROJECT_DIR$/tf-example-api-master/video_prediction/push/CompositeVideoClips.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/video_prediction/push/CompositeVideoClips.py" />
     <entry file="file://$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/output/interpolation.jpg" />
     <entry file="file://$PROJECT_DIR$/tf-example-api-master/video_prediction/prediction_train.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1137,46 +1408,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="280" column="47" selection-start-line="280" selection-start-column="47" selection-end-line="280" selection-end-column="47" />
-          <folding>
-            <element signature="e#91#114#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_TensorFlow_demos/卷积神经网络应用于MNIST数据集分类_快速版.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="265" column="25" selection-start-line="265" selection-start-column="11" selection-end-line="265" selection-end-column="47" />
-          <folding>
-            <element signature="n#!!doc" />
-            <element signature="e#45#89#1" />
-            <element signature="e#517#528#0" />
-            <element signature="e#779#1209#0" />
-            <element signature="e#820#1209#0" />
-            <element signature="e#1255#1356#0" />
-            <element signature="e#1400#1480#0" />
-            <element signature="e#1508#1857#0" />
-            <element signature="e#1508#1576#0" />
-            <element signature="e#1889#1983#0" />
-            <element signature="e#2024#2321#0" />
-            <element signature="e#2205#2321#0" />
-            <element signature="e#2357#2888#0" />
-            <element signature="e#2922#3455#0" />
-            <element signature="e#3457#3493#0" />
-            <element signature="e#3573#4359#0" />
-            <element signature="e#4393#4770#0" />
-            <element signature="e#4718#4770#0" />
-            <element signature="e#4822#4995#0" />
-            <element signature="e#5176#5511#0" />
-            <element signature="e#5226#5340#0" />
-            <element signature="e#5385#5511#0" />
-            <element signature="e#5599#9018#0" />
-            <element signature="e#5964#6095#0" />
-            <element signature="e#6843#9018#0" />
-            <element signature="e#7601#7651#0" />
-            <element signature="e#7952#9018#0" />
-            <element signature="e#8307#8649#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1184,6 +1415,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="507">
           <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf-example-api-master/syntaxnet-master/dragnn/viz/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="80" selection-start-line="4" selection-start-column="80" selection-end-line="4" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_TensorFlow_demos/卷积神经网络应用于MNIST数据集分类_快速版.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
         </state>
       </provider>
     </entry>
