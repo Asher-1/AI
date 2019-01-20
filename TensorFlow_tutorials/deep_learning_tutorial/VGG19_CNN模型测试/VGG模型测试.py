@@ -83,7 +83,7 @@ print("Network for VGG ready")
 
 # start
 # cwd = os.getcwd()
-model_path = "D:/develop/workstations/GitHub/Datasets/DL/VGG_Model/vgg_19/"
+model_path = "D:/develop/workstations/GitHub/Datasets/pretrained_models/VGG_Model/vgg_19/"
 VGG_PATH = model_path + "imagenet-vgg-verydeep-19.mat"
 IMG_PATH = model_path + "cat.jpg"
 input_image = imread(IMG_PATH)

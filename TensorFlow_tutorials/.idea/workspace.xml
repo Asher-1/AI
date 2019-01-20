@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d2783a1-3709-430b-853a-98504b02a33a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../ML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6d2783a1-3709-430b-853a-98504b02a33a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +29,7 @@
     <SUITE FILE_PATH="coverage/TensorFlow_tutorials$train__2_.coverage" NAME="train (2) Coverage Results" MODIFIED="1522514765461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_TensorFlow_demos/Wechat_AutoJump-master/cnn_coarse_to_fine/config/base.fine" />
     <SUITE FILE_PATH="coverage/TensorFlow_tutorials$retrain_model_classifier.coverage" NAME="retrain_model_classifier Coverage Results" MODIFIED="1522509054358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/tfClassifier-master/image_classification" />
     <SUITE FILE_PATH="coverage/TensorFlow_tutorials$real_time_pose_recognition_multithreading_app.coverage" NAME="real_time_pose_recognition_multithreading_app Coverage Results" MODIFIED="1522924160303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation" />
-    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$VGG.coverage" NAME="VGG模型测试 Coverage Results" MODIFIED="1547905147877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deep_learning_tutorial/VGG19_CNN模型测试" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$VGG.coverage" NAME="VGG模型测试 Coverage Results" MODIFIED="1547980016708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deep_learning_tutorial/VGG19_CNN模型测试" />
     <SUITE FILE_PATH="coverage/TensorFlow_tutorials$run.coverage" NAME="run Coverage Results" MODIFIED="1522751284584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/tf-pose-estimation-master/src" />
     <SUITE FILE_PATH="coverage/TensorFlow_tutorials$MusicDownloader.coverage" NAME="MusicDownloader Coverage Results" MODIFIED="1521187509496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TensorFlow_tutorials$cvwavplot.coverage" NAME="cvwavplot Coverage Results" MODIFIED="1522779688492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_TensorFlow_demos/VideoAudioEMGViewer-master" />
@@ -300,8 +297,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/deep_learning_tutorial/VGG19_CNN模型测试/VGG模型测试.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="86" column="54" lean-forward="true" selection-start-line="86" selection-start-column="54" selection-end-line="86" selection-end-column="54" />
+            <state relative-caret-position="630">
+              <caret line="95" column="34" lean-forward="true" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="34" />
               <folding>
                 <element signature="e#90#105#0" expanded="true" />
               </folding>
@@ -433,7 +430,7 @@
       <path value="$PROJECT_DIR$/tf-example-api-master/syntaxnet-master/dragnn/viz/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1975" />
     <option name="y" value="445" />
     <option name="width" value="1848" />
@@ -749,9 +746,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="790" y="178" width="739" height="542" extended-state="0" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="848" y="166" width="224" height="697" id="Project" order="0" sideWeight="0.49328858" visible="true" weight="0.28843337" />
+      <window_info active="true" content_ui="combo" x="848" y="166" width="224" height="697" id="Project" order="0" sideWeight="0.49328858" visible="true" weight="0.1319491" />
       <window_info id="Structure" order="1" sideWeight="0.49433428" weight="0.24983256" />
       <window_info id="Favorites" order="2" sideWeight="0.5056657" side_tool="true" weight="0.24983256" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1166,8 +1164,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/deep_learning_tutorial/VGG19_CNN模型测试/VGG模型测试.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="86" column="54" lean-forward="true" selection-start-line="86" selection-start-column="54" selection-end-line="86" selection-end-column="54" />
+        <state relative-caret-position="630">
+          <caret line="95" column="34" lean-forward="true" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="34" />
           <folding>
             <element signature="e#90#105#0" expanded="true" />
           </folding>
