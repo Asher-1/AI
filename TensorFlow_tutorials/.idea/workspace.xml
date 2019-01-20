@@ -311,7 +311,7 @@
         <entry file="file://$PROJECT_DIR$/deep_learning_tutorial/VGG19_CNN模型测试/VGG模型测试.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="331">
-              <caret line="103" column="31" lean-forward="true" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
+              <caret line="103" column="31" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
               <folding>
                 <element signature="e#90#105#0" expanded="true" />
               </folding>
@@ -770,6 +770,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" x="848" y="166" width="224" height="697" id="Project" order="0" sideWeight="0.49328858" visible="true" weight="0.17079705" />
       <window_info id="Structure" order="1" sideWeight="0.49433428" weight="0.24983256" />
@@ -1179,7 +1180,7 @@
     <entry file="file://$PROJECT_DIR$/deep_learning_tutorial/VGG19_CNN模型测试/VGG模型测试.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
-          <caret line="103" column="31" lean-forward="true" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
+          <caret line="103" column="31" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
           <folding>
             <element signature="e#90#105#0" expanded="true" />
           </folding>
