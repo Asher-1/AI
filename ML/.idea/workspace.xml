@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e5d9e7c-930f-4006-9af8-6e364891f1cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MNISTClassification/17_tensorboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MNISTClassification/12_Softmax_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/MNISTClassification/12_Softmax_regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MNISTClassification/13_saving_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/MNISTClassification/13_saving_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MNISTClassification/14_restoring_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/MNISTClassification/14_restoring_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MNISTClassification/16_DNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/MNISTClassification/16_DNN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linearRegression/07_linear_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/linearRegression/07_linear_regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linearRegression/08_manually_gradients.py" beforeDir="false" afterPath="$PROJECT_DIR$/linearRegression/08_manually_gradients.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linearRegression/09_autodiff.py" beforeDir="false" afterPath="$PROJECT_DIR$/linearRegression/09_autodiff.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linearRegression/10_using_optimizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/linearRegression/10_using_optimizer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/deep_learning_tutorial/VGG19_CNN模型测试/VGG模型测试.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/deep_learning_tutorial/VGG19_CNN模型测试/VGG模型测试.py" afterDir="false" />
-    </list>
+    <list default="true" id="0e5d9e7c-930f-4006-9af8-6e364891f1cd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +79,7 @@
     <session id="-2063738310">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.opened" value="2" />
@@ -123,20 +111,7 @@
     <favorites_list name="MachineLearning" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MNISTClassification/17_tensorboard.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="72" column="41" selection-start-line="71" selection-start-column="34" selection-end-line="72" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -164,7 +139,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2232" />
     <option name="y" value="400" />
     <option name="width" value="2003" />
@@ -363,8 +338,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
-    <editor active="true" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4957806" visible="true" weight="0.158071" />
       <window_info id="Structure" order="1" sideWeight="0.5042194" side_tool="true" weight="0.17682518" />
@@ -551,8 +525,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MNISTClassification/17_tensorboard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="72" column="41" selection-start-line="71" selection-start-column="34" selection-end-line="72" selection-end-column="41" />
+        <state relative-caret-position="200">
+          <caret line="74" column="30" lean-forward="true" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>

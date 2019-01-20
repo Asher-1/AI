@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d2783a1-3709-430b-853a-98504b02a33a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../ML/MNISTClassification/17_tensorboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/MNISTClassification/12_Softmax_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/MNISTClassification/12_Softmax_regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/MNISTClassification/13_saving_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/MNISTClassification/13_saving_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/MNISTClassification/14_restoring_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/MNISTClassification/14_restoring_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/MNISTClassification/16_DNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/MNISTClassification/16_DNN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/07_linear_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/linearRegression/07_linear_regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/08_manually_gradients.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/linearRegression/08_manually_gradients.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/09_autodiff.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/linearRegression/09_autodiff.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/10_using_optimizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/linearRegression/10_using_optimizer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep_learning_tutorial/VGG19_CNN模型测试/VGG模型测试.py" beforeDir="false" afterPath="$PROJECT_DIR$/deep_learning_tutorial/VGG19_CNN模型测试/VGG模型测试.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -307,24 +297,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/deep_learning_tutorial/VGG19_CNN模型测试/VGG模型测试.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="103" column="31" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
+            <state relative-caret-position="30">
+              <caret line="86" column="54" lean-forward="true" selection-start-line="86" selection-start-column="54" selection-end-line="86" selection-end-column="54" />
               <folding>
                 <element signature="e#90#105#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/facenet-master/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -453,11 +433,11 @@
       <path value="$PROJECT_DIR$/tf-example-api-master/syntaxnet-master/dragnn/viz/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="2232" />
-    <option name="y" value="400" />
-    <option name="width" value="2003" />
-    <option name="height" value="1595" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1975" />
+    <option name="y" value="445" />
+    <option name="width" value="1848" />
+    <option name="height" value="1355" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -769,10 +749,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
-    <editor active="true" />
+    <frame x="790" y="178" width="739" height="542" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" x="848" y="166" width="224" height="697" id="Project" order="0" sideWeight="0.49328858" visible="true" weight="0.17079705" />
+      <window_info active="true" content_ui="combo" x="848" y="166" width="224" height="697" id="Project" order="0" sideWeight="0.49328858" visible="true" weight="0.28843337" />
       <window_info id="Structure" order="1" sideWeight="0.49433428" weight="0.24983256" />
       <window_info id="Favorites" order="2" sideWeight="0.5056657" side_tool="true" weight="0.24983256" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1177,21 +1156,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deep_learning_tutorial/VGG19_CNN模型测试/VGG模型测试.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="103" column="31" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
-          <folding>
-            <element signature="e#90#105#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/facenet-master/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_learning_tutorial/VGG19_CNN模型测试/VGG模型测试.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="86" column="54" lean-forward="true" selection-start-line="86" selection-start-column="54" selection-end-line="86" selection-end-column="54" />
+          <folding>
+            <element signature="e#90#105#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
