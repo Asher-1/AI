@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler
 n_epochs = 2000
 learning_rate = 0.01
 
-housing = fetch_california_housing(data_home="D:/develop/workstations/GitHub/datasets/MachineLearning/linearRegression/scikit_learn_data", download_if_missing=True)
+housing = fetch_california_housing(data_home="D:/develop/workstations/GitHub/Datasets/ML/linearRegression/scikit_learn_data", download_if_missing=True)
 m, n = housing.data.shape
 housing_data_plus_bias = np.c_[np.ones((m, 1)), housing.data]
 # 可以使用TensorFlow或者Numpy或者sklearn的StandardScaler去进行归一化

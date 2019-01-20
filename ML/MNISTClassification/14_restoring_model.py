@@ -3,7 +3,7 @@ import tensorflow as tf
 
 __author__ = 'Asher'
 
-data_path = "D:/develop/workstations/GitHub/datasets/MachineLearning/MNISTClassification/"
+data_path = "D:/develop/workstations/GitHub/Datasets/ML/MNISTClassification/"
 
 # mn.SOURCE_URL = "http://yann.lecun.com/exdb/mnist/"
 my_mnist = input_data.read_data_sets(data_path + "MNIST_data_bak/", one_hot=True)

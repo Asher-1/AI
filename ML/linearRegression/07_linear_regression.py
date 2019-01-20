@@ -3,7 +3,7 @@ import numpy as np
 from sklearn.datasets import fetch_california_housing
 
 # 立刻下载数据集
-housing = fetch_california_housing(data_home="D:/develop/workstations/GitHub/datasets/MachineLearning/linearRegression/scikit_learn_data", download_if_missing=True)
+housing = fetch_california_housing(data_home="D:/develop/workstations/GitHub/Datasets/ML/linearRegression/scikit_learn_data", download_if_missing=True)
 # 获得X数据行数和列数
 m, n = housing.data.shape
 # 这里添加一个额外的bias输入特征(x0=1)到所有的训练数据上面，因为使用的numpy所有会立即执行

@@ -2,321 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d2783a1-3709-430b-853a-98504b02a33a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ML/MNISTClassification/17_tensorboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/MNISTClassification/12_Softmax_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/MNISTClassification/12_Softmax_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/MNISTClassification/13_saving_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/MNISTClassification/13_saving_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/MNISTClassification/14_restoring_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/MNISTClassification/14_restoring_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/MNISTClassification/16_DNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/MNISTClassification/16_DNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/07_linear_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/linearRegression/07_linear_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/08_manually_gradients.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/linearRegression/08_manually_gradients.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/09_autodiff.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/linearRegression/09_autodiff.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/10_using_optimizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/linearRegression/10_using_optimizer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/.idea/libraries/R_User_Library.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/.idea/other.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/.idea/tutorialsDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/NeuralNetwork/HandwrittenDigitsRecognition.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/NeuralNetwork/NeuralNetwork.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/NeuralNetwork/SimpleTest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/NeuralNetwork/VisualizeDigits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/NeuralNetwork/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/SVM/SVM.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/SVM/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/demo1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CalTextNum/Cal_Text_Num.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CalTextNum/Cal_rows_num.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CalTextNum/extract_mainText.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CalTextNum/media/abc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/Create_random_num.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/media/KhmerOS.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/AzKI.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/CAle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/EFfa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/LUSV.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/XdjZ.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/ZrXB.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/aAuO.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/ebTE.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/fVNL.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/kwfr.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/mITU.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/reOD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/wNrl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/zKAG.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/CreateRandomNum/outPut/zrOC.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/im_explorer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/imageDownloader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/img/res.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/img/res18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/img/res19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/img/res2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/img/res24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/img/res27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/img/res3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/img/res49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/img/res51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/ImageExplorer/out.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/destdir/res.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/destdir/res18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/destdir/res19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/destdir/res2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/destdir/res24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/destdir/res27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/destdir/res3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/destdir/res49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/destdir/res51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/img/res.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/img/res18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/img/res19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/img/res2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/img/res24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/img/res27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/img/res3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/img/res49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/img/res51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/changeImgScale/processor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/expython/Itcastcpp.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/expython/Itcastcpp.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/expython/Itcastcpp.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/expython/Itcastcppwrapper.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/expython/build/temp.win-amd64-3.6/Release/Itcastcpp.cp36-win_amd64.def" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/expython/build/temp.win-amd64-3.6/Release/itcastcpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/expython/build/temp.win-amd64-3.6/Release/itcastcppwrapper.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/expython/setup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/1.ttc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/10.TTC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/11.TTC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/12.TTC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/13.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/14.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/15.TTC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/16.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/17.TTF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/18.TTF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/19.TTC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/2.TTC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/20.TTC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/21.TTC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/22.TTC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/23.TTC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/24.TTC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/25.TTC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/26.TTC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/27.TTC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/28.TTC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/3.TTC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/4.TTC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/5.ttc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/6.TTC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/7.TTF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/8.TTC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/font/9.ttc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res33.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res36.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res37.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res50.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res52.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res55.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res56.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res57.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res58.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res59.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res60.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res61.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res62.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res63.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res64.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res65.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/img/res9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/0_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/10_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/11_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/12_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/13_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/14_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/15_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/16_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/17_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/18_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/19_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/1_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/20_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/21_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/22_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/23_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/24_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/25_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/26_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/27_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/28_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/29_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/2_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/30_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/31_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/32_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/33_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/34_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/35_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/36_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/37_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/38_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/39_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/3_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/40_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/41_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/42_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/43_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/44_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/45_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/46_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/47_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/48_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/49_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/4_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/50_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/51_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/52_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/53_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/54_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/55_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/56_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/57_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/58_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/59_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/5_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/60_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/6_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/7_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/8_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/outPut/9_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/imageChange/put_Text_On_Image.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/web/get_and_post.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/web/get_visitors.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/example/web/xwp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/Hierarchical_Clustering.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000011.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000013.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000014.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000016.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000017.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000018.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000019.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000020.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000021.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000022.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000023.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000025.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000026.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000027.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000028.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000029.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000030.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000031.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000032.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000033.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000034.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000035.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000036.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000037.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000038.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000039.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000040.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000041.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000042.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000043.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000044.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000045.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000046.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000047.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000048.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000049.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000050.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000051.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000052.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000053.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000054.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000055.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000056.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000057.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000058.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000059.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000060.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000061.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000062.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000063.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000064.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000065.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000066.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000067.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000068.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000069.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000070.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000071.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000072.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000073.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000074.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/img/000075.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorialDemo/hierarchical_clustering/tree.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deep_learning_tutorial/VGG19_CNN模型测试/VGG模型测试.py" beforeDir="false" afterPath="$PROJECT_DIR$/deep_learning_tutorial/VGG19_CNN模型测试/VGG模型测试.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -345,6 +42,7 @@
     <SUITE FILE_PATH="coverage/TensorFlow_tutorials$train__2_.coverage" NAME="train (2) Coverage Results" MODIFIED="1522514765461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_TensorFlow_demos/Wechat_AutoJump-master/cnn_coarse_to_fine/config/base.fine" />
     <SUITE FILE_PATH="coverage/TensorFlow_tutorials$retrain_model_classifier.coverage" NAME="retrain_model_classifier Coverage Results" MODIFIED="1522509054358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-object-detection-api-master/tfClassifier-master/image_classification" />
     <SUITE FILE_PATH="coverage/TensorFlow_tutorials$real_time_pose_recognition_multithreading_app.coverage" NAME="real_time_pose_recognition_multithreading_app Coverage Results" MODIFIED="1522924160303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/keras_Realtime_Multi-Person_Pose_Estimation-new-generation" />
+    <SUITE FILE_PATH="coverage/TensorFlow_tutorials$VGG.coverage" NAME="VGG模型测试 Coverage Results" MODIFIED="1547905147877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deep_learning_tutorial/VGG19_CNN模型测试" />
     <SUITE FILE_PATH="coverage/TensorFlow_tutorials$run.coverage" NAME="run Coverage Results" MODIFIED="1522751284584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf-example-api-master/tf-pose-estimation-master/src" />
     <SUITE FILE_PATH="coverage/TensorFlow_tutorials$MusicDownloader.coverage" NAME="MusicDownloader Coverage Results" MODIFIED="1521187509496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TensorFlow_tutorials$cvwavplot.coverage" NAME="cvwavplot Coverage Results" MODIFIED="1522779688492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_TensorFlow_demos/VideoAudioEMGViewer-master" />
@@ -575,8 +273,31 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="1" />
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="72" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="72" />
         </counts>
       </usages-collector>
     </session>
@@ -585,7 +306,30 @@
     <favorites_list name="TensorFlow_tutorials" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deep_learning_tutorial/VGG19_CNN模型测试/VGG模型测试.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="103" column="31" lean-forward="true" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
+              <folding>
+                <element signature="e#90#105#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/facenet-master/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -596,7 +340,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>gpu</find>
       <find>cpu</find>
       <find>pretrained_model</find>
       <find>output_dir</find>
@@ -626,6 +369,7 @@
       <find>is_tr</find>
       <find>is_train</find>
       <find>res</find>
+      <find>imsave</find>
     </findStrings>
     <replaceStrings>
       <replace>output_dir_path</replace>
@@ -638,7 +382,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tf-example-api-master/tensorflow-vgg-master/test_vgg19_trainable.py" />
         <option value="$PROJECT_DIR$/tf-example-api-master/tensorflow-vgg-master/vgg19_trainable.py" />
         <option value="$PROJECT_DIR$/tf-example-api-master/tf-pose-estimation-master/src/networks.py" />
         <option value="$PROJECT_DIR$/tf-example-api-master/tensorflow-vgg-master/stylenet-master/stylenet_patch.py" />
@@ -689,6 +432,7 @@
         <option value="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/face-detection-mtcnn-master/multi-faces-gpu.py" />
         <option value="$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/real_time_feature_changing_multithreading_app.py" />
         <option value="$PROJECT_DIR$/my_TensorFlow_demos/卷积神经网络应用于MNIST数据集分类_快速版.py" />
+        <option value="$PROJECT_DIR$/deep_learning_tutorial/VGG19_CNN模型测试/VGG模型测试.py" />
       </list>
     </option>
   </component>
@@ -709,11 +453,11 @@
       <path value="$PROJECT_DIR$/tf-example-api-master/syntaxnet-master/dragnn/viz/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-15" />
-    <option name="y" value="-15" />
-    <option name="width" value="2870" />
-    <option name="height" value="1700" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="2232" />
+    <option name="y" value="400" />
+    <option name="width" value="2003" />
+    <option name="height" value="1595" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -751,7 +495,7 @@
             <path>
               <item name="TensorFlow_tutorials" type="b2602c69:ProjectViewProjectNode" />
               <item name="TensorFlow_tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="tf-example-api-master" type="462c0819:PsiDirectoryNode" />
+              <item name="facenet-master" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -761,7 +505,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TensorFlowModels" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -801,7 +545,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tensorboard可视化">
+  <component name="RunManager" selected="Python.VGG模型测试">
     <configuration name="download_and_preprocess_mscoco.sh" type="BashConfigurationType" factoryName="Bash">
       <module name="TensorFlow_tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -890,7 +634,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="real_time_feature_changing_multithreading_app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="VGG模型测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TensorFlow_tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -898,12 +642,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf-example-api-master/GeneGAN-master" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deep_learning_tutorial/VGG19_CNN模型测试" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf-example-api-master/GeneGAN-master/real_time_feature_changing_multithreading_app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deep_learning_tutorial/VGG19_CNN模型测试/VGG模型测试.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -954,19 +698,19 @@
     <list>
       <item itemvalue="Bash.download_and_preprocess_mscoco.sh" />
       <item itemvalue="Bash.stylize_image.sh" />
-      <item itemvalue="Python.real_time_feature_changing_multithreading_app" />
       <item itemvalue="Python.卷积神经网络应用于MNIST数据集分类_快速版" />
       <item itemvalue="Python.递归神经网络RNN" />
       <item itemvalue="Python.卷积神经网络应用于MNIST数据集分类" />
       <item itemvalue="Python.tensorboard可视化" />
+      <item itemvalue="Python.VGG模型测试" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.VGG模型测试" />
         <item itemvalue="Python.tensorboard可视化" />
         <item itemvalue="Python.卷积神经网络应用于MNIST数据集分类_快速版" />
         <item itemvalue="Python.卷积神经网络应用于MNIST数据集分类" />
         <item itemvalue="Python.递归神经网络RNN" />
-        <item itemvalue="Python.real_time_feature_changing_multithreading_app" />
       </list>
     </recent_temporary>
   </component>
@@ -1025,14 +769,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" x="848" y="166" width="224" height="697" id="Project" order="0" sideWeight="0.49328858" visible="true" weight="0.1574012" />
+      <window_info active="true" content_ui="combo" x="848" y="166" width="224" height="697" id="Project" order="0" sideWeight="0.49328858" visible="true" weight="0.17079705" />
       <window_info id="Structure" order="1" sideWeight="0.49433428" weight="0.24983256" />
       <window_info id="Favorites" order="2" sideWeight="0.5056657" side_tool="true" weight="0.24983256" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3091335" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.61888814" weight="0.37199435" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.61888814" visible="true" weight="0.3711048" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35219237" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1175,13 +919,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tf-example-api-master/video_prediction/push_listing.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5947" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-848863243/builtins.py" />
-    <entry file="file://$PROJECT_DIR$/../../Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/platform/tf_logging.py" />
     <entry file="file://$PROJECT_DIR$/tf-example-api-master/tf-pose-estimation-master/src/run_webcam.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -1429,6 +1166,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-236">
+          <caret line="1720" column="4" selection-start-line="1720" selection-start-column="4" selection-end-line="1720" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_learning_tutorial/VGG19_CNN模型测试/VGG模型测试.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="103" column="31" lean-forward="true" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
+          <folding>
+            <element signature="e#90#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facenet-master/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>

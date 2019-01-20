@@ -15,7 +15,7 @@ learning_rate = 0.01
 
 # 读取数据，这里读取数据是一下子就把所有数据交给X，Y节点，所以下面去做梯度下降的时候
 #   BGD = Batch Gradient Decrease ，如果面向数据集比较大的时候，我们倾向与 Mini GD
-housing = fetch_california_housing(data_home="D:/develop/workstations/GitHub/datasets/MachineLearning/linearRegression/scikit_learn_data", download_if_missing=True)
+housing = fetch_california_housing(data_home="D:/develop/workstations/GitHub/Datasets/ML/linearRegression/scikit_learn_data", download_if_missing=True)
 m, n = housing.data.shape
 housing_data_plus_bias = np.c_[np.ones((m, 1)), housing.data]
 # 可以使用TensorFlow或者Numpy或者sklearn的StandardScaler去进行归一化

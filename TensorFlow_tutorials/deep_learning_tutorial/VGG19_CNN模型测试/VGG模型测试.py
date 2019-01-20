@@ -7,7 +7,7 @@
 
 import scipy.io
 import numpy as np
-import os
+# import os
 import scipy.misc
 import matplotlib.pyplot as plt
 import tensorflow as tf
@@ -82,9 +82,10 @@ def net(data_path, input_image):
 print("Network for VGG ready")
 
 # start
-cwd = os.getcwd()
-VGG_PATH = cwd + "/data/imagenet-vgg-verydeep-19.mat"
-IMG_PATH = cwd + "/data/cat.jpg"
+# cwd = os.getcwd()
+model_path = "D:/develop/workstations/GitHub/Datasets/DL/VGG_Model/vgg_19/"
+VGG_PATH = model_path + "imagenet-vgg-verydeep-19.mat"
+IMG_PATH = model_path + "cat.jpg"
 input_image = imread(IMG_PATH)
 shape = (1, input_image.shape[0], input_image.shape[1], input_image.shape[2])
 with tf.Session() as sess:
@@ -100,7 +101,8 @@ with tf.Session() as sess:
         print(" Type of 'features' is ", type(features))
         print(" Shape of 'features' is %s" % (features.shape,))
         # Plot response
-        if 1:
+        imsave(model_path + "output/" + str(i) + "--" + layer + ".jpg", features[0, :, :, 0])
+        if 0:
             plt.figure(i + 1, figsize=(10, 5))
             plt.matshow(features[0, :, :, 0], cmap=plt.cm.gray, fignum=i + 1)
             plt.title("" + layer)

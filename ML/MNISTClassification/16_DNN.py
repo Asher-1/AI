@@ -73,7 +73,7 @@ init = tf.global_variables_initializer()
 saver = tf.train.Saver()
 
 # 计算图阶段
-data_path = "D:/develop/workstations/GitHub/datasets/MachineLearning/MNISTClassification/"
+data_path = "D:/develop/workstations/GitHub/Datasets/ML/MNISTClassification/"
 # mn.SOURCE_URL = "http://yann.lecun.com/exdb/mnist/"
 mnist = input_data.read_data_sets(data_path + "MNIST_data_bak/", one_hot=False)
 n_epochs = 100
