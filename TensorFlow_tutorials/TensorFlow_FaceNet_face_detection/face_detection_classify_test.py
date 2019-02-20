@@ -11,9 +11,11 @@ import cv2
 from src import face
 import numpy as np
 
-test_image_dir = 'data/sex_test_raw/'
-classifier_model = os.path.dirname(__file__) + "/models/classifiers/sex_SVC_classifier.pkl"
+root_path = "D:/develop/workstations/GitHub/Datasets/facenet-detection/"
 
+test_image_dir = root_path + 'data/sex_test_raw/'
+classifier_model = root_path + "models/classifiers/sex_SVC_classifier.pkl"
+# classifier_model = os.path.dirname(__file__) + "/models/classifiers/sex_SVC_classifier.pkl"
 
 def add_overlays(frame, faces, points):
     if faces is not None:

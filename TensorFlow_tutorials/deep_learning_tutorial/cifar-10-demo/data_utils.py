@@ -40,7 +40,7 @@ def get_CIFAR10_data(num_training=5000, num_validation=500, num_test=500):
     """
     # Load the raw CIFAR-10 data
 
-    cifar10_dir = './cifar-10-batches-py//'
+    cifar10_dir = 'D:/develop/workstations/GitHub/Datasets/DL/Images/cifar/cifar10_data/cifar-10-batches-py/'
     X_train, y_train, X_test, y_test = load_CIFAR10(cifar10_dir)
     # print X_train.shape
     # Subsample the data

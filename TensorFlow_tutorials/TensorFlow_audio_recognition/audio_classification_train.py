@@ -31,6 +31,8 @@ import librosa  # pip install librosa
 from tqdm import tqdm  # pip install tqdm
 import random
 
+parent_path = "D:/develop/workstations/GitHub/Datasets/audio-recognition/"
+
 # Parameters
 # ==================================================
 
@@ -38,19 +40,18 @@ import random
 # validation数据集占比
 tf.flags.DEFINE_float("dev_sample_percentage", .2, "Percentage of the training data to use for validation")
 # 父目录
-tf.flags.DEFINE_string("parent_dir", "audio/", "Data source for the data.")
+tf.flags.DEFINE_string("parent_dir", parent_path + "audio/", "Data source for the data.")
 # 子目录
-tf.flags.DEFINE_string("tr_sub_dirs", ['fold1/', 'fold2/', 'fold3/'], "Data source for the data.")
-
+tf.flags.DEFINE_list("tr_sub_dirs", ['fold1/', 'fold2/', 'fold3/'], "Data source for the data.")
 # Model Hyperparameters
 # 第一层输入，MFCC信号
 tf.flags.DEFINE_integer("n_inputs", 40, "Number of MFCCs (default: 40)")
 # cell个数
-tf.flags.DEFINE_string("n_hidden", 300, "Number of cells (default: 300)")
+tf.flags.DEFINE_integer("n_hidden", 300, "Number of cells (default: 300)")
 # 分类数
 tf.flags.DEFINE_integer("n_classes", 10, "Number of classes (default: 10)")
 # 学习率
-tf.flags.DEFINE_integer("lr", 0.005, "Learning rate (default: 0.005)")
+tf.flags.DEFINE_float("lr", 0.005, "Learning rate (default: 0.005)")
 # dropout参数
 tf.flags.DEFINE_float("dropout_keep_prob", 0.5, "Dropout keep probability (default: 0.5)")
 
@@ -68,7 +69,7 @@ tf.flags.DEFINE_integer("num_checkpoints", 2, "Number of checkpoints to store (d
 
 # flags解析
 FLAGS = tf.flags.FLAGS
-FLAGS._parse_flags()
+# FLAGS._parse_flags()
 
 # 打印所有参数
 print("\nParameters:")
@@ -111,18 +112,18 @@ def extract_features(wav_files):
 
 
 # 判断文件是否存在若不存在：则创建
-if not tf.gfile.Exists('tr_features.npy'):
+if not tf.gfile.Exists(parent_path + 'tr_features.npy'):
     # 获得训练用的wav文件路径列表
     wav_files = get_wav_files(FLAGS.parent_dir, FLAGS.tr_sub_dirs)
     # 获取文件mfcc特征和对应标签
     tr_features, tr_labels = extract_features(wav_files)
     # 保存数据集特征和标签
-    np.save('tr_features.npy', tr_features)
-    np.save('tr_labels.npy', tr_labels)
+    np.save(parent_path + 'tr_features.npy', tr_features)
+    np.save(parent_path + 'tr_labels.npy', tr_labels)
 
 # 若存在：则直接读取
-tr_features = np.load('tr_features.npy')
-tr_labels = np.load('tr_labels.npy')
+tr_features = np.load(parent_path + 'tr_features.npy')
+tr_labels = np.load(parent_path + 'tr_labels.npy')
 
 # (batch,step,input)
 # (50,173,40)
@@ -250,13 +251,13 @@ with tf.Session() as sess:
 
         # 保存模型
         if i % FLAGS.checkpoint_every == 0:
-            output_model_dir = "sounds_models/"
+            output_model_dir = parent_path + "sounds_models/"
             if tf.gfile.Exists(output_model_dir):
                 tf.gfile.DeleteRecursively(output_model_dir)
             # Makes sure the folder exists on disk
             tf.gfile.MakeDirs(output_model_dir)
 
-            path = saver.save(sess, output_model_dir+'model', global_step=i)
+            path = saver.save(sess, output_model_dir + 'model', global_step=i)
             print("Saved model checkpoint to {}\n".format(path))
 
     # 计时结束，并统计运行时长

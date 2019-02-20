@@ -34,7 +34,10 @@ from threading import Thread
 from src.app_utils import FPS, WebcamVideoStream, draw_boxes_and_labels
 from src import face
 
-classifier_model = os.path.dirname(__file__) + "/models/classifiers/sex_SVC_classifier.pkl"
+root_path = "D:/develop/workstations/GitHub/Datasets/facenet-detection/"
+
+classifier_model = root_path + "models/classifiers/sex_SVC_classifier.pkl"
+# classifier_model = os.path.dirname(__file__) + "/models/classifiers/sex_SVC_classifier.pkl"
 
 
 # 添加识别标记

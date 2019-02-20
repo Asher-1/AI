@@ -13,12 +13,14 @@ from PIL import Image
 import matplotlib.pyplot as plt
 
 # 再训练自己的数据的模型图和分类标签
-output_graph = 'output_graph/final_graph.pb'
-output_labels = 'output_graph/final_labels.txt'
+output_graph = 'D:/develop/workstations/GitHub/Datasets/DL/trained_outputs/' \
+               'flowers_classification_output/output_graph/final_graph.pb'
+output_labels = 'D:/develop/workstations/GitHub/Datasets/DL/trained_outputs/' \
+                'flowers_classification_output/output_graph/final_labels.txt'
 
 # 图片数据文件夹。 在这个文件夹中每个子文件夹代表一个需要区分的类别，
 # 每个子文件夹中存放了对应类别的图片
-test_image_dir = '../datasets/images/'
+test_image_dir = 'test_images/'
 
 
 # 获取分类名称函数

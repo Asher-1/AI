@@ -5,7 +5,6 @@
 @time:2018/2/24 20:06
 '''
 
-import tensorflow as tf
 import os
 import tarfile
 import requests
@@ -13,8 +12,8 @@ import requests
 # inception模型下载地址
 data_url = 'http://download.tensorflow.org/example_images/flower_photos.tgz'
 
-# 模型存放地址
-data_dir = "datasets"
+# 训练数据存放地址
+data_dir = "D:/develop/workstations/GitHub/Datasets/DL/Images"
 
 if not os.path.exists(data_dir):
     os.makedirs(data_dir)
@@ -41,4 +40,3 @@ if not folername:
     tarfile.open(filepath, 'r:gz').extractall(data_dir)
 
 print("数据解压完毕！！！")
-

@@ -39,7 +39,9 @@ from . import detect_face
 from . import facenet
 
 gpu_memory_fraction = 0.7
-facenet_model_checkpoint = os.path.dirname(__file__) + "/../models/20170512-110547"
+root_path = "D:/develop/workstations/GitHub/Datasets/facenet-detection/"
+facenet_model_checkpoint = root_path + "models/20170512-110547"
+# facenet_model_checkpoint = os.path.dirname(__file__) + "/../models/20170512-110547"
 # classifier_model = os.path.dirname(__file__) + "/../models/classifiers/sex_SVC_classifier.pkl"
 debug = False
 

@@ -30,7 +30,10 @@ import time
 import cv2
 from src import face
 
-classifier_model = os.path.dirname(__file__) + "/models/classifiers/sex_SVC_classifier.pkl"
+root_path = "D:/develop/workstations/GitHub/Datasets/facenet-detection/"
+
+classifier_model = root_path + "models/classifiers/sex_SVC_classifier.pkl"
+# classifier_model = os.path.dirname(__file__) + "/models/classifiers/sex_SVC_classifier.pkl"
 
 
 def add_overlays(frame, faces, points, frame_rate):

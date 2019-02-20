@@ -21,7 +21,9 @@ IMAGE_WIDTH = 160
 # 批次
 BATCH_SIZE = 1
 # tfrecord文件存放路径
-TFRECORD_FILE = "captcha/test.tfrecords"
+file_path = "D:/develop/workstations/GitHub/Datasets/DL/"
+TFRECORD_FILE = file_path + "Images/captcha/test.tfrecords"
+PRE_TRAIED_MODEL = file_path + "trained_outputs/captcha_output/models/crack_captcha.model-3800"
 
 # placeholder
 x = tf.placeholder(tf.float32, [None, 224, 224])
@@ -113,7 +115,7 @@ with tf.Session() as sess:
     sess.run(tf.global_variables_initializer())
     # 载入训练好的模型
     saver = tf.train.Saver()
-    saver.restore(sess, 'captcha/models/crack_captcha.model-3000')
+    saver.restore(sess, PRE_TRAIED_MODEL)
 
     # 创建一个协调器，管理线程
     coord = tf.train.Coordinator()

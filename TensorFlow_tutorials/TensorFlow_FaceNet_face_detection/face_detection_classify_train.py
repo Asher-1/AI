@@ -36,12 +36,14 @@ import math
 import pickle
 from sklearn.svm import SVC
 
+root_path = "D:/develop/workstations/GitHub/Datasets/facenet-detection/"
+
 mode = 'TRAIN'
 # mode = 'CLASSIFY'
-data_dir = 'data/sex_train_output/'
-# data_dir = 'data/sex_test_raw/'
-pretrained_model = 'models/20170512-110547/20170512-110547.pb'
-SVC_classifier_filename = 'models/classifiers/sex_SVC_classifier.pkl'
+data_dir = root_path + 'data/sex_train_output/'
+# data_dir = root_path + 'data/sex_test_raw/'
+pretrained_model = root_path + 'models/20170512-110547/20170512-110547.pb'
+SVC_classifier_filename = root_path + 'models/classifiers/sex_SVC_classifier.pkl'
 use_split_dataset = False
 batch_size = 1000
 image_size = 160

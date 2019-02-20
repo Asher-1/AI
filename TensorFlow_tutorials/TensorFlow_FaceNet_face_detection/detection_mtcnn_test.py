@@ -11,10 +11,12 @@ minsize = 20  # minimum size of face
 threshold = [0.6, 0.7, 0.7]  # three steps's threshold
 factor = 0.709  # scale factor
 
+root_path = "D:/develop/workstations/GitHub/Datasets/facenet-detection/"
+
 # facenet embedding parameters
 model_name = 'model-20170512-110547.ckpt-250000'
 # model_name = 'model.ckpt-500000'
-check_path = './models/20170512-110547/'
+check_path = root_path + 'models/20170512-110547/'
 # check_path = './model_check_point/'
 model_dir = check_path + model_name  # "Directory containing the graph definition and checkpoint files.")
 image_size = 96  # "Image size (height, width) in pixels."
@@ -24,7 +26,7 @@ seed = 42,  # "Random seed."
 batch_size = None  # "Number of images to process in a batch."
 
 # 待测试文件夹
-test_image_dir = 'data/images/'
+test_image_dir = root_path + 'data/images/'
 
 
 def to_rgb(img):

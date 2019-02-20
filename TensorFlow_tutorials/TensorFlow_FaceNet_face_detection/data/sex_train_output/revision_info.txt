@@ -1,7 +1,0 @@
-arguments: G:/develop/PycharmProjects/TensorFlow_tutorials/TensorFlow_FaceNet_face_detection/my_align_dataset_mtcnn.py
---------------------
-tensorflow version: 1.2.0
---------------------
-git hash: b''
---------------------
-b''

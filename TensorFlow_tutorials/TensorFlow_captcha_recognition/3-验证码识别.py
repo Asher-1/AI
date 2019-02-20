@@ -20,13 +20,13 @@ IMAGE_HEIGHT = 60
 # 图片宽度
 IMAGE_WIDTH = 160
 # 最大步数
-Max_step = 3000
+Max_step = 10000
 # 批次
 BATCH_SIZE = 100
 # tfrecord文件存放路径
-TFRECORD_FILE = "captcha/train.tfrecords"
+TFRECORD_FILE = "D:/develop/workstations/GitHub/Datasets/DL/Images/captcha/train.tfrecords"
 
-output_model_dir = "./captcha/models"
+output_model_dir = "D:/develop/workstations/GitHub/Datasets/DL/trained_outputs/captcha_output/models"
 
 # placeholder
 x = tf.placeholder(tf.float32, [None, 224, 224])
@@ -110,6 +110,7 @@ def depoy_net():
     total_loss = (loss0 + loss1 + loss2 + loss3) / 4.0
     # 优化total_loss
     optimizer = tf.train.AdamOptimizer(learning_rate=lr).minimize(total_loss)
+    # optimizer = tf.train.GradientDescentOptimizer(learning_rate=lr).minimize(total_loss)
     # 计算准确率
     correct_prediction0 = tf.equal(tf.argmax(one_hot_labels0, 1), tf.argmax(logits0, 1))
     accuracy0 = tf.reduce_mean(tf.cast(correct_prediction0, tf.float32))
@@ -145,7 +146,7 @@ with tf.Session() as sess:
     depoy_net()
 
     # 用于保存模型
-    saver = tf.train.Saver()
+    saver = tf.train.Saver(max_to_keep=1)
     # 初始化
     sess.run(tf.global_variables_initializer())
 
@@ -162,7 +163,7 @@ with tf.Session() as sess:
         sess.run(optimizer, feed_dict={x: b_image, y0: b_label0, y1: b_label1, y2: b_label2, y3: b_label3})
 
         # 每迭代50次计算一次loss和准确率
-        if i % 50 == 0:
+        if i % 100 == 0:
             # 每迭代500次降低一次学习率
             if i % 600 == 0:
                 sess.run(tf.assign(lr, lr*0.8))
@@ -175,13 +176,17 @@ with tf.Session() as sess:
             learning_rate = sess.run(lr)
             print("%s: Iter:%d  Loss:%.3f  Accuracy:%.2f,%.2f,%.2f,%.2f  Learning_rate:%.4f" % (datetime.now(),
             i, loss_, acc0, acc1, acc2, acc3, learning_rate))
-
-            # 保存模型
-            # if acc0 > 0.90 and acc1 > 0.90 and acc2 > 0.90 and acc3 > 0.90: 
-            if i == Max_step:
-                saver.save(sess, output_model_dir + '/crack_captcha.model', global_step=i)
-                print('\n训练模型保存到：%s' % output_model_dir + '/crack_captcha.model')
+            # if i == Max_step:
+            if acc0 > 0.95 and acc1 > 0.95 and acc2 > 0.95 and acc3 > 0.95:
+                model = saver.save(sess, output_model_dir + '/crack_captcha.model', global_step=i)
+                print('\n最终训练模型保存到：', model)
                 break
+
+        # 保存模型
+        # if acc0 > 0.90 and acc1 > 0.90 and acc2 > 0.90 and acc3 > 0.90:
+        if i % 600 == 0:
+            model = saver.save(sess, output_model_dir + '/crack_captcha.model', global_step=i)
+            print('\n临时训练模型保存到：', model)
 
     # 训练结束，计时结束，并统计运行时长  27min
     end = time.clock()

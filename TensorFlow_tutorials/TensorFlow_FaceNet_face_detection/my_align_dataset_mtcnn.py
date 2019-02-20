@@ -35,8 +35,10 @@ from src import detect_face
 import random
 from time import sleep
 
-input_dir = 'data/sex_train_raw'
-target_output_dir = 'data/sex_train_output'
+root_path = "D:/develop/workstations/GitHub/Datasets/facenet-detection/"
+
+input_dir = root_path + 'data/sex_train_raw'
+target_output_dir = root_path + 'data/sex_train_output'
 image_size = 160
 margin = 44
 random_order = True

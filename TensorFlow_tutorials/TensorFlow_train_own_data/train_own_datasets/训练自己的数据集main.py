@@ -16,12 +16,16 @@ from datetime import datetime
 import time
 
 # 模型和样本路径的设置
+PARENT_PATH = 'D:/develop/workstations/GitHub/Datasets/'
 # 下载的谷歌训练好的Inception-v3模型文件目录
-MODEL_DIR = '../datasets/inception_model_2015'
+MODEL_DIR = PARENT_PATH + 'pretrained_models/inception_model_2015'
 
 # 再训练自己的数据的模型图和分类标签
-output_graph = 'output_graph/final_graph.pb'
-output_labels = 'output_graph/final_labels.txt'
+output_graph = PARENT_PATH + 'DL/trained_outputs/' \
+               'flowers_classification_output/output_graph/final_graph.pb'
+output_labels = PARENT_PATH + 'DL/trained_outputs/' \
+                'flowers_classification_output/output_graph/final_labels.txt'
+
 # intermediate_output_graphs_dir = 'output_graph/'
 # 最后输出tensor的名称
 final_tensor_name = 'final_result'
@@ -29,16 +33,20 @@ final_tensor_name = 'final_result'
 
 # 用于Tensorboard可视化的再训练模型文件夹名称
 # 文件路径(不用绝对路径会出错)！！！！！！！
-c_dir = os.getcwd()
-summaries_dir = r"/".join(c_dir.split("\\")) + "/output_graph/retrain_logs/"
+# c_dir = os.getcwd()
+# summaries_dir = r"/".join(c_dir.split("\\")) + "/output_graph/retrain_logs/"
+
+summaries_dir = PARENT_PATH + 'DL/trained_outputs/' \
+                'flowers_classification_output/output_graph/retrain_logs/'
 
 # 因为一个训练数据会被使用多次，所以可以将原始图像通过Inception-v3模型计算得
 # 到的特征向量保存在文件中，免去重复的计算。下面的变量定义了这些文件的存放地址
-CACHE_DIR = '../datasets/bottleneck'
+CACHE_DIR = PARENT_PATH + 'DL/trained_outputs/' \
+            'flowers_classification_output/bottleneck'
 
 # 图片数据文件夹。 在这个文件夹中每个子文件夹代表一个需要区分的类别，
 # 每个子文件夹中存放了对应类别的图片
-INPUT_DATA = '../datasets/flower_photos'
+INPUT_DATA = PARENT_PATH + 'DL/Images/flower_photos'
 
 # 模型和样本路径的设置
 # 验证的数据百分比

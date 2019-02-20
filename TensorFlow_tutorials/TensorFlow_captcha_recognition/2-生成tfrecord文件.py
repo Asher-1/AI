@@ -20,10 +20,10 @@ _NUM_TEST = 500
 _RANDOM_SEED = 0
 
 # 数据集路径
-DATASET_DIR = "captcha/images/"
+DATASET_DIR = 'D:/develop/workstations/GitHub/Datasets/DL/Images/captcha/captcha_images/'
 
 # tfrecord文件存放路径
-TFRECORD_DIR = "captcha/"
+TFRECORD_DIR = "D:/develop/workstations/GitHub/Datasets/DL/Images/captcha/"
 
 
 # 判断tfrecord文件是否存在

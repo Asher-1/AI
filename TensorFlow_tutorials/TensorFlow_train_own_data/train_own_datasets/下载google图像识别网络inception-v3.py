@@ -14,7 +14,7 @@ import requests
 inception_pretrain_model_url = 'http://download.tensorflow.org/models/image/imagenet/inception-2015-12-05.tgz'
 
 #模型存放地址
-inception_pretrain_model_dir = "datasets/inception_model_2015"
+inception_pretrain_model_dir = "D:/develop/workstations/GitHub/Datasets/pretrained_models/inception_model_2015"
 if not os.path.exists(inception_pretrain_model_dir):
     os.makedirs(inception_pretrain_model_dir)
     

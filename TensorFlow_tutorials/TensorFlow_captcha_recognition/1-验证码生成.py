@@ -15,7 +15,7 @@ import os
 # 递归删除包
 # import shutil
 
-dis_dir = 'captcha/images/'
+dis_dir = 'D:/develop/workstations/GitHub/Datasets/DL/Images/captcha/captcha_images/'
 
 number = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 
@@ -77,7 +77,7 @@ def gen_captcha_text_and_image():
     # 把验证码列表转为字符串
     captcha_text = ''.join(captcha_text)
     # 生成验证码
-    captcha = image.generate(captcha_text)
+    # captcha = image.generate(captcha_text)
     image.write(captcha_text, dis_dir + captcha_text + '.jpg')  # 写到文件
 
 
