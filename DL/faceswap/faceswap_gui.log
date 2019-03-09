@@ -1,0 +1,5 @@
+02/22/2019 01:31:14 MainProcess     MainThread      logger          log_setup                 INFO     Log level set to: INFO
+02/22/2019 01:31:18 MainProcess     MainThread      config          save_config               INFO     Updating config at: 'D:\develop\workstations\GitHub\AI\DL\faceswap\config\extract.ini'
+02/22/2019 01:31:18 MainProcess     MainThread      config          load_config               INFO     Loading config: 'D:\develop\workstations\GitHub\AI\DL\faceswap\config\extract.ini'
+02/22/2019 01:31:18 MainProcess     MainThread      config          save_config               INFO     Updating config at: 'D:\develop\workstations\GitHub\AI\DL\faceswap\config\train.ini'
+02/22/2019 01:31:18 MainProcess     MainThread      config          load_config               INFO     Loading config: 'D:\develop\workstations\GitHub\AI\DL\faceswap\config\train.ini'
