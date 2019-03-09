@@ -2,898 +2,183 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d2783a1-3709-430b-853a-98504b02a33a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../ML/CNN/tensorflow_cnn_alexnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/CNN/tensorflow_cnn_cifar10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/CNN/tensorflow_cnn_mnist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/CNN/tensorflow_cnn_vgg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/keras_tutorials/00_hello_keras.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/keras_tutorials/01_keras_model_sequential.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/keras_tutorials/01_keras_model_sequential_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/keras_tutorials/02_keras_model_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/keras_tutorials/03_keras_mnist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/keras_tutorials/04_keras_vgg16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/test_images/daisy_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/test_images/daisy_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/test_images/daisy_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/test_images/dandelion_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/test_images/dandelion_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/test_images/dandelion_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/test_images/roses_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/test_images/roses_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/test_images/roses_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/test_images/sunflowers_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/test_images/sunflowers_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/test_images/sunflowers_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/test_images/tulips_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/test_images/tulips_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/test_images/tulips_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/.idea/DL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ML/RandomForest/10.1.Iris_DecisionTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ML/RandomForest/10.2.Iris_DecisionTree_Enum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ML/RandomForest/10.3.DecisionTreeRegressor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ML/RandomForest/10.4.MultiOutput_DTR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ML/RandomForest/10.5.Iris_RandomForest_Enum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ML/RandomForest/10.6.Bagging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ML/RandomForest/iris.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ML/RandomForest/iris.dot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/.idea/MachineLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/MachineLearning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/embedding/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/embedding/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/embedding/word2vec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/embedding/word2vec_kernels.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/embedding/word2vec_ops.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/embedding/word2vec_optimized.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/embedding/word2vec_optimized_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/embedding/word2vec_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/alexnet/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/alexnet/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/alexnet/alexnet_benchmark.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10/cifar10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10/cifar10_eval.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10/cifar10_input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10/cifar10_input_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10/cifar10_multi_gpu_train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10/cifar10_train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10_estimator/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10_estimator/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10_estimator/cifar10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10_estimator/cifar10_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10_estimator/cifar10_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10_estimator/cifar10_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10_estimator/cmle_config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10_estimator/generate_cifar10_tfrecords.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10_estimator/model_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/imagenet/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/imagenet/classify_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/mnist/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/mnist/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/mnist/convolutional.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/ptb/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/ptb/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/ptb/ptb_word_lm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/ptb/reader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/ptb/reader_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/ptb/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/quickdraw/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/quickdraw/create_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/quickdraw/train_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/tensorflow_cnn_alexnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/tensorflow_cnn_cifar10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/tensorflow_cnn_mnist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/CNN/tensorflow_cnn_vgg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/MNISTClassification/12_Softmax_regression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/MNISTClassification/13_saving_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/MNISTClassification/14_restoring_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/MNISTClassification/16_DNN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/MNISTClassification/17_tensorboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/MusicClassification/logistic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/MusicClassification/neural_network.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/NeuralNetwork/HandwrittenDigitsRecognition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/NeuralNetwork/NeuralNetwork.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/NeuralNetwork/SimpleTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/NeuralNetwork/VisualizeDigits.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/NeuralNetwork/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/SVM/SVM.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/SVM/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/demo1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/Hierarchical_Clustering.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000051.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000052.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000055.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000056.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000057.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000059.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000062.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000063.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000065.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000066.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000067.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000068.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000069.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000070.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000071.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000072.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000073.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000074.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000075.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/tree.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/00_tensorflow_version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/01_first_graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/02_better_session_run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/03_global_variables_initializer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/04_interactive_session.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/05_manager_graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/06_lifecycle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/07_linear_regression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/08_manually_gradients.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/09_autodiff.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/10_using_optimizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/11_placeholder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TensorFlow_tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TensorFlow_tutorials.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/images/2008_001322.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/images/2008_002506.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/images/2008_007676.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/images/mmexport1516269316730.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/images/res24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/images/test_face_detect.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_test_raw/Female/2008_007676.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_test_raw/Female/image_020_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_test_raw/Female/image_09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_test_raw/Female/res2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_test_raw/Female/res51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_test_raw/Male/2008_001322.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_test_raw/Male/2008_002506.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_test_raw/Male/res24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_test_raw/Male/res8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_test_raw/Male/res9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/Female/image_020_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/Female/image_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/Female/res11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/Female/res13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/Female/res17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/Female/res3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/Female/res42.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/Female/res49.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/Female/res50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/Male/res10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/Male/res18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/Male/res20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/Male/res23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/Male/res27.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/Male/res5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/bounding_boxes_75071.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/revision_info.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_raw/Female/image_020_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_raw/Female/image_09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_raw/Female/res11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_raw/Female/res13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_raw/Female/res17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_raw/Female/res3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_raw/Female/res42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_raw/Female/res49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_raw/Female/res50.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_raw/Male/res10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_raw/Male/res18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_raw/Male/res20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_raw/Male/res23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_raw/Male/res27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_raw/Male/res5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/detection_mtcnn_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/detection_mtcnn_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/face_detection_classify_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/face_detection_classify_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/face_detection_classify_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/face_detection_classify_train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/my_align_dataset_mtcnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/my_align_dataset_mtcnn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/real_time_face_recognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/real_time_face_recognition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/real_time_face_recognition_multithreading_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/real_time_face_recognition_multithreading_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/src/face.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/src/face.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_audio_recognition/audio_classification_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow_audio_recognition/audio_classification_train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_captcha_recognition/1-验证码生成.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow_captcha_recognition/1-验证码生成.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_captcha_recognition/2-生成tfrecord文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow_captcha_recognition/2-生成tfrecord文件.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_captcha_recognition/3-验证码识别.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow_captcha_recognition/3-验证码识别.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_captcha_recognition/4-captcha_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow_captcha_recognition/4-captcha_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_text_recognition/cnn-text-classification-tf-master/embeddings.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow_text_recognition/cnn-text-classification-tf-master/embeddings.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_text_recognition/tsne.png" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow_text_recognition/tsne.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/下载google图像识别网络inception-v3.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/下载google图像识别网络inception-v3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/下载数据集.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/下载数据集.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/测试自己训练的模型main.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/测试自己训练的模型main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/训练自己的数据集main.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/训练自己的数据集main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep_learning_tutorial/cifar-10-demo/cifar-10-batches-py/batches.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep_learning_tutorial/cifar-10-demo/cifar-10-batches-py/data_batch_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep_learning_tutorial/cifar-10-demo/cifar-10-batches-py/data_batch_2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep_learning_tutorial/cifar-10-demo/cifar-10-batches-py/data_batch_3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep_learning_tutorial/cifar-10-demo/cifar-10-batches-py/data_batch_4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep_learning_tutorial/cifar-10-demo/cifar-10-batches-py/data_batch_5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep_learning_tutorial/cifar-10-demo/cifar-10-batches-py/readme.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep_learning_tutorial/cifar-10-demo/cifar-10-batches-py/test_batch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep_learning_tutorial/cifar-10-demo/data_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/deep_learning_tutorial/cifar-10-demo/data_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_TensorFlow_demos/GoogleNet_inceptionV3_test/inception_model/inception-2015-12-05.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_TensorFlow_demos/MNIST_data/t10k-images-idx3-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_TensorFlow_demos/MNIST_data/t10k-labels-idx1-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_TensorFlow_demos/MNIST_data/train-images-idx3-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_TensorFlow_demos/MNIST_data/train-labels-idx1-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_TensorFlow_demos/Visual_test/MNIST_data/t10k-images-idx3-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_TensorFlow_demos/Visual_test/MNIST_data/t10k-labels-idx1-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_TensorFlow_demos/Visual_test/MNIST_data/train-images-idx3-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_TensorFlow_demos/Visual_test/MNIST_data/train-labels-idx1-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_TensorFlow_demos/Visual_test/projector/data/mnist_10k_sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_TensorFlow_demos/Visual_test/projector/projector/a_model.ckpt-1001.data-00000-of-00001" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_TensorFlow_demos/Visual_test/projector/projector/a_model.ckpt-1001.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_TensorFlow_demos/Visual_test/projector/projector/a_model.ckpt-1001.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_TensorFlow_demos/Visual_test/projector/projector/checkpoint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_TensorFlow_demos/Visual_test/projector/projector/events.out.tfevents.1542728603.DESKTOP-RVKGP75" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_TensorFlow_demos/Visual_test/projector/projector/metadata.tsv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_TensorFlow_demos/Visual_test/projector/projector/projector_config.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_TensorFlow_demos/Visual_test/tensorboard可视化.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_TensorFlow_demos/mnist_10k_sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/.ipynb_checkpoints/object_detection_tutorial-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/coco_model_faster_rcnn_inception_v2_tutorial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/data/kitti_label_map.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/data/mscoco_label_map.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/data/oid_bbox_trainable_label_map.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/data/pascal_label_map.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/data/pet_label_map.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/dataset_tools/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/dataset_tools/create_coco_tf_record.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/dataset_tools/create_coco_tf_record_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/dataset_tools/create_kitti_tf_record.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/dataset_tools/create_kitti_tf_record_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/dataset_tools/create_oid_tf_record.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/dataset_tools/create_pascal_tf_record.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/dataset_tools/create_pascal_tf_record_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/dataset_tools/create_pet_tf_record.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/dataset_tools/download_and_preprocess_mscoco.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/dataset_tools/oid_tfrecord_creation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/dataset_tools/oid_tfrecord_creation_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/create_coco_tf_record.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/faster_rcnn_inception_v2_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/faster_rcnn_resnet50_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/pycocoDemo.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/pycocoDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/pycocoEvalDemo.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/pycocoEvalDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/pycocotools/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/pycocotools/_mask.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/pycocotools/_mask.cp36-win_amd64.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/pycocotools/_mask.pyx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/pycocotools/coco.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/pycocotools/cocoeval.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/pycocotools/mask.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/ssd_inception_v2_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/test_images/COCO_val2014_000000000285.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/test_images/COCO_val2014_000000000428.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/test_images/COCO_val2014_000000000474.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/test_images/COCO_val2014_000000000785.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/cocoapi-master/test_images/COCO_val2014_000000000923.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/create_pascal2007_tf_record.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/create_pascal2012_tf_record.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/faster_rcnn_inception_v2_coco_2012.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/faster_rcnn_resnet101_coco_2012.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/faster_rcnn_resnet50_coco_2012.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/datasets/ssd_inception_v2_coco_2012.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/eval.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/eval_util.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/eval_util_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/evaluator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/export_inference_graph.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/exporter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/exporter_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/configuring_jobs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/defining_your_own_model.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/detection_model_zoo.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/evaluation_protocols.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/exporting_models.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/faq.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/img/dogs_detections_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/img/example_cat.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/img/groupof_case_eval.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/img/kites_detections_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/img/kites_with_segment_overlay.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/img/nongroupof_case_eval.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/img/oid_bus_72e19c28aac34ed8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/img/oid_monkey_3b4168c89cecbc5b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/img/oxford_pet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/img/tensorboard.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/img/tensorboard2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/img/tf-od-api-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/installation.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/instance_segmentation.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/oid_inference_and_evaluation.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/preparing_inputs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/running_locally.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/running_notebook.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/running_on_cloud.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/running_pets.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/g3doc/using_your_own_dataset.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/inputs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/inputs_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/model_hparams.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/model_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/model_test_util.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/model_tpu.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/embedded_ssd_mobilenet_v1_feature_extractor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/embedded_ssd_mobilenet_v1_feature_extractor_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/faster_rcnn_inception_resnet_v2_feature_extractor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/faster_rcnn_inception_resnet_v2_feature_extractor_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/faster_rcnn_inception_v2_feature_extractor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/faster_rcnn_inception_v2_feature_extractor_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/faster_rcnn_mobilenet_v1_feature_extractor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/faster_rcnn_mobilenet_v1_feature_extractor_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/faster_rcnn_nas_feature_extractor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/faster_rcnn_nas_feature_extractor_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/faster_rcnn_resnet_v1_feature_extractor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/faster_rcnn_resnet_v1_feature_extractor_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/feature_map_generators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/feature_map_generators_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/ssd_feature_extractor_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/ssd_inception_v2_feature_extractor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/ssd_inception_v2_feature_extractor_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/ssd_inception_v3_feature_extractor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/ssd_inception_v3_feature_extractor_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/ssd_mobilenet_v1_feature_extractor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/ssd_mobilenet_v1_feature_extractor_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/ssd_mobilenet_v2_feature_extractor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/ssd_mobilenet_v2_feature_extractor_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/ssd_resnet_v1_fpn_feature_extractor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/ssd_resnet_v1_fpn_feature_extractor_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/models/ssd_resnet_v1_fpn_feature_extractor_testbase.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/object_detection_tutorial.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/object_detection_tutorial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/real_time_object_detection_app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/real_time_object_detection_multithreading_app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/cloud/cloud.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/embedded_ssd_mobilenet_v1_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/faster_rcnn_inception_resnet_v2_atrous_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/faster_rcnn_inception_resnet_v2_atrous_cosine_lr_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/faster_rcnn_inception_resnet_v2_atrous_oid.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/faster_rcnn_inception_resnet_v2_atrous_pets.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/faster_rcnn_inception_v2_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/faster_rcnn_inception_v2_pets.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/faster_rcnn_nas_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/faster_rcnn_resnet101_atrous_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/faster_rcnn_resnet101_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/faster_rcnn_resnet101_kitti.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/faster_rcnn_resnet101_pets.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/faster_rcnn_resnet101_voc07.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/faster_rcnn_resnet152_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/faster_rcnn_resnet152_pets.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/faster_rcnn_resnet50_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/faster_rcnn_resnet50_pets.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/mask_rcnn_inception_resnet_v2_atrous_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/mask_rcnn_inception_v2_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/mask_rcnn_resnet101_atrous_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/mask_rcnn_resnet101_pets.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/mask_rcnn_resnet50_atrous_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/rfcn_resnet101_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/rfcn_resnet101_pets.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/ssd_inception_v2_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/ssd_inception_v2_pets.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/ssd_inception_v3_pets.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/ssd_mobilenet_v1_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/ssd_mobilenet_v1_focal_loss_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/ssd_mobilenet_v1_focal_loss_pets.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/ssd_mobilenet_v1_pets.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/samples/configs/ssd_mobilenet_v2_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/ssd_mobilenet_v1_coco_2017_11_17.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/ssd_mobilenet_v1_coco_2017_11_17/frozen_inference_graph.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/test_ckpt/ssd_inception_v2.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/test_data/pets_examples.record" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/test_images/image1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/test_images/image2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/test_images/image3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/test_images/image4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/test_images/image5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/test_images/image6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/test_images/image_info.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/train.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/trainer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/object_detection/trainer_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/.pytest_cache/v/cache/nodeids" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/README.MD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/eval.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/export_inference_graph.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/generate_tfrecord.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-100.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-101.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-102.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-103.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-104.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-105.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-106.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-107.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-108.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-109.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-110.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-111.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-112.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-113.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-114.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-115.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-116.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-117.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-118.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-119.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-120.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-121.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-122.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-123.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-124.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-125.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-126.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-127.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-128.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-129.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-130.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-131.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-132.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-133.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-134.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-135.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-136.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-137.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-138.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-139.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-14.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-140.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-141.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-142.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-143.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-144.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-145.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-146.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-147.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-148.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-149.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-150.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-151.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-152.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-153.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-154.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-155.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-156.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-157.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-158.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-159.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-160.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-161.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-162.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-163.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-164.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-165.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-166.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-167.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-168.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-169.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-170.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-171.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-172.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-173.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-174.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-175.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-176.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-177.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-178.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-179.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-180.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-181.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-182.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-183.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-184.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-185.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-186.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-187.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-188.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-189.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-190.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-191.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-192.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-193.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-194.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-195.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-196.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-197.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-198.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-199.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-20.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-200.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-22.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-27.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-28.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-29.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-30.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-31.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-32.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-33.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-34.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-35.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-36.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-37.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-38.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-39.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-40.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-41.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-42.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-43.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-44.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-45.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-46.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-47.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-48.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-49.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-50.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-51.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-52.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-53.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-54.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-55.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-56.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-57.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-58.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-60.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-61.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-62.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-63.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-64.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-65.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-66.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-67.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-68.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-69.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-70.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-71.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-72.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-73.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-74.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-75.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-76.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-77.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-78.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-79.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-80.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-81.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-82.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-83.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-84.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-85.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-86.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-87.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-88.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-89.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-90.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-91.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-92.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-93.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-94.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-95.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-96.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-97.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-98.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/raccoon-99.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy100.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy101.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy102.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy103.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy14.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy20.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy22.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy27.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy28.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy29.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy30.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy31.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy32.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy33.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy34.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy35.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy36.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy37.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy38.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy39.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy40.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy41.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy42.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy43.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy44.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy45.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy46.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy47.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy48.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy49.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy50.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy51.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy52.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy53.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy54.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy55.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy56.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy57.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy58.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy60.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy61.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy62.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy63.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy64.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy65.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy66.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy67.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy68.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy69.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy70.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy71.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy72.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy73.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy74.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy75.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy76.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy77.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy78.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy79.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy80.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy81.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy82.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy83.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy84.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy85.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy86.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy87.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy88.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy89.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy90.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy91.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy92.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy93.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy94.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy95.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy96.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy97.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy98.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/annotations/toy99.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/faster_rcnn_inception_v2_coco.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-100.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-101.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-102.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-103.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-104.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-105.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-106.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-107.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-108.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-109.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-110.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-111.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-112.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-113.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-114.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-115.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-116.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-117.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-118.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-119.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-120.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-121.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-122.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-123.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-124.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-125.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-126.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-127.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-128.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-129.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-130.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-131.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-132.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-133.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-134.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-135.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-136.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-137.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-138.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-139.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-140.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-141.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-142.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-143.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-144.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-145.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-146.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-147.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-148.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-149.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-150.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-151.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-152.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-153.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-154.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-155.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-156.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-157.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-158.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-159.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-161.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-162.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-163.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-164.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-165.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-166.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-167.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-168.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-169.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-170.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-171.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-172.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-173.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-174.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-175.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-176.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-177.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-178.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-179.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-180.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-181.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-182.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-183.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-184.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-185.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-186.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-187.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-188.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-189.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-190.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-191.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-192.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-193.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-194.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-195.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-196.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-197.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-198.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-199.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-200.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-50.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-52.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-55.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-56.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-57.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-58.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-59.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-60.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-61.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-62.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-63.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-64.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-65.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-66.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-67.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-68.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-69.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-70.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-71.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-72.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-73.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-74.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-76.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-77.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-78.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-79.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-80.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-81.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-82.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-83.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-84.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-85.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-86.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-87.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-88.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-89.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-90.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-91.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-92.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-93.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-94.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-95.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-96.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-97.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-98.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/raccoon-99.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy100.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy101.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy102.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy103.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy50.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy52.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy55.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy56.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy57.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy58.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy59.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy60.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy61.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy62.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy63.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy64.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy65.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy66.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy67.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy68.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy69.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy70.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy71.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy72.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy73.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy74.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy76.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy77.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy78.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy79.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy80.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy81.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy82.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy83.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy84.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy85.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy86.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy87.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy88.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy89.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy90.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy91.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy92.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy93.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy94.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy95.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy96.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy97.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy98.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/images/toy99.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/own_data_label_map.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/toy_train.record" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/toy_train_labels.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/toy_val.record" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/my_data/toy_val_labels.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/object_detection_faster_rcnn_inception_v2_tutorial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/test_images/raccoon-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/test_images/raccoon-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/test_images/raccoon-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/test_images/raccoon-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/test_images/raccoon-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/test_images/test-toy1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/test_images/test-toy2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/test_images/test-toy3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/test_images/test-toy4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/test_images/test-toy5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/test_images/test-toy6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/test_images/test-toy7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/train.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-example-api-master/tensorflow_train_owndata_detector/xml_to_csv.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -1155,14 +440,15 @@
     <session id="-1478734568">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -1201,20 +487,7 @@
     <favorites_list name="TensorFlow_tutorials" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/real_time_face_recognition.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="873">
-              <caret line="51" column="22" lean-forward="true" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
-              <folding>
-                <element signature="e#1246#1255#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -1338,9 +611,9 @@
       <path value="$PROJECT_DIR$/tf-example-api-master/syntaxnet-master/dragnn/viz/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="117" />
-    <option name="y" value="-23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="357" />
+    <option name="y" value="282" />
     <option name="width" value="3285" />
     <option name="height" value="1805" />
   </component>
@@ -1369,7 +642,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1377,22 +649,18 @@
               <item name="TensorFlow_tutorials" type="b2602c69:ProjectViewProjectNode" />
               <item name="TensorFlow_tutorials" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TensorFlow_tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TensorFlow_tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="TensorFlow_FaceNet_face_detection" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -1605,6 +873,7 @@
     <list>
       <item itemvalue="Bash.download_and_preprocess_mscoco.sh" />
       <item itemvalue="Bash.stylize_image.sh" />
+      <item itemvalue="Python.测试自己训练的模型main" />
       <item itemvalue="Python.face_detection_classify_test" />
       <item itemvalue="Python.my_align_dataset_mtcnn" />
       <item itemvalue="Python.real_time_face_recognition" />
@@ -1676,9 +945,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <frame x="143" y="113" width="1314" height="722" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" x="848" y="166" width="224" height="697" id="Project" order="0" sideWeight="0.49328858" visible="true" weight="0.2016075" />
+      <window_info active="true" content_ui="combo" x="848" y="166" width="224" height="697" id="Project" order="0" sideWeight="0.49328858" visible="true" weight="0.20747218" />
       <window_info id="Structure" order="1" sideWeight="0.49433428" weight="0.24983256" />
       <window_info id="Favorites" order="2" sideWeight="0.5056657" side_tool="true" weight="0.24983256" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1988,9 +1257,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1875">
           <caret line="84" selection-start-line="84" selection-end-line="84" />
-          <folding>
-            <element signature="e#90#113#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1998,9 +1264,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
-          <folding>
-            <element signature="e#14#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2015,11 +1278,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="31" column="62" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="62" />
-          <folding>
-            <element signature="e#90#128#0" expanded="true" />
-            <element signature="e#3531#4002#0" />
-            <element signature="e#6531#8727#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2034,25 +1292,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2698">
           <caret line="257" column="47" lean-forward="true" selection-start-line="257" selection-start-column="47" selection-end-line="257" selection-end-column="47" />
-          <folding>
-            <element signature="e#380#389#0" expanded="true" />
-            <element signature="e#2262#2693#0" />
-            <element signature="e#2751#3279#0" />
-            <element signature="e#6084#6842#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/bounding_boxes_75071.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/revision_info.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/bounding_boxes_75071.txt" />
+    <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/revision_info.txt" />
     <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/face-detection-mtcnn-master/result-preview/multi-faces/output_0_12.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -2094,9 +1338,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="13" selection-start-line="13" selection-end-line="17" selection-end-column="93" />
-          <folding>
-            <element signature="e#91#102#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2104,9 +1345,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="23" />
-          <folding>
-            <element signature="e#1209#1247#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2114,10 +1352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="e#990#1120#0" />
-            <element signature="e#1204#1893#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2125,9 +1359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
           <caret line="104" column="23" lean-forward="true" selection-start-line="104" selection-start-column="23" selection-end-line="104" selection-end-column="23" />
-          <folding>
-            <element signature="e#1246#1255#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2140,11 +1371,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/real_time_face_recognition.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="873">
-          <caret line="51" column="22" lean-forward="true" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
-          <folding>
-            <element signature="e#1246#1255#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="46" />
         </state>
       </provider>
     </entry>
