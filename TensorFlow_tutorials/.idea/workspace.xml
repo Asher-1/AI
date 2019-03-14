@@ -2,180 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d2783a1-3709-430b-853a-98504b02a33a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../DL/.idea/DL.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DL/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DL/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DL/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DL/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/RandomForest/10.1.Iris_DecisionTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/RandomForest/10.2.Iris_DecisionTree_Enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/RandomForest/10.3.DecisionTreeRegressor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/RandomForest/10.4.MultiOutput_DTR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/RandomForest/10.5.Iris_RandomForest_Enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/RandomForest/10.6.Bagging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/RandomForest/iris.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/RandomForest/iris.dot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/.idea/MachineLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/MachineLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/embedding/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/embedding/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/embedding/word2vec.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/embedding/word2vec_kernels.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/embedding/word2vec_ops.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/embedding/word2vec_optimized.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/embedding/word2vec_optimized_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/embedding/word2vec_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/alexnet/BUILD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/alexnet/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/alexnet/alexnet_benchmark.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10/BUILD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10/cifar10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10/cifar10_eval.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10/cifar10_input.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10/cifar10_input_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10/cifar10_multi_gpu_train.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10/cifar10_train.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10_estimator/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10_estimator/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10_estimator/cifar10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10_estimator/cifar10_main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10_estimator/cifar10_model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10_estimator/cifar10_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10_estimator/cmle_config.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10_estimator/generate_cifar10_tfrecords.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/cifar10_estimator/model_base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/imagenet/BUILD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/imagenet/classify_image.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/mnist/BUILD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/mnist/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/image/mnist/convolutional.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/BUILD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/ptb/BUILD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/ptb/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/ptb/ptb_word_lm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/ptb/reader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/ptb/reader_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/ptb/util.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/quickdraw/BUILD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/quickdraw/create_dataset.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/CNNTools/rnn/quickdraw/train_model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/tensorflow_cnn_alexnet.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/tensorflow_cnn_cifar10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/tensorflow_cnn_mnist.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/CNN/tensorflow_cnn_vgg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/MNISTClassification/12_Softmax_regression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/MNISTClassification/13_saving_model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/MNISTClassification/14_restoring_model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/MNISTClassification/16_DNN.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/MNISTClassification/17_tensorboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/MusicClassification/logistic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/MusicClassification/neural_network.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/NeuralNetwork/HandwrittenDigitsRecognition.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/NeuralNetwork/NeuralNetwork.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/NeuralNetwork/SimpleTest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/NeuralNetwork/VisualizeDigits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/NeuralNetwork/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/SVM/SVM.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/SVM/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/demo1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/Hierarchical_Clustering.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000011.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000013.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000014.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000016.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000017.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000018.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000019.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000020.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000021.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000022.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000023.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000025.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000026.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000027.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000028.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000029.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000030.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000031.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000032.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000033.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000034.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000035.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000036.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000037.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000038.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000039.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000040.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000041.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000042.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000043.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000044.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000045.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000046.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000047.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000048.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000049.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000050.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000051.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000052.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000053.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000054.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000055.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000056.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000057.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000058.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000059.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000060.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000061.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000062.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000063.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000064.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000065.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000066.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000067.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000068.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000069.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000070.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000071.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000072.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000073.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000074.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/img/000075.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/hierarchical_clustering/tree.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/00_tensorflow_version.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/01_first_graph.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/02_better_session_run.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/03_global_variables_initializer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/04_interactive_session.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/05_manager_graph.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/06_lifecycle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/07_linear_regression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/08_manually_gradients.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/09_autodiff.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/10_using_optimizer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/linearRegression/11_placeholder.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/generate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/network.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/案例二AI制图训练结果/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/案例二AI制图训练结果/generator_weight" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/NeuralNetwork/simple-robot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/.idea/DL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/DL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/CNN/tensorflow_cnn_cifar10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/CNN/tensorflow_cnn_cifar10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/NeuralNetwork/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RNN/.pytest_cache/v/cache/lastfailed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RNN/.pytest_cache/v/cache/nodeids" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RNN/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RNN/data/ptb.test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RNN/data/ptb.train.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RNN/data/ptb.valid.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RNN/network.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RNN/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RNN/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RNN/utils.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/TensorFlow_tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TensorFlow_tutorials.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -441,14 +291,14 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -457,7 +307,7 @@
           <entry key="jpg" value="7" />
           <entry key="md" value="1" />
           <entry key="png" value="5" />
-          <entry key="py" value="74" />
+          <entry key="py" value="79" />
           <entry key="pyi" value="1" />
           <entry key="txt" value="2" />
         </counts>
@@ -467,7 +317,7 @@
           <entry key="Image" value="12" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="74" />
+          <entry key="Python" value="79" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
@@ -487,7 +337,29 @@
     <favorites_list name="TensorFlow_tutorials" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TensorFlow_text_recognition/simple_word2vec.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7144">
+              <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TensorFlow_audio_recognition/audio_classification_train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+              <folding>
+                <element signature="e#380#389#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -498,7 +370,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>checkpoint_iteration_num</find>
       <find>checkpoint_step</find>
       <find>num_iterations</find>
       <find>MODEL_DIR</find>
@@ -528,6 +399,7 @@
       <find>get_test_bottlenecks</find>
       <find>split</find>
       <find>tr_sub_dirs</find>
+      <find>extract_features</find>
     </findStrings>
     <replaceStrings>
       <replace>output_dir_path</replace>
@@ -611,11 +483,10 @@
       <path value="$PROJECT_DIR$/tf-example-api-master/syntaxnet-master/dragnn/viz/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="357" />
-    <option name="y" value="282" />
-    <option name="width" value="3285" />
-    <option name="height" value="1805" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1905" />
+    <option name="width" value="1948" />
+    <option name="height" value="2075" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -648,6 +519,11 @@
             <path>
               <item name="TensorFlow_tutorials" type="b2602c69:ProjectViewProjectNode" />
               <item name="TensorFlow_tutorials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TensorFlow_tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TensorFlow_tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="TensorFlow_audio_recognition" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -945,9 +821,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="143" y="113" width="1314" height="722" extended-state="0" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="848" y="166" width="224" height="697" id="Project" order="0" sideWeight="0.49328858" visible="true" weight="0.20747218" />
+      <window_info active="true" content_ui="combo" x="848" y="166" width="224" height="697" id="Project" order="0" sideWeight="0.49328858" visible="true" weight="0.17749497" />
       <window_info id="Structure" order="1" sideWeight="0.49433428" weight="0.24983256" />
       <window_info id="Favorites" order="2" sideWeight="0.5056657" side_tool="true" weight="0.24983256" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1112,9 +989,7 @@
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3/six/moves/__init__.pyi">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://C:/develop/tools/Anaconda3/Lib/tarfile.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://C:/develop/tools/Anaconda3/Lib/tarfile.py" />
     <entry file="file://$PROJECT_DIR$/tf-example-api-master/object_detection/object_detection_tutorial.py" />
     <entry file="file://$PROJECT_DIR$/my_TensorFlow_demos/GoogleNet_inceptionV3_test/images/lemon.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -1135,13 +1010,7 @@
     <entry file="file://$PROJECT_DIR$/TensorFlow_train_own_data/train_own_datasets/test_images/daisy_2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/tensorflow/python/platform/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/tensorflow/python/platform/app.py" />
     <entry file="file://$PROJECT_DIR$/my_TensorFlow_demos/GoogleNet_inceptionV3_test/使用inception-v3做各种图像的识别.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1209,13 +1078,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/tensorflow/python/ops/nn_impl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="106" column="37" selection-start-line="106" selection-start-column="4" selection-end-line="106" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/tensorflow/python/ops/nn_impl.py" />
     <entry file="file://$PROJECT_DIR$/TensorFlow_captcha_recognition/2-生成tfrecord文件.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -1250,23 +1113,6 @@
     <entry file="file://$PROJECT_DIR$/TensorFlow_text_recognition/tsne.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow_text_recognition/cnn-text-classification-tf-master/data_helpers.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow_text_recognition/cnn-text-classification-tf-master/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1875">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow_text_recognition/cnn-text-classification-tf-master/text_cnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TensorFlow_text_recognition/cnn-text-classification-tf-master/eval.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -1274,27 +1120,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow_text_recognition/simple_word2vec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="31" column="62" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/tensorflow/python/platform/flags.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="124" selection-start-line="124" selection-end-line="124" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow_audio_recognition/audio_classification_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2698">
-          <caret line="257" column="47" lean-forward="true" selection-start-line="257" selection-start-column="47" selection-end-line="257" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/tensorflow/python/platform/flags.py" />
     <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/bounding_boxes_75071.txt" />
     <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/data/sex_train_output/revision_info.txt" />
     <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/face-detection-mtcnn-master/result-preview/multi-faces/output_0_12.png">
@@ -1306,13 +1132,7 @@
     <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/face-detection-mtcnn-master/result-preview/multi-faces/output_0_16.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://C:/develop/tools/Anaconda3/Lib/ntpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="308" column="4" selection-start-line="308" selection-start-column="4" selection-end-line="308" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/develop/tools/Anaconda3/Lib/ntpath.py" />
     <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/src/facenet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
@@ -1373,6 +1193,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow_text_recognition/cnn-text-classification-tf-master/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3983">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow_text_recognition/cnn-text-classification-tf-master/data_helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1194" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow_text_recognition/cnn-text-classification-tf-master/text_cnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow_text_recognition/simple_word2vec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7144">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow_audio_recognition/audio_classification_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+          <folding>
+            <element signature="e#380#389#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
