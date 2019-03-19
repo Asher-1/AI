@@ -6,6 +6,12 @@ DCGAN 深层卷积的生成对抗网络
 
 import tensorflow as tf
 
+# data path
+ROOT_PATH = "D:/develop/workstations/GitHub/Datasets/DL/"
+DATA_PATH = ROOT_PATH + "Images/AI_Photoshop_data/trainning_data/"
+IMAGE_OUTPATH = ROOT_PATH + "trained_outputs/GAN_image_output/output_images/"
+MODEL_PATH = ROOT_PATH + "trained_outputs/GAN_image_output/model/"
+
 # Hyper parameter（超参数）
 EPOCHS = 100
 BATCH_SIZE = 128
@@ -15,7 +21,7 @@ BETA_1 = 0.5
 
 # 定义判别器模型
 def discriminator_model():
-    model = tf.keras.models.Sequential()
+    model = tf.keras.Sequential()
 
     model.add(tf.keras.layers.Conv2D(
         64,  # 64 个过滤器，输出的深度（depth）是 64
@@ -43,7 +49,7 @@ def discriminator_model():
 # 定义生成器模型
 # 从随机数来生成图片
 def generator_model():
-    model = tf.keras.models.Sequential()
+    model = tf.keras.Sequential()  # a kind of linear stack layers
     # 输入的维度是 100, 输出维度（神经元个数）是1024 的全连接层
     model.add(tf.keras.layers.Dense(input_dim=100, units=1024))
     model.add(tf.keras.layers.Activation("tanh"))
@@ -67,7 +73,7 @@ def generator_model():
 # 构造一个 Sequential 对象，包含一个 生成器 和一个 判别器
 # 输入 -> 生成器 -> 判别器 -> 输出
 def generator_containing_discriminator(generator, discriminator):
-    model = tf.keras.models.Sequential()
+    model = tf.keras.Sequential()
     model.add(generator)
     discriminator.trainable = False  # 初始时 判别器 不可被训练
     model.add(discriminator)

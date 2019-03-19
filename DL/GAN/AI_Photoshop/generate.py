@@ -19,7 +19,7 @@ def generate():
     g.compile(loss="binary_crossentropy", optimizer=tf.keras.optimizers.Adam(lr=LEARNING_RATE, beta_1=BETA_1))
 
     # 加载训练好的 生成器 参数
-    g.load_weights("generator_weight")
+    g.load_weights(MODEL_PATH + "generator_weight")
 
     # 连续型均匀分布的随机数据（噪声）
     random_data = np.random.uniform(-1, 1, size=(BATCH_SIZE, 100))
@@ -30,7 +30,7 @@ def generate():
     # 用生成的图片数据生成 PNG 图片
     for i in range(BATCH_SIZE):
         image = images[i] * 127.5 + 127.5
-        Image.fromarray(image.astype(np.uint8)).save("image-%s.png" % i)
+        Image.fromarray(image.astype(np.uint8)).save(IMAGE_OUTPATH + "image-%s.png" % i)
 
 
 if __name__ == "__main__":

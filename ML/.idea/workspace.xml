@@ -2,182 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e5d9e7c-930f-4006-9af8-6e364891f1cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DL/.idea/DL.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DL/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DL/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DL/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DL/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomForest/10.1.Iris_DecisionTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomForest/10.2.Iris_DecisionTree_Enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomForest/10.3.DecisionTreeRegressor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomForest/10.4.MultiOutput_DTR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomForest/10.5.Iris_RandomForest_Enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomForest/10.6.Bagging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomForest/iris.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomForest/iris.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceAI/face_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/OpenSourceProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/.idea/DL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/DL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/generate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/generate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/network.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/案例二AI制图训练结果/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/案例二AI制图训练结果/generator_weight" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/MachineLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MachineLearning.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/embedding/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/embedding/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/embedding/word2vec.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/embedding/word2vec_kernels.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/embedding/word2vec_ops.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/embedding/word2vec_optimized.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/embedding/word2vec_optimized_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/embedding/word2vec_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/alexnet/BUILD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/alexnet/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/alexnet/alexnet_benchmark.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/cifar10/BUILD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/cifar10/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/cifar10/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/cifar10/cifar10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/cifar10/cifar10_eval.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/cifar10/cifar10_input.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/cifar10/cifar10_input_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/cifar10/cifar10_multi_gpu_train.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/cifar10/cifar10_train.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/cifar10_estimator/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/cifar10_estimator/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/cifar10_estimator/cifar10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/cifar10_estimator/cifar10_main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/cifar10_estimator/cifar10_model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/cifar10_estimator/cifar10_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/cifar10_estimator/cmle_config.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/cifar10_estimator/generate_cifar10_tfrecords.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/cifar10_estimator/model_base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/imagenet/BUILD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/imagenet/classify_image.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/mnist/BUILD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/mnist/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/image/mnist/convolutional.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/rnn/BUILD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/rnn/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/rnn/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/rnn/ptb/BUILD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/rnn/ptb/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/rnn/ptb/ptb_word_lm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/rnn/ptb/reader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/rnn/ptb/reader_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/rnn/ptb/util.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/rnn/quickdraw/BUILD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/rnn/quickdraw/create_dataset.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTools/rnn/quickdraw/train_model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/tensorflow_cnn_alexnet.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/tensorflow_cnn_cifar10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/tensorflow_cnn_mnist.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/tensorflow_cnn_vgg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MNISTClassification/12_Softmax_regression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MNISTClassification/13_saving_model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MNISTClassification/14_restoring_model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MNISTClassification/16_DNN.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MNISTClassification/17_tensorboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MusicClassification/logistic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MusicClassification/neural_network.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetwork/HandwrittenDigitsRecognition.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetwork/NeuralNetwork.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetwork/SimpleTest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetwork/VisualizeDigits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetwork/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SVM/SVM.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SVM/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/Hierarchical_Clustering.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000011.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000013.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000014.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000016.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000017.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000018.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000019.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000020.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000021.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000022.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000023.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000025.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000026.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000027.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000028.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000029.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000030.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000031.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000032.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000033.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000034.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000035.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000036.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000037.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000038.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000039.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000040.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000041.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000042.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000043.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000044.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000045.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000046.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000047.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000048.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000049.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000050.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000051.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000052.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000053.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000054.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000055.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000056.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000057.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000058.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000059.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000060.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000061.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000062.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000063.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000064.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000065.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000066.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000067.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000068.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000069.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000070.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000071.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000072.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000073.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000074.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/img/000075.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering/tree.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linearRegression/00_tensorflow_version.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linearRegression/01_first_graph.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linearRegression/02_better_session_run.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linearRegression/03_global_variables_initializer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linearRegression/04_interactive_session.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linearRegression/05_manager_graph.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linearRegression/06_lifecycle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linearRegression/07_linear_regression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linearRegression/08_manually_gradients.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linearRegression/09_autodiff.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linearRegression/10_using_optimizer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linearRegression/11_placeholder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/TensorFlow_tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/TensorFlow_tutorials.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -191,6 +31,7 @@
     <SUITE FILE_PATH="coverage/ML$SVMForFaceDetection.coverage" NAME="SVMForFaceDetection Coverage Results" MODIFIED="1550997329925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SVM" />
     <SUITE FILE_PATH="coverage/MachineLearning$08_manually_gradients.coverage" NAME="08_manually_gradients Coverage Results" MODIFIED="1546775408262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linearRegression" />
     <SUITE FILE_PATH="coverage/ML$10_2_Iris_DecisionTree_Enum.coverage" NAME="10.2.Iris_DecisionTree_Enum Coverage Results" MODIFIED="1550846141177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RandomForest" />
+    <SUITE FILE_PATH="coverage/ML$face_detection.coverage" NAME="face_detection Coverage Results" MODIFIED="1552967871908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceAI" />
     <SUITE FILE_PATH="coverage/ML$tensorflow_cnn_mnist.coverage" NAME="tensorflow_cnn_mnist Coverage Results" MODIFIED="1548428139971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN" />
     <SUITE FILE_PATH="coverage/MachineLearning$10_using_optimizer.coverage" NAME="10_using_optimizer Coverage Results" MODIFIED="1546776253012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linearRegression" />
     <SUITE FILE_PATH="coverage/ML$10_4_MultiOutput_DTR.coverage" NAME="10.4.MultiOutput_DTR Coverage Results" MODIFIED="1550846322733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RandomForest" />
@@ -203,9 +44,12 @@
     <SUITE FILE_PATH="coverage/MachineLearning$neural_network.coverage" NAME="neural_network Coverage Results" MODIFIED="1546343049717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MusicClassification" />
     <SUITE FILE_PATH="coverage/MachineLearning$14_restoring_model.coverage" NAME="14_restoring_model Coverage Results" MODIFIED="1547473195089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNISTClassification" />
     <SUITE FILE_PATH="coverage/MachineLearning$00_tensorflow_version.coverage" NAME="00_tensorflow_version Coverage Results" MODIFIED="1546774501057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linearRegression" />
+    <SUITE FILE_PATH="coverage/ML$fr_knn.coverage" NAME="fr_knn Coverage Results" MODIFIED="1552969644926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceAI" />
     <SUITE FILE_PATH="coverage/ML$10_5_Iris_RandomForest_Enum.coverage" NAME="10.5.Iris_RandomForest_Enum Coverage Results" MODIFIED="1550846378233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RandomForest" />
     <SUITE FILE_PATH="coverage/MachineLearning$16_DNN.coverage" NAME="16_DNN Coverage Results" MODIFIED="1547724566250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNISTClassification" />
+    <SUITE FILE_PATH="coverage/ML$face_hog.coverage" NAME="face_hog Coverage Results" MODIFIED="1552965391374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceAI" />
     <SUITE FILE_PATH="coverage/MachineLearning$12_Softmax_regression.coverage" NAME="12_Softmax_regression Coverage Results" MODIFIED="1547725533049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNISTClassification" />
+    <SUITE FILE_PATH="coverage/ML$face_affine_coding.coverage" NAME="face_affine_coding Coverage Results" MODIFIED="1552965681392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceAI" />
     <SUITE FILE_PATH="coverage/MachineLearning$13_saving_model.coverage" NAME="13_saving_model Coverage Results" MODIFIED="1547473247545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNISTClassification" />
     <SUITE FILE_PATH="coverage/MachineLearning$logistic.coverage" NAME="logistic Coverage Results" MODIFIED="1546343014338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MusicClassification" />
     <SUITE FILE_PATH="coverage/ML$12_Softmax_regression.coverage" NAME="12_Softmax_regression Coverage Results" MODIFIED="1547727237981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNISTClassification" />
@@ -270,11 +114,11 @@
         <counts>
           <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -283,28 +127,31 @@
           <entry key="bak" value="9" />
           <entry key="data" value="1" />
           <entry key="dot" value="1" />
+          <entry key="jpg" value="1" />
           <entry key="md" value="1" />
-          <entry key="png" value="2" />
-          <entry key="py" value="60" />
+          <entry key="png" value="3" />
+          <entry key="py" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="2" />
+          <entry key="Image" value="4" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="68" />
+          <entry key="Python" value="81" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="14" />
-          <entry key="py" value="339" />
+          <entry key="dummy" value="4" />
+          <entry key="py" value="872" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="353" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="886" />
         </counts>
       </usages-collector>
     </session>
@@ -314,21 +161,75 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RandomForest/10.1.Iris_DecisionTree.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FaceAI/KNNcoding.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1675">
-              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+            <state relative-caret-position="469">
+              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+              <folding>
+                <element signature="e#244#262#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FaceAI/fr_knn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="196" lean-forward="true" selection-start-line="196" selection-end-line="196" />
+              <folding>
+                <element signature="e#86#115#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/develop/software/Anaconda3/Lib/ntpath.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/develop/software/Anaconda3/Lib/site-packages/face_recognition/api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FaceAI/face_detection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-30">
+              <caret line="64" column="25" lean-forward="true" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
+              <folding>
+                <element signature="e#632#654#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>h5py</find>
       <find>RandomizedPCA</find>
+      <find>load_image_file</find>
+      <find>image_files_in_folder</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -359,6 +260,10 @@
         <option value="$PROJECT_DIR$/RandomForest/10.5.Iris_RandomForest_Enum.py" />
         <option value="$PROJECT_DIR$/RandomForest/10.4.MultiOutput_DTR.py" />
         <option value="$PROJECT_DIR$/SVM/SVMForFaceDetection.py" />
+        <option value="$PROJECT_DIR$/FaceAI/fr_train.py" />
+        <option value="$PROJECT_DIR$/FaceAI/face_affine_coding.py" />
+        <option value="$PROJECT_DIR$/FaceAI/face_detection.py" />
+        <option value="$PROJECT_DIR$/FaceAI/fr_knn.py" />
       </list>
     </option>
   </component>
@@ -368,9 +273,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="285" />
-    <option name="y" value="245" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="350" />
+    <option name="y" value="272" />
     <option name="width" value="3285" />
     <option name="height" value="1805" />
   </component>
@@ -393,7 +298,13 @@
             <path>
               <item name="ML" type="b2602c69:ProjectViewProjectNode" />
               <item name="ML" type="462c0819:PsiDirectoryNode" />
-              <item name="RandomForest" type="462c0819:PsiDirectoryNode" />
+              <item name="FaceAI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ML" type="462c0819:PsiDirectoryNode" />
+              <item name="FaceAI" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -403,10 +314,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -432,95 +343,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SVMForFaceDetection">
-    <configuration name="10.3.DecisionTreeRegressor" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MachineLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RandomForest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RandomForest/10.3.DecisionTreeRegressor.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="10.4.MultiOutput_DTR" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MachineLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RandomForest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RandomForest/10.4.MultiOutput_DTR.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="10.5.Iris_RandomForest_Enum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MachineLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RandomForest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RandomForest/10.5.Iris_RandomForest_Enum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="10.6.Bagging" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MachineLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RandomForest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RandomForest/10.6.Bagging.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.fr_knn">
     <configuration name="SVMForFaceDetection" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -543,20 +366,108 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="face_affine_coding" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FaceAI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\develop\workstations\GitHub\AI\ML\FaceAI\KNNcoding.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_detection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FaceAI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaceAI/face_detection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_hog" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FaceAI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaceAI/face_hog.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fr_knn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FaceAI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaceAI/fr_knn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.10.3.DecisionTreeRegressor" />
-      <item itemvalue="Python.10.4.MultiOutput_DTR" />
-      <item itemvalue="Python.10.5.Iris_RandomForest_Enum" />
-      <item itemvalue="Python.10.6.Bagging" />
       <item itemvalue="Python.SVMForFaceDetection" />
+      <item itemvalue="Python.face_detection" />
+      <item itemvalue="Python.face_hog" />
+      <item itemvalue="Python.face_affine_coding" />
+      <item itemvalue="Python.fr_knn" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fr_knn" />
+        <item itemvalue="Python.face_detection" />
+        <item itemvalue="Python.face_affine_coding" />
+        <item itemvalue="Python.face_hog" />
         <item itemvalue="Python.SVMForFaceDetection" />
-        <item itemvalue="Python.10.6.Bagging" />
-        <item itemvalue="Python.10.5.Iris_RandomForest_Enum" />
-        <item itemvalue="Python.10.4.MultiOutput_DTR" />
-        <item itemvalue="Python.10.3.DecisionTreeRegressor" />
       </list>
     </recent_temporary>
   </component>
@@ -584,15 +495,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4957806" visible="true" weight="0.13864702" />
-      <window_info id="Structure" order="1" sideWeight="0.5042194" side_tool="true" weight="0.17682518" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4944853" visible="true" weight="0.1406564" />
+      <window_info id="Structure" order="1" sideWeight="0.5055147" side_tool="true" weight="0.1406564" />
       <window_info id="Favorites" order="2" sideWeight="0.5021097" side_tool="true" weight="0.17682518" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996651" weight="0.33002833" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996651" weight="0.2733711" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.33427763" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32994923" />
@@ -602,12 +512,12 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007949" side_tool="true" weight="0.3282572" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49920508" weight="0.1898017" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49920508" weight="0.3282572" />
-      <window_info anchor="right" x="0" y="0" width="337" height="637" id="Documentation" side_tool="true" weight="0.32953784" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.23442733" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.23308775" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="337" height="637" id="Documentation" order="5" side_tool="true" weight="0.32953784" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4957806" visible="true" weight="0.15606162" />
@@ -647,115 +557,25 @@
           <line>1956</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FaceAI/fr_knn.py</url>
+          <line>193</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/linearRegression/06_lifecycle.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linearRegression/05_manager_graph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-199" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linearRegression/04_interactive_session.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNISTClassification/12_Softmax_regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNISTClassification/16_DNN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="63" column="49" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNISTClassification/17_tensorboard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-104">
-          <caret line="91" column="78" selection-start-line="91" selection-start-column="78" selection-end-line="91" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNISTClassification/13_saving_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" selection-start-line="10" selection-end-line="13" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/tensorflow_cnn_mnist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-124">
-          <caret line="88" column="18" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/CNNTools/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/CNNTools/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/CNNTools/image/mnist/BUILD">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/CNNTools/image/cifar10_estimator/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/CNNTools/image/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/CNNTools/image/mnist/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/CNNTools/image/alexnet/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/CNNTools/image/cifar10/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/tensorflow_cnn_cifar10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="168" lean-forward="true" selection-start-line="168" selection-end-line="168" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/CNNTools/image/cifar10/cifar10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="52" column="96" selection-start-line="52" selection-start-column="96" selection-end-line="52" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/CNNTools/image/cifar10/cifar10_input.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/tensorflow_cnn_vgg.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/CNNTools/image/mnist/BUILD" />
+    <entry file="file://$PROJECT_DIR$/CNN/CNNTools/image/cifar10_estimator/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/CNN/CNNTools/image/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/CNN/CNNTools/image/mnist/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/CNN/CNNTools/image/alexnet/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/CNN/CNNTools/image/cifar10/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/CNN/tensorflow_cnn_cifar10.py" />
+    <entry file="file://$PROJECT_DIR$/CNN/CNNTools/image/cifar10/cifar10.py" />
+    <entry file="file://$PROJECT_DIR$/CNN/CNNTools/image/cifar10/cifar10_input.py" />
+    <entry file="file://$PROJECT_DIR$/CNN/tensorflow_cnn_vgg.py" />
     <entry file="file://$PROJECT_DIR$/keras_tutorials/00_hello_keras.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-59">
@@ -763,13 +583,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/keras/datasets/mnist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/keras/datasets/mnist.py" />
     <entry file="file://$PROJECT_DIR$/keras_tutorials/03_keras_mnist.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1802">
@@ -777,20 +591,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/keras_applications/vgg16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="199" column="37" lean-forward="true" selection-start-line="199" selection-start-column="37" selection-end-line="199" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/keras/applications/vgg16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/keras_applications/vgg16.py" />
+    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/keras/applications/vgg16.py" />
     <entry file="file://$PROJECT_DIR$/RandomForest/iris.dot">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -805,42 +607,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/pydotplus/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-359" />
-      </provider>
-    </entry>
+    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/pydotplus/__init__.py" />
     <entry file="file://$PROJECT_DIR$/RandomForest/iris.data">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/RandomForest/10.1.Iris_DecisionTree.py.bak" />
-    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/sklearn/tree/export.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10450">
-          <caret line="426" selection-start-line="426" selection-end-line="426" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/develop/tools/Anaconda3/Lib/ctypes/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="362" selection-start-line="362" selection-end-line="362" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/pydotplus/graphviz.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="535" selection-start-line="535" selection-end-line="535" />
-          <folding>
-            <element signature="e#18269#18463#0" />
-            <element signature="e#18539#19222#0" />
-            <element signature="e#19254#19419#0" />
-            <element signature="e#19506#19551#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/sklearn/tree/export.py" />
+    <entry file="file://C:/develop/tools/Anaconda3/Lib/ctypes/__init__.py" />
+    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/pydotplus/graphviz.py" />
     <entry file="file://$PROJECT_DIR$/RandomForest/iris.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -876,70 +650,101 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-          <folding>
-            <element signature="e#42#60#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#66#95#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SVM/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SVM/SVM.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="121" column="58" lean-forward="true" selection-start-line="121" selection-start-column="58" selection-end-line="121" selection-end-column="58" />
-          <folding>
-            <element signature="e#41#78#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/sklearn/datasets/lfw.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="350" lean-forward="true" selection-start-line="350" selection-end-line="350" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/sklearn/decomposition/pca.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="323" column="8" selection-start-line="323" selection-start-column="8" selection-end-line="323" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/sklearn/model_selection/_split.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="2052" selection-start-line="2052" selection-end-line="2052" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1.py" />
+    <entry file="file://$PROJECT_DIR$/SVM/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/SVM/SVM.py" />
+    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/sklearn/datasets/lfw.py" />
+    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/sklearn/decomposition/pca.py" />
+    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/sklearn/model_selection/_split.py" />
     <entry file="file://$PROJECT_DIR$/SVM/SVMForFaceDetection.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
           <caret line="121" column="41" selection-start-line="121" selection-start-column="41" selection-end-line="121" selection-end-column="41" />
-          <folding>
-            <element signature="e#41#78#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RandomForest/10.1.Iris_DecisionTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1675">
+        <state relative-caret-position="25">
           <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceAI/fr_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceAI/li_00.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceAI/face_hog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceAI/KNNcoding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding>
+            <element signature="e#244#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/Lib/site-packages/face_recognition/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/Lib/site-packages/face_recognition/face_detection_cli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-430">
+          <caret line="28" column="75" lean-forward="true" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceAI/face_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="64" column="25" lean-forward="true" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
+          <folding>
+            <element signature="e#632#654#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/Lib/site-packages/face_recognition/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceAI/fr_knn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="196" lean-forward="true" selection-start-line="196" selection-end-line="196" />
+          <folding>
+            <element signature="e#86#115#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

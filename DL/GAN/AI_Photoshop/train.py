@@ -16,12 +16,12 @@ from network import *
 def train():
     # 确保包含所有图片的 images 文件夹在所有 Python 文件的同级目录下
     # 当然了，你也可以自定义文件夹名和路径
-    if not os.path.exists("images"):
+    if not os.path.exists(DATA_PATH):
         raise Exception("包含所有图片的 images 文件夹不在此目录下，请添加")
 
     # 获取训练数据
     data = []
-    for image in glob.glob("images/*"):
+    for image in glob.glob(DATA_PATH + "*"):
         image_data = misc.imread(image)  # imread 利用 PIL 来读取图片数据
         data.append(image_data)
     input_data = np.array(data)
@@ -42,14 +42,23 @@ def train():
 
     # 配置 生成器 和 判别器
     g.compile(loss="binary_crossentropy", optimizer=g_optimizer)
+    # if os.path.exists(MODEL_PATH + "generator_weight"):
+    #     g.load_weights(MODEL_PATH + "generator_weight")
+    #     # 若成功加载前面保存的参数，输出下列信息
+    #     print("generator_weight loaded successfully...")
+
     d_on_g.compile(loss="binary_crossentropy", optimizer=g_optimizer)
     d.trainable = True
     d.compile(loss="binary_crossentropy", optimizer=d_optimizer)
+    # if os.path.exists(MODEL_PATH + "discriminator_weight"):
+    #     d.load_weights(MODEL_PATH + "discriminator_weight")
+    #     # 若成功加载前面保存的参数，输出下列信息
+    #     print("discriminator_weight loaded successfully...")
 
     # 开始训练
     for epoch in range(EPOCHS):
         for index in range(int(input_data.shape[0] / BATCH_SIZE)):
-            input_batch = input_data[index * BATCH_SIZE : (index + 1) * BATCH_SIZE]
+            input_batch = input_data[index * BATCH_SIZE: (index + 1) * BATCH_SIZE]
 
             # 连续型均匀分布的随机数据（噪声）
             random_data = np.random.uniform(-1, 1, size=(BATCH_SIZE, 100))
@@ -80,8 +89,8 @@ def train():
         # 保存 生成器 和 判别器 的参数
         # 大家也可以设置保存时名称不同（比如后接 epoch 的数字），参数文件就不会被覆盖了
         if epoch % 10 == 9:
-            g.save_weights("generator_weight", True)
-            d.save_weights("discriminator_weight", True)
+            g.save_weights(MODEL_PATH + "generator_weight", True, save_format="h5")
+            d.save_weights(MODEL_PATH + "discriminator_weight", True, save_format="h5")
 
 
 if __name__ == "__main__":
