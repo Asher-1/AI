@@ -2,23 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e5d9e7c-930f-4006-9af8-6e364891f1cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FaceAI/face_detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/OpenSourceProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/.idea/DL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/DL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/.idea/caffeProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/h5/test0.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/h5/testlist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/h5/train0.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/h5/train1.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/h5/trainlist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/hdf5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/image/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/image/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/image/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/draw_loss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/hdf5_gen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/makeh5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/demo/image/cat gray.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/demo/image/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/demo/image/cat_gray.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/demo/image/fish-bike.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face-detection/face_detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face-detection/run_face_detect_batch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face-detection/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/common/cnns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/common/level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/common/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/generate_batch_prototxts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/level1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/level2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/level3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/makeh5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/EN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/NM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/draw_landmarkfortest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/draw_rect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/multi_train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/train.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/generate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/generate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/network.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/network.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/案例二AI制图训练结果/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/GAN/AI_Photoshop/案例二AI制图训练结果/generator_weight" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MachineLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MachineLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +61,7 @@
     <SUITE FILE_PATH="coverage/ML$SVMForFaceDetection.coverage" NAME="SVMForFaceDetection Coverage Results" MODIFIED="1550997329925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SVM" />
     <SUITE FILE_PATH="coverage/MachineLearning$08_manually_gradients.coverage" NAME="08_manually_gradients Coverage Results" MODIFIED="1546775408262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linearRegression" />
     <SUITE FILE_PATH="coverage/ML$10_2_Iris_DecisionTree_Enum.coverage" NAME="10.2.Iris_DecisionTree_Enum Coverage Results" MODIFIED="1550846141177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RandomForest" />
-    <SUITE FILE_PATH="coverage/ML$face_detection.coverage" NAME="face_detection Coverage Results" MODIFIED="1552967871908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceAI" />
+    <SUITE FILE_PATH="coverage/ML$face_detection.coverage" NAME="face_detection Coverage Results" MODIFIED="1553104785915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceAI" />
     <SUITE FILE_PATH="coverage/ML$tensorflow_cnn_mnist.coverage" NAME="tensorflow_cnn_mnist Coverage Results" MODIFIED="1548428139971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN" />
     <SUITE FILE_PATH="coverage/MachineLearning$10_using_optimizer.coverage" NAME="10_using_optimizer Coverage Results" MODIFIED="1546776253012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linearRegression" />
     <SUITE FILE_PATH="coverage/ML$10_4_MultiOutput_DTR.coverage" NAME="10.4.MultiOutput_DTR Coverage Results" MODIFIED="1550846322733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RandomForest" />
@@ -130,7 +160,7 @@
           <entry key="jpg" value="1" />
           <entry key="md" value="1" />
           <entry key="png" value="3" />
-          <entry key="py" value="73" />
+          <entry key="py" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -138,7 +168,7 @@
           <entry key="Image" value="4" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="81" />
+          <entry key="Python" value="87" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -162,52 +192,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FaceAI/KNNcoding.py">
+        <entry file="file://$PROJECT_DIR$/FaceAI/fr_knn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
-              <folding>
-                <element signature="e#244#262#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="4700">
+              <caret line="194" column="46" selection-start-line="194" selection-start-column="46" selection-end-line="194" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FaceAI/face_hog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FaceAI/fr_knn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="196" lean-forward="true" selection-start-line="196" selection-end-line="196" />
-              <folding>
-                <element signature="e#86#115#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/develop/software/Anaconda3/Lib/ntpath.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="76" selection-start-line="76" selection-end-line="76" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/develop/software/Anaconda3/Lib/site-packages/face_recognition/api.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FaceAI/face_detection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30">
-              <caret line="64" column="25" lean-forward="true" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
+            <state relative-caret-position="288">
+              <caret line="72" column="44" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="66" />
               <folding>
                 <element signature="e#632#654#0" expanded="true" />
               </folding>
@@ -274,10 +280,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="350" />
-    <option name="y" value="272" />
-    <option name="width" value="3285" />
-    <option name="height" value="1805" />
+    <option name="x" value="325" />
+    <option name="y" value="-40" />
+    <option name="width" value="2825" />
+    <option name="height" value="1923" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -300,12 +306,6 @@
               <item name="ML" type="462c0819:PsiDirectoryNode" />
               <item name="FaceAI" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ML" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ML" type="462c0819:PsiDirectoryNode" />
-              <item name="FaceAI" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -317,7 +317,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -343,7 +343,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fr_knn">
+  <component name="RunManager" selected="Python.face_detection">
     <configuration name="SVMForFaceDetection" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -463,8 +463,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.fr_knn" />
         <item itemvalue="Python.face_detection" />
+        <item itemvalue="Python.fr_knn" />
         <item itemvalue="Python.face_affine_coding" />
         <item itemvalue="Python.face_hog" />
         <item itemvalue="Python.SVMForFaceDetection" />
@@ -494,15 +494,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4944853" visible="true" weight="0.1406564" />
       <window_info id="Structure" order="1" sideWeight="0.5055147" side_tool="true" weight="0.1406564" />
       <window_info id="Favorites" order="2" sideWeight="0.5021097" side_tool="true" weight="0.17682518" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996651" weight="0.2733711" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.33427763" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4996651" visible="true" weight="0.2733711" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26345608" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32994923" />
@@ -557,16 +558,10 @@
           <line>1956</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/FaceAI/fr_knn.py</url>
-          <line>193</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CNN/CNNTools/image/mnist/BUILD" />
     <entry file="file://$PROJECT_DIR$/CNN/CNNTools/image/cifar10_estimator/__init__.py" />
     <entry file="file://$PROJECT_DIR$/CNN/CNNTools/image/__init__.py" />
     <entry file="file://$PROJECT_DIR$/CNN/CNNTools/image/mnist/__init__.py" />
@@ -683,23 +678,6 @@
     <entry file="file://$PROJECT_DIR$/FaceAI/li_00.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/FaceAI/face_hog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FaceAI/KNNcoding.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
-          <folding>
-            <element signature="e#244#262#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/develop/software/Anaconda3/Lib/site-packages/face_recognition/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -714,16 +692,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FaceAI/face_detection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30">
-          <caret line="64" column="25" lean-forward="true" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
-          <folding>
-            <element signature="e#632#654#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/develop/software/Anaconda3/Lib/site-packages/face_recognition/api.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -733,17 +701,45 @@
     </entry>
     <entry file="file://C:/develop/software/Anaconda3/Lib/ntpath.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        <state relative-caret-position="323">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceAI/KNNcoding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceAI/face_hog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FaceAI/fr_knn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="196" lean-forward="true" selection-start-line="196" selection-end-line="196" />
+        <state relative-caret-position="4700">
+          <caret line="194" column="46" selection-start-line="194" selection-start-column="46" selection-end-line="194" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1208597339/dlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="1098" column="4" selection-start-line="1098" selection-start-column="4" selection-end-line="1098" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceAI/face_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="72" column="44" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="66" />
           <folding>
-            <element signature="e#86#115#0" expanded="true" />
+            <element signature="e#632#654#0" expanded="true" />
           </folding>
         </state>
       </provider>

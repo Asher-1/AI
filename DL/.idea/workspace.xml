@@ -2,23 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0045b2d-7d90-4c38-9d79-a783679ca237" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ML/FaceAI/face_detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/OpenSourceProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/.idea/caffeProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/h5/test0.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/h5/testlist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/h5/train0.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/h5/train1.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/h5/trainlist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/hdf5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/image/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/image/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/image/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/draw_loss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/hdf5_gen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/makeh5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/demo/image/cat gray.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/demo/image/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/demo/image/cat_gray.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/demo/image/fish-bike.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face-detection/face_detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face-detection/run_face_detect_batch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face-detection/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/common/cnns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/common/level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/common/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/generate_batch_prototxts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/level1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/level2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/level3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/makeh5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/draw_landmarkfortest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/train.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GAN/AI_Photoshop/generate.py" beforeDir="false" afterPath="$PROJECT_DIR$/GAN/AI_Photoshop/generate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GAN/AI_Photoshop/network.py" beforeDir="false" afterPath="$PROJECT_DIR$/GAN/AI_Photoshop/network.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GAN/AI_Photoshop/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/GAN/AI_Photoshop/train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GAN/AI_Photoshop/案例二AI制图训练结果/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GAN/AI_Photoshop/案例二AI制图训练结果/generator_weight" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/.idea/MachineLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/MachineLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +72,7 @@
     <session id="1223921058">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="2" />
@@ -86,20 +111,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mmy_axis.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-              <folding>
-                <element signature="e#106#125#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -153,9 +165,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="350" />
-    <option name="y" value="272" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="70" />
+    <option name="y" value="85" />
     <option name="width" value="3285" />
     <option name="height" value="1805" />
   </component>
@@ -185,7 +197,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TensorFlow_tutorials" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../caffeProjects" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
@@ -411,14 +423,14 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="140" y="109" width="1314" height="722" extended-state="1" />
+    <frame x="28" y="34" width="1314" height="722" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2876902" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28696343" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989953" visible="true" weight="0.48730963" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989953" weight="0.24365482" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -853,8 +865,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mmy_axis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="250">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
           <folding>
             <element signature="e#106#125#0" expanded="true" />
           </folding>

@@ -1,0 +1,2 @@
+D:\develop\workstations\GitHub\AI\caffeProjects\data_tools\train0.h5
+D:\develop\workstations\GitHub\AI\caffeProjects\data_tools\train1.h5
