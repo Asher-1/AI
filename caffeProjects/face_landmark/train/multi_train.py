@@ -63,5 +63,5 @@ def train(level=1):
 
 if __name__ == '__main__':
     pool_on = True
-    for level in range(1, 4):
+    for level in range(2, 4):
         train(level)

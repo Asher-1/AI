@@ -2,53 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e5d9e7c-930f-4006-9af8-6e364891f1cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/.idea/caffeProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/h5/test0.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/h5/testlist.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/h5/train0.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/h5/train1.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/h5/trainlist.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/hdf5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/image/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/image/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/image/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/draw_loss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/hdf5_gen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/makeh5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/demo/image/cat gray.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/demo/image/cat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/demo/image/cat_gray.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/demo/image/fish-bike.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face-detection/face_detect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face-detection/run_face_detect_batch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face-detection/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/common/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/common/cnns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/common/level.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/common/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/generate_batch_prototxts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/level1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/level2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/level3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/makeh5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/EN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/NM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/draw_landmarkfortest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/draw_rect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/level.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/multi_train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/CNN/class2_mlp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/haarcascade_frontalface_alt.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/face-detection/face_detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face-detection/face_detect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/draw_landmarkfortest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/draw_landmarkfortest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/multi_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/multi_train.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +103,7 @@
     <session id="-2063738310">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
@@ -157,7 +118,7 @@
           <entry key="bak" value="9" />
           <entry key="data" value="1" />
           <entry key="dot" value="1" />
-          <entry key="jpg" value="1" />
+          <entry key="jpg" value="2" />
           <entry key="md" value="1" />
           <entry key="png" value="3" />
           <entry key="py" value="79" />
@@ -165,7 +126,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="4" />
+          <entry key="Image" value="5" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Python" value="87" />
@@ -212,8 +173,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FaceAI/face_detection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="72" column="44" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="66" />
+            <state relative-caret-position="91">
+              <caret line="64" column="25" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
               <folding>
                 <element signature="e#632#654#0" expanded="true" />
               </folding>
@@ -279,11 +240,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="325" />
-    <option name="y" value="-40" />
-    <option name="width" value="2825" />
-    <option name="height" value="1923" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="267" />
+    <option name="y" value="185" />
+    <option name="width" value="3285" />
+    <option name="height" value="1805" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -301,11 +262,6 @@
               <item name="ML" type="b2602c69:ProjectViewProjectNode" />
               <item name="ML" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ML" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ML" type="462c0819:PsiDirectoryNode" />
-              <item name="FaceAI" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -314,7 +270,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DL" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -494,15 +450,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
-    <editor active="true" />
+    <frame x="107" y="74" width="1314" height="722" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4944853" visible="true" weight="0.1406564" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4944853" visible="true" weight="0.16693164" />
       <window_info id="Structure" order="1" sideWeight="0.5055147" side_tool="true" weight="0.1406564" />
       <window_info id="Favorites" order="2" sideWeight="0.5021097" side_tool="true" weight="0.17682518" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4996651" visible="true" weight="0.2733711" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996651" weight="0.32656515" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.26345608" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -675,9 +630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FaceAI/li_00.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://C:/develop/software/Anaconda3/Lib/site-packages/face_recognition/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -734,10 +686,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/FaceAI/li_00.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/FaceAI/face_detection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="72" column="44" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="66" />
+        <state relative-caret-position="91">
+          <caret line="64" column="25" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
           <folding>
             <element signature="e#632#654#0" expanded="true" />
           </folding>

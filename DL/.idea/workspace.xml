@@ -2,48 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0045b2d-7d90-4c38-9d79-a783679ca237" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/.idea/caffeProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/h5/test0.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/h5/testlist.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/h5/train0.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/h5/train1.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/h5/trainlist.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/hdf5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/image/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/image/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/HDF5/image/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/draw_loss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/hdf5_gen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/data_tools/makeh5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/demo/image/cat gray.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/demo/image/cat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/demo/image/cat_gray.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/demo/image/fish-bike.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face-detection/face_detect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face-detection/run_face_detect_batch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face-detection/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/common/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/common/cnns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/common/level.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/common/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/generate_batch_prototxts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/level1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/level2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/level3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/makeh5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/draw_landmarkfortest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNN/mlp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/FaceDetector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/MyGui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/caffe_net.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/capture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/face_recognition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/gender_recognition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/mainwindow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/haarcascade_frontalface_alt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/.idea/OpenSourceProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/OpenSourceProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/face-detection/face_detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face-detection/face_detect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/draw_landmarkfortest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/draw_landmarkfortest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/multi_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/multi_train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/train.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,11 +34,13 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/DL$play__2_.coverage" NAME="play (2) Coverage Results" MODIFIED="1552882087132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/3.Policy_Gradient" />
+    <SUITE FILE_PATH="coverage/DL$class2_mlp.coverage" NAME="class2_mlp Coverage Results" MODIFIED="1553185981727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN" />
     <SUITE FILE_PATH="coverage/DL$train.coverage" NAME="train Coverage Results" MODIFIED="1551190906582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN" />
     <SUITE FILE_PATH="coverage/DL$mmy_axis.coverage" NAME="mmy_axis Coverage Results" MODIFIED="1552882569522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DL$train__2_.coverage" NAME="train (2) Coverage Results" MODIFIED="1552611588926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GAN/AI_Photoshop" />
     <SUITE FILE_PATH="coverage/DL$play__1_.coverage" NAME="play (1) Coverage Results" MODIFIED="1552733287047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/2.DQN_Maze" />
     <SUITE FILE_PATH="coverage/DL$16_DNN.coverage" NAME="16_DNN Coverage Results" MODIFIED="1551190874820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNISTClassification" />
+    <SUITE FILE_PATH="coverage/DL$tensorflow_cnn_alexnet.coverage" NAME="tensorflow_cnn_alexnet Coverage Results" MODIFIED="1553602972019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN" />
     <SUITE FILE_PATH="coverage/DL$generate.coverage" NAME="generate Coverage Results" MODIFIED="1552569609405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN/AI_Make_Music" />
     <SUITE FILE_PATH="coverage/DL$simple_robot.coverage" NAME="simple-robot Coverage Results" MODIFIED="1552378225904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NeuralNetwork" />
     <SUITE FILE_PATH="coverage/DL$pytest_in_test_py.coverage" NAME="pytest in test.py Coverage Results" MODIFIED="1551277172570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN" />
@@ -72,12 +55,13 @@
     <session id="1223921058">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -85,7 +69,7 @@
           <entry key="gpu" value="1" />
           <entry key="lrc" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="78" />
+          <entry key="py" value="81" />
           <entry key="txt" value="12" />
         </counts>
       </usages-collector>
@@ -93,25 +77,39 @@
         <counts>
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Python" value="78" />
+          <entry key="Python" value="81" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1442" />
+          <entry key="dummy" value="1" />
+          <entry key="py" value="1444" />
           <entry key="txt" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="17" />
-          <entry key="Python" value="1442" />
+          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="Python" value="1444" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CNN/tensorflow_cnn_alexnet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="162" selection-start-line="162" selection-end-line="162" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -156,6 +154,7 @@
         <option value="$PROJECT_DIR$/RL/2.DQN_Maze/deep_q_learning.py" />
         <option value="$PROJECT_DIR$/RL/3.Policy_Gradient/play.py" />
         <option value="$PROJECT_DIR$/mmy_axis.py" />
+        <option value="$PROJECT_DIR$/CNN/class2_mlp.py" />
       </list>
     </option>
   </component>
@@ -165,9 +164,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="70" />
-    <option name="y" value="85" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1550" />
+    <option name="y" value="250" />
     <option name="width" value="3285" />
     <option name="height" value="1805" />
   </component>
@@ -186,6 +185,11 @@
             </path>
             <path>
               <item name="DL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DL" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DL" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
@@ -197,10 +201,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../caffeProjects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -215,6 +219,7 @@
       <recent name="D:\develop\workstations\GitHub\AI\DL\GAN\AI_Photoshop" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\workstations\GitHub\AI\DL\CNN" />
       <recent name="D:\develop\workstations\GitHub\AI\DL\GAN" />
     </key>
   </component>
@@ -230,8 +235,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mmy_axis">
-    <configuration name="generate (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.tensorflow_cnn_alexnet">
+    <configuration name="class2_mlp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,12 +244,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GAN/AI_Photoshop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CNN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GAN/AI_Photoshop/generate.py" />
+      <option name="SCRIPT_NAME" value="D:\develop\workstations\GitHub\AI\DL\CNN\mlp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,7 +324,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="play" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tensorflow_cnn_alexnet" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -327,12 +332,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RL/1.Q_learning_Maze" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CNN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL/1.Q_learning_Maze/play.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CNN/tensorflow_cnn_alexnet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -365,19 +370,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.test.py" />
-      <item itemvalue="Python.generate (1)" />
-      <item itemvalue="Python.play" />
       <item itemvalue="Python.play (1)" />
       <item itemvalue="Python.play (2)" />
       <item itemvalue="Python.mmy_axis" />
+      <item itemvalue="Python.class2_mlp" />
+      <item itemvalue="Python.tensorflow_cnn_alexnet" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tensorflow_cnn_alexnet" />
+        <item itemvalue="Python.class2_mlp" />
         <item itemvalue="Python.mmy_axis" />
         <item itemvalue="Python.play (2)" />
         <item itemvalue="Python.play (1)" />
-        <item itemvalue="Python.play" />
-        <item itemvalue="Python.generate (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -423,14 +428,15 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="28" y="34" width="1314" height="722" extended-state="0" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28696343" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21299396" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989953" weight="0.24365482" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989953" weight="0.37393767" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -441,12 +447,12 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010047" side_tool="true" weight="0.28611898" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.17453505" />
       <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" x="0" y="0" width="337" height="637" id="Documentation" side_tool="true" weight="0.32953784" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="337" height="637" id="Documentation" order="5" side_tool="true" weight="0.32953784" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" weight="0.3416321" />
@@ -488,27 +494,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit some codes" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MNISTClassification/16_DNN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="100" selection-start-line="100" selection-end-line="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RNN/network.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/tensorflow_cnn_vgg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/tensorflow/python/training/session_run_hook.py" />
     <entry file="file://C:/develop/tools/Anaconda3/Lib/collections/__init__.py" />
     <entry file="file://$PROJECT_DIR$/CNN/tensorflow_cnn_cifar10.py">
@@ -525,9 +510,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NeuralNetwork/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/NeuralNetwork/__init__.py" />
     <entry file="file://$PROJECT_DIR$/NeuralNetwork/simple-robot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -535,46 +518,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RNN/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3871">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RNN/README.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RNN/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="98" column="34" lean-forward="true" selection-start-line="98" selection-start-column="34" selection-end-line="98" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RNN/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1446">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#1014#1037#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/RNN/utils.py" />
+    <entry file="file://$PROJECT_DIR$/RNN/README.txt" />
+    <entry file="file://$PROJECT_DIR$/RNN/test.py" />
+    <entry file="file://$PROJECT_DIR$/RNN/train.py" />
     <entry file="file://$PROJECT_DIR$/CNN/ResNet/resnet_main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-          <folding>
-            <element signature="e#768#791#0" expanded="true" />
-            <element signature="e#3048#5241#0" />
-            <element signature="e#5267#7864#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -582,9 +533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9400">
           <caret line="376" selection-start-line="376" selection-end-line="376" />
-          <folding>
-            <element signature="e#889#923#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -599,9 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-          <folding>
-            <element signature="e#787#825#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -624,9 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="625">
           <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-          <folding>
-            <element signature="e#25#34#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -655,9 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2700">
           <caret line="108" selection-start-line="108" selection-end-line="108" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -665,9 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="e#51#64#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -689,9 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
           <caret line="9" selection-start-line="9" selection-end-line="14" selection-end-column="33" />
-          <folding>
-            <element signature="e#25#34#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -711,9 +644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1050">
           <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
-          <folding>
-            <element signature="e#63#81#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -721,9 +651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-          <folding>
-            <element signature="e#70#88#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -738,9 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="49" column="68" selection-start-line="49" selection-start-column="68" selection-end-line="49" selection-end-column="68" />
-          <folding>
-            <element signature="e#43#52#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -751,9 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-          <folding>
-            <element signature="e#74#94#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -761,9 +682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
           <caret line="59" column="49" selection-start-line="59" selection-start-column="49" selection-end-line="59" selection-end-column="49" />
-          <folding>
-            <element signature="e#65#83#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -771,15 +689,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="144" column="31" lean-forward="true" selection-start-line="144" selection-start-column="31" selection-end-line="144" selection-end-column="31" />
-          <folding>
-            <element signature="e#164#174#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GAN/AI_Photoshop/案例二AI制图训练结果/README.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/GAN/AI_Photoshop/案例二AI制图训练结果/README.txt" />
     <entry file="file://$PROJECT_DIR$/RL/2.DQN_Maze/README.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -787,9 +700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-          <folding>
-            <element signature="e#70#88#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -797,9 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2226">
           <caret line="41" column="50" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
-          <folding>
-            <element signature="e#169#179#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -807,28 +714,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="724">
           <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
-          <folding>
-            <element signature="e#64#84#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://C:/develop/software/Anaconda3/Lib/site-packages/gym/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/RL/test_universe1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -857,9 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1539">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#81#99#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -867,8 +759,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/mlp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="175" column="33" selection-start-line="175" selection-start-column="33" selection-end-line="175" selection-end-column="33" />
           <folding>
-            <element signature="e#106#125#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/Lib/site-packages/tensorflow/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="593" column="10" lean-forward="true" selection-start-line="593" selection-start-column="10" selection-end-line="593" selection-end-column="10" />
+          <folding>
+            <element signature="e#762#800#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/tensorflow_cnn_alexnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="162" selection-start-line="162" selection-end-line="162" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>

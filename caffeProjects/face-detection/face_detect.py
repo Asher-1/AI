@@ -126,7 +126,8 @@ def generateBoundingBox(featureMap, scale):
 
 def face_detection(imgFile):
     net_full_conv = caffe.Net(os.path.join(root_path, 'model', 'deploy_full_conv.prototxt'),
-                              os.path.join(root_path, 'model', 'alexnet_iter_50000_full_conv.caffemodel'),
+                              os.path.join(root_path, 'trained_output', '_iter_100000.caffemodel'),
+                              # os.path.join(root_path, 'model', 'alexnet_iter_50000_full_conv.caffemodel'),
                               caffe.TEST)
     # randNum = random.randint(1, 10000)
 

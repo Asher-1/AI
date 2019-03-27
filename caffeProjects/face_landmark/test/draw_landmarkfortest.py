@@ -18,8 +18,8 @@ import dlib
 ROOT_PATH = "D:/develop/workstations/GitHub/Datasets/DL/Images/face_data/deep_landmark/"
 
 # 网络模型配置文件，训练模型参数
-deploy_path = ROOT_PATH + "prototxt"
-model_path = ROOT_PATH + "model"
+deploy_path = ROOT_PATH + "my_prototxt"
+model_path = ROOT_PATH + "mymodel"
 model_name = "_iter_100000.caffemodel"
 
 # 人脸关键点定位测试输出结果
@@ -152,12 +152,12 @@ class Landmarker(object):
         # level-1, only F in implemented
         landmark = self.level1[0].forward(face)
         if mode == 'one':
-            return landmark
+            return landmark, True
 
         if mode == 'two':
             # level-2
             landmark = self._level(image, bbox, landmark, self.level2, [0.16, 0.18])
-            return landmark
+            return landmark, True
 
         if mode == 'three':
             # level-2
@@ -165,7 +165,7 @@ class Landmarker(object):
             # level-3
             landmark = self._level(image, bbox, landmark, self.level3, [0.11, 0.12])
 
-        return landmark
+        return landmark, True
 
     def _level(self, img, bbox, landmark, cnns, padding):
         """
@@ -228,49 +228,68 @@ class Landmarker(object):
         return imgs
 
 
-def drawLandmark(img, landmark):
+def drawLandmark(img, bbox, landmark):
+    cv2.rectangle(img, (bbox.left, bbox.top), (bbox.right, bbox.bottom), (0, 0, 255), 2)
     for x, y in landmark:
-        cv2.circle(img, (int(x), int(y)), 5, (0, 255, 0), -1)
+        cv2.circle(img, (int(x), int(y)), 3, (0, 255, 0), -1)
     return img
+
+
+class FaceDetector(object):
+    """
+        class FaceDetector use VJ detector
+    """
+
+    def __init__(self):
+        self.cc = cv2.CascadeClassifier(join(os.getcwd(), 'haarcascade_frontalface_alt.xml'))
+
+    def detectFace(self, img):
+        rects = self.cc.detectMultiScale(img, scaleFactor=1.2, minNeighbors=2, \
+                                         minSize=(12, 12), flags=cv2.CASCADE_SCALE_IMAGE)
+        for rect in rects:
+            rect[2:] += rect[:2]
+            yield BBox([rect[0], rect[2], rect[1], rect[3]])
 
 
 if __name__ == '__main__':
 
-    TEST_MODE = "three"
+    fd = FaceDetector()
+    fl = Landmarker()
+
+    TEST_MODE = ["one", "two", "three"]
+    # TEST_MODE = ["one"]
     test_images = os.listdir(test_folder)
-    for image in test_images:
-        img = cv2.imread(test_folder + image)
-        gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    for mode in TEST_MODE:
+        for image in test_images:
+            img = cv2.imread(test_folder + image)
+            gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
-        # image = io.imread(file_name)
+            bboxes = []
+            landmarks = []
+            for bbox in fd.detectFace(gray):
+                bbox = bbox.subBBox(0.1, 0.9, 0.2, 1)
+                bboxes.append(bbox)
+                landmark, status = fl.detectLandmark(gray, bbox, mode)
+                landmarks.append(bbox.reprojectLandmark(landmark))
 
-        # 建立人脸探测器
-        detector = dlib.get_frontal_face_detector()
-        #
-        detected_faces = detector(gray, 1)
-        # 获取the boundingbox of face
-        face_box = detected_faces[0]
-        bbox = BBox([face_box.left(), face_box.right(), face_box.top(), face_box.bottom()])
+            for i in range(len(bboxes)):
+                img = drawLandmark(img, bboxes[i], landmarks[i])
 
-        # bbox = BBox([84, 161, 92, 169])
-        cv2.rectangle(img, (bbox.left, bbox.top), (bbox.right, bbox.bottom), (0, 0, 255), 2)
+            # image = io.imread(file_name)
+            # # 建立人脸探测器
+            # detector = dlib.get_frontal_face_detector()
+            # detected_faces = detector(gray, 1)
+            # # 获取the boundingbox of face
+            # face_box = detected_faces[0]
+            # bbox = BBox([face_box.left(), face_box.right(), face_box.top(), face_box.bottom()])
 
-        get_landmark = Landmarker()
-        final_landmark = get_landmark.detectLandmark(gray, bbox, TEST_MODE)
-        # print final_landmark
-
-        final_landmark = bbox.reprojectLandmark(final_landmark)
-        # print final_landmark
-        # print final_landmark.shape
-        img = drawLandmark(img, final_landmark)
-
-        if TEST_MODE == 'one':
-            cv2.imwrite(result_path + 'level1-' + image + '.jpg', img)
-        elif TEST_MODE == 'two':
-            cv2.imwrite(result_path + 'level1-' + image + 'level2-.jpg', img)
-        elif TEST_MODE == 'three':
-            cv2.imwrite(result_path + 'level1-' + image + 'level2-' + 'level3.jpg', img)
-        else:
-            print "TEST_MODE value is invalid..."
+            if mode == 'one':
+                cv2.imwrite(result_path + 'level1-' + image, img)
+            elif mode == 'two':
+                cv2.imwrite(result_path + 'level1-' + image + 'level2-.jpg', img)
+            elif mode == 'three':
+                cv2.imwrite(result_path + 'level1-' + image + 'level2-' + 'level3.jpg', img)
+            else:
+                print "mode value is invalid..."
 
     print "test images output successfully!!!"
