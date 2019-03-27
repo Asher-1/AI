@@ -2,67 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b03b0369-41cc-488e-a79e-200e41863a1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DL/CNN/mlp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/FaceDetector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/MyGui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/caffe_net.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/capture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/face_recognition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/mainwindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/test_ui/UI_mydemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/test_ui/mydemo.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/calculate_filtering_metrics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/compare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/lfw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/models/learning_rate_retrain_tripletloss.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/models/learning_rate_schedule_classifier_casia.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/models/learning_rate_schedule_classifier_msceleb.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/models/squeezenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/test/batch_norm_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/test/center_loss_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/test/decov_loss_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/test/restore_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/test/train_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/test/triplet_loss_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_softmax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_tripletloss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/utils/decode_msceleb_dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/utils/download_and_extract_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/utils/download_vgg_face_dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/utils/freeze_graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/validate_on_lfw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/FaceDetector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/MyGui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/caffe_net.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/capture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/face_recognition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/gender_recognition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/mainwindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/haarcascade_frontalface_alt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/.idea/DL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/DL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/OpenSourceProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OpenSourceProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/TensorFlow_tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/TensorFlow_tutorials.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../caffeProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../caffeProjects/face-detection/face_detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face-detection/face_detect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/draw_landmarkfortest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/draw_landmarkfortest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/multi_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/multi_train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/train.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +34,7 @@
           <entry key="m" value="1" />
           <entry key="md" value="4" />
           <entry key="png" value="1" />
-          <entry key="py" value="49" />
+          <entry key="py" value="50" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
@@ -102,7 +43,7 @@
           <entry key="Image" value="4" />
           <entry key="Markdown" value="4" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="49" />
+          <entry key="Python" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -120,22 +61,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="751">
-                <caret line="110" column="29" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/train_softmax.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="52" column="55" selection-start-line="52" selection-start-column="55" selection-end-line="52" selection-end-column="55" />
+            <state relative-caret-position="365">
+              <caret line="64" column="33" lean-forward="true" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
               <folding>
                 <element signature="e#1285#1323#0" expanded="true" />
                 <element signature="e#11335#11599#0" />
@@ -146,65 +75,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/FaceDetector.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="39" column="56" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/MyGui.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="65" column="35" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-                <element signature="e#3152#4093#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/face_recognition.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="66" column="94" lean-forward="true" selection-start-line="66" selection-start-column="94" selection-end-line="66" selection-end-column="94" />
-              <folding>
-                <element signature="e#0#24#0" expanded="true" />
-                <element signature="e#371#854#0" />
-                <element signature="e#957#1257#0" />
-                <element signature="e#2570#3101#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/predict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6">
-              <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+            <state relative-caret-position="296">
+              <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
+                <element signature="e#394#1315#0" />
                 <element signature="e#1364#1632#0" />
                 <element signature="e#1697#2228#0" />
               </folding>
@@ -264,7 +142,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="850" />
     <option name="y" value="307" />
     <option name="width" value="3285" />
@@ -294,34 +172,6 @@
             <path>
               <item name="OpenSourceProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="OpenSourceProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Deep-Learning-21-Examples-master" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OpenSourceProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenSourceProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Deep-Learning-21-Examples-master" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_6" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OpenSourceProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenSourceProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Deep-Learning-21-Examples-master" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_6" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="align" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OpenSourceProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenSourceProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Deep-Learning-21-Examples-master" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_6" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OpenSourceProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenSourceProjects" type="462c0819:PsiDirectoryNode" />
               <item name="Face_Detection_Recognition-master" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -329,13 +179,6 @@
               <item name="OpenSourceProjects" type="462c0819:PsiDirectoryNode" />
               <item name="Face_Detection_Recognition-master" type="462c0819:PsiDirectoryNode" />
               <item name="faceRecognition" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OpenSourceProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenSourceProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Face_Detection_Recognition-master" type="462c0819:PsiDirectoryNode" />
-              <item name="faceRecognition" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OpenSourceProjects" type="b2602c69:ProjectViewProjectNode" />
@@ -521,8 +364,30 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
-    <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49798387" visible="true" weight="0.22572003" />
+      <window_info id="Structure" order="1" sideWeight="0.5020161" side_tool="true" weight="0.22572003" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29745042" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31161472" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32953784" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798387" visible="true" weight="0.22572003" />
       <window_info id="Structure" order="1" sideWeight="0.5020161" side_tool="true" weight="0.22572003" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -544,7 +409,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32953784" />
       <window_info anchor="right" id="Database" order="4" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -643,16 +508,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="751">
-            <caret line="110" column="29" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -731,17 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/align/align_dataset_mtcnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="139" column="59" lean-forward="true" selection-start-line="139" selection-start-column="59" selection-end-line="139" selection-end-column="59" />
-          <folding>
-            <element signature="e#1192#1230#0" expanded="true" />
-            <element signature="e#4853#6628#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/test/train_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -786,19 +630,6 @@
           <folding>
             <element signature="e#181#199#0" expanded="true" />
             <element signature="e#386#1741#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/train_softmax.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="52" column="55" selection-start-line="52" selection-start-column="55" selection-end-line="52" selection-end-column="55" />
-          <folding>
-            <element signature="e#1285#1323#0" expanded="true" />
-            <element signature="e#11335#11599#0" />
-            <element signature="e#11689#12617#0" />
-            <element signature="e#12958#14703#0" />
           </folding>
         </state>
       </provider>
@@ -853,10 +684,34 @@
         <state relative-caret-position="-375" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/face_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="49" lean-forward="true" selection-start-line="65" selection-start-column="49" selection-end-line="65" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#371#854#0" />
+            <element signature="e#957#1257#0" />
+            <element signature="e#2570#3101#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/MyGui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="50" column="40" lean-forward="true" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#3152#4093#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/FaceDetector.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="39" column="56" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
+        <state relative-caret-position="125">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -873,38 +728,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/face_recognition.py">
+    <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="751">
+            <caret line="110" column="29" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/train_softmax.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="66" column="94" lean-forward="true" selection-start-line="66" selection-start-column="94" selection-end-line="66" selection-end-column="94" />
+        <state relative-caret-position="365">
+          <caret line="64" column="33" lean-forward="true" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
           <folding>
-            <element signature="e#0#24#0" expanded="true" />
-            <element signature="e#371#854#0" />
-            <element signature="e#957#1257#0" />
-            <element signature="e#2570#3101#0" />
+            <element signature="e#1285#1323#0" expanded="true" />
+            <element signature="e#11335#11599#0" />
+            <element signature="e#11689#12617#0" />
+            <element signature="e#12958#14703#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/align/align_dataset_mtcnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="107" column="68" lean-forward="true" selection-start-line="107" selection-start-column="68" selection-end-line="107" selection-end-column="68" />
+          <folding>
+            <element signature="e#1192#1230#0" expanded="true" />
+            <element signature="e#4853#6628#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/predict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
-          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+        <state relative-caret-position="296">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#394#1315#0" />
             <element signature="e#1364#1632#0" />
             <element signature="e#1697#2228#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/MyGui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="65" column="35" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#3152#4093#0" />
           </folding>
         </state>
       </provider>

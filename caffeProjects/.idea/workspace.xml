@@ -2,67 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f9f7f7e-3996-4f48-abef-26e768d57341" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DL/CNN/mlp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/FaceDetector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/MyGui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/caffe_net.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/capture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/face_recognition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/mainwindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/test_ui/UI_mydemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/test_ui/mydemo.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/calculate_filtering_metrics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/compare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/lfw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/learning_rate_retrain_tripletloss.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/learning_rate_schedule_classifier_casia.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/learning_rate_schedule_classifier_msceleb.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/squeezenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/test/batch_norm_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/test/center_loss_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/test/decov_loss_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/test/restore_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/test/train_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/test/triplet_loss_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_softmax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_tripletloss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/decode_msceleb_dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/download_and_extract_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/download_vgg_face_dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/freeze_graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/validate_on_lfw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceSystem/FaceDetector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceSystem/MyGui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceSystem/caffe_net.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceSystem/capture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceSystem/face_recognition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceSystem/gender_recognition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceSystem/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceSystem/mainwindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face_landmark/test/haarcascade_frontalface_alt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/.idea/DL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/DL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/.idea/OpenSourceProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/OpenSourceProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/TensorFlow_tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/TensorFlow_tutorials.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face-detection/face_detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/face-detection/face_detect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_landmark/data/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_landmark/data/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_landmark/test/draw_landmarkfortest.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_landmark/test/draw_landmarkfortest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_landmark/train/multi_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_landmark/train/multi_train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_landmark/train/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_landmark/train/train.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -182,8 +123,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/face_landmark/train/train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            <state relative-caret-position="125">
+              <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
               <folding>
                 <element signature="e#103#115#0" expanded="true" />
               </folding>
@@ -477,14 +418,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19691895" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19691895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.27620396" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31586403" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31586403" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.43633762" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -915,8 +855,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/face_landmark/train/train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        <state relative-caret-position="125">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
           <folding>
             <element signature="e#103#115#0" expanded="true" />
           </folding>
