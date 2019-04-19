@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac379f1e-2481-4b65-8acb-3554a0a76555" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DataAnalization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kobe_BryanDataAnalize/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kobe_BryanDataAnalize/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kobe_BryanDataAnalize/科比生涯数据分析.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/models/dummy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition-new/utils/rea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/align/align_dataset_mtcnn_for_owndata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/create_faces_images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/images/Anthony_Hopkins_0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/images/Anthony_Hopkins_0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_retrain_tripletloss.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_schedule_classifier_casia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_schedule_classifier_msceleb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_schedule_classifier_vggface2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/my_learning_rate_rate_schedule.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/pairs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/decode_msceleb_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/download_and_extract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/freeze_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/dummy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_softmax2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_softmax3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/BatchProcess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/DataAugmentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/preprocess_images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/.idea/MachineLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/MachineLearning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/align/align_dataset_mtcnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/align/align_dataset_mtcnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/align/detect_face.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/align/detect_face.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/models/inception_resnet_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/models/inception_resnet_v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/models/inception_resnet_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/models/inception_resnet_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/train_softmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/train_softmax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/FaceDetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/MyGui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/caffe_net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/capture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/face_recognition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/mainwindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/test_ui/UI_mydemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/test_ui/mydemo.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/align/align_dataset_mtcnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/align/align_dataset_mtcnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/calculate_filtering_metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/calculate_filtering_metrics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/compare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/create_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/create_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb/faceEmbedding.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb/name.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/huge/huge_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/huge/huge_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/huge/huge_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/huge/huge_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/zhoujielun/zhoujielun_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/zhoujielun/zhoujielun_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/zhoujielun/zhoujielun_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/zhoujielun/zhoujielun_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/huge/huge_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/huge/huge_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/huge/huge_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/huge/huge_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/zhoujielun/zhoujielun_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/zhoujielun/zhoujielun_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/zhoujielun/zhoujielun_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/zhoujielun/zhoujielun_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/test_images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/face_recognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/face_recognition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/facenet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/facenet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/lfw.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/lfw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/test/train_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/test/train_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_softmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_softmax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_tripletloss.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_tripletloss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/file_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/file_processing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/image_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/image_processing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/FaceDetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/MyGui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/caffe_net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/capture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/face_recognition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/gender_recognition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/mainwindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/test_ui/UI_mydemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/test_ui/mydemo.ui" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DataAnalization$.coverage" NAME="科比生涯数据分析 Coverage Results" MODIFIED="1554643828990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kobe_BryanDataAnalize" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="116072977">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ipynb" value="1" />
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IPNB" value="1" />
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="80" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="80" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Kobe_BryanDataAnalize/科比生涯数据分析.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="1905" />
+    <option name="width" value="1948" />
+    <option name="height" value="2075" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DataAnalization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalization" type="462c0819:PsiDirectoryNode" />
+              <item name="Kobe_BryanDataAnalize" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\workstations\GitHub\AI\DataAnalization\Kobe_BryanDataAnalize" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="科比生涯数据分析" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataAnalization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kobe_BryanDataAnalize" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kobe_BryanDataAnalize/科比生涯数据分析.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.科比生涯数据分析" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac379f1e-2481-4b65-8acb-3554a0a76555" name="Default Changelist" comment="" />
+      <created>1554642645319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554642645319</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="762" y="0" width="779" height="830" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19087137" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32904148" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.40343347" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="SciView" weight="0.32918397" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Kobe_BryanDataAnalize/科比生涯数据分析.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Kobe_BryanDataAnalize/Untitled.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kobe_BryanDataAnalize/科比生涯数据分析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1603">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+          <folding>
+            <element signature="e#106#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

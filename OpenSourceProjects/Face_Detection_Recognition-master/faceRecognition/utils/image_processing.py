@@ -10,6 +10,8 @@ import cv2
 import matplotlib.pyplot as plt
 import numpy as np
 
+from tqdm import tqdm
+
 
 ###############################################图片显示############################################
 def show_image(win_name, rgb_image):
@@ -72,10 +74,24 @@ def cv_show_image_text(win_name, bgr_image, boxes, boxes_name):
     '''
 
     for name, box in zip(boxes_name, boxes):
-        cv2.rectangle(bgr_image, (box[0], box[1]), (box[2], box[3]), (0, 255, 0), 2, 8, 0)
-        cv2.putText(bgr_image, name, (box[0], box[1]), cv2.FONT_HERSHEY_COMPLEX_SMALL, 0.8, (0, 0, 255), thickness=2)
+        cv2.rectangle(bgr_image, (box[0], box[1]), (box[2], box[3]), (0, 0, 255), 2, 8, 0)
+        cv2.putText(bgr_image, name, (box[0], box[1]), cv2.FONT_HERSHEY_COMPLEX_SMALL, 0.8, (0, 255, 0), thickness=1)
     cv2.imshow(win_name, bgr_image)
     cv2.waitKey(30)
+
+def cv_save_image_text(filename, bgr_image, boxes, boxes_name):
+    '''
+
+    :param boxes_name:
+    :param bgr_image: bgr image
+    :param boxes: [[x1,y1,x2,y2],[x1,y1,x2,y2]]
+    :return:
+    '''
+
+    for name, box in zip(boxes_name, boxes):
+        cv2.rectangle(bgr_image, (box[0], box[1]), (box[2], box[3]), (0, 0, 255), 2, 8, 0)
+        cv2.putText(bgr_image, name, (box[0], box[1]), cv2.FONT_HERSHEY_COMPLEX_SMALL, 0.8, (0, 255, 0), thickness=1)
+    cv2.imwrite(filename, bgr_image)
 
 
 ###############################################图片读取和保存############################################
@@ -158,7 +174,8 @@ def get_crop_images(image, boxes, resize_height=0, resize_width=0, whiten=False)
         if whiten:
             crop_img = prewhiten(crop_img)
         crops.append(crop_img)
-    crops = np.stack(crops)
+    if len(crops) > 0:
+        crops = np.stack(crops)
     return crops
 
 
@@ -184,7 +201,7 @@ def prewhiten(x):
 
 def get_images(image_list, resize_height=0, resize_width=0, whiten=False):
     images = []
-    for image_path in image_list:
+    for image_path in tqdm(image_list):
         # img = misc.imread(os.path.join(images_dir, i), mode='RGB')
         image = read_image(image_path)
         if resize_height > 0 and resize_width > 0:

@@ -8,33 +8,39 @@ import numpy as np
 import os
 from utils import file_processing, image_processing
 import face_recognition
+from tqdm import tqdm
 
 resize_width = 160
 resize_height = 160
+THRESHOLD = 1
 
 
-def face_recognition_image(model_path, dataset_path, filename, image_path):
+def face_recognition_image(model_path, dataset_path, filename, image_path, result_path):
     # 加载数据库的数据
     dataset_emb, names_list = load_dataset(dataset_path, filename)
     # 初始化mtcnn人脸检测
     face_detect = face_recognition.Facedetection()
     # 初始化facenet
     face_net = face_recognition.facenetEmbedding(model_path)
-
-    image = image_processing.read_image(image_path)
-    # 进行人脸检测，获得bounding_box
-    bounding_box, points = face_detect.detect_face(image)
-    bounding_box = bounding_box[:, 0:4].astype(int)
-    # 获得人脸区域
-    face_images = image_processing.get_crop_images(image, bounding_box, resize_height, resize_width, whiten=True)
-    # image_processing.show_image("face", face_images[0,:,:,:])
-
-    pred_emb = face_net.get_embedding(face_images)
-    pred_name = compare_embadding(pred_emb, dataset_emb, names_list)
-    # 在图像上绘制人脸边框和识别的结果
-    bgr_image = cv2.cvtColor(image, cv2.COLOR_RGB2BGR)
-    image_processing.cv_show_image_text("face_recognition", bgr_image, bounding_box, pred_name)
-    cv2.waitKey(0)
+    for path in tqdm(image_path):
+        image = image_processing.read_image(path)
+        # 进行人脸检测，获得bounding_box
+        bounding_box, points = face_detect.detect_face(image)
+        bounding_box = bounding_box[:, 0:4].astype(int)
+        # 获得人脸区域
+        face_images = image_processing.get_crop_images(image, bounding_box, resize_height, resize_width, whiten=True)
+        # image_processing.show_image("face", face_images[0,:,:,:])
+        if len(face_images) == 0:
+            print("cannot find any face in this image!!!")
+            return
+        pred_emb = face_net.get_embedding(face_images)
+        pred_name = compare_embadding(pred_emb, dataset_emb, names_list)
+        # 在图像上绘制人脸边框和识别的结果
+        bgr_image = cv2.cvtColor(image, cv2.COLOR_RGB2BGR)
+        out_file_name = os.path.join(result_path, os.path.basename(path))
+        image_processing.cv_save_image_text(out_file_name, bgr_image, bounding_box, pred_name)
+        # image_processing.cv_show_image_text("face_recognition", bgr_image, bounding_box, pred_name)
+        # cv2.waitKey(0)
 
 
 def load_dataset(dataset_path, filename):
@@ -60,7 +66,7 @@ def compare_embadding(pred_emb, dataset_emb, names_list):
             dist = np.sqrt(np.sum(np.square(np.subtract(pred_emb[i, :], dataset_emb[j, :]))))
             dist_list.append(dist)
         min_value = min(dist_list)
-        if (min_value > 0.65):
+        if min_value > THRESHOLD:
             pred_name.append('unknow')
         else:
             pred_name.append(names_list[dist_list.index(min_value)])
@@ -68,8 +74,19 @@ def compare_embadding(pred_emb, dataset_emb, names_list):
 
 
 if __name__ == '__main__':
-    model_path = 'models/20180408-102900'
-    dataset_path = 'dataset/emb/faceEmbedding.npy'
-    filename = 'dataset/emb/name.txt'
-    image_path = 'dataset/test_images/1.jpg'
-    face_recognition_image(model_path, dataset_path, filename, image_path)
+    ROOT_PATH = "D:/develop/workstations/GitHub/Datasets/facenet-detection/"
+    model_path = ROOT_PATH + "models/20180408-102900"
+    # model_path = 'D:/develop/workstations/GitHub/Datasets/DL/trained_outputs/facenet_output/models/20190403-193855'
+    filename = ROOT_PATH + 'dataset/emb/name.txt'
+    dataset_path = ROOT_PATH + 'dataset/emb/faceEmbedding.npy'
+    result_path = ROOT_PATH + 'dataset/test_result/'
+
+    filePath_list = []
+    image_path = ROOT_PATH + 'dataset/test_images/ludahai2.jpg'
+    filePath_list.append(image_path)
+    face_recognition_image(model_path, dataset_path, filename, filePath_list, result_path)
+
+    # image_path = ROOT_PATH + 'dataset/test_images/'
+    # filePath_list = file_processing.get_files_list(image_path, postfix='jpg')
+    # print("files nums:{}".format(len(filePath_list)))
+    # face_recognition_image(model_path, dataset_path, filename, filePath_list, result_path)

@@ -2,8 +2,121 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b03b0369-41cc-488e-a79e-200e41863a1e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DL/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/DCGAN-mnist/dcgan_mnist.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/DCGAN-mnist/jpg/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/DCGAN-mnist/jpg/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/DCGAN-mnist/jpg/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/DCGAN/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/DCGAN/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/DCGAN/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/DCGAN/ops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/DCGAN/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/GAN-mnist/gan_mnist.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/GAN-mnist/jpg/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/GAN-mnist/jpg/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/GAN-mnist/jpg/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/GAN-mnist/jpg/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/GAN-mnist/jpg/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/GAN/simpleGAN/gan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAnalization/.idea/DataAnalization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAnalization/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAnalization/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAnalization/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAnalization/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAnalization/Kobe_BryanDataAnalize/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAnalization/Kobe_BryanDataAnalize/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAnalization/Kobe_BryanDataAnalize/科比生涯数据分析.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/models/dummy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/align/align_dataset_mtcnn_for_owndata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/create_faces_images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/data/images/Anthony_Hopkins_0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/data/images/Anthony_Hopkins_0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_retrain_tripletloss.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_schedule_classifier_casia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_schedule_classifier_msceleb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_schedule_classifier_vggface2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/data/my_learning_rate_rate_schedule.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/data/pairs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/decode_msceleb_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/download_and_extract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/freeze_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/models/dummy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_softmax2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_softmax3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/utils/BatchProcess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/utils/DataAugmentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/utils/preprocess_images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/.idea/MachineLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/MachineLearning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/align/align_dataset_mtcnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/align/align_dataset_mtcnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/align/detect_face.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/align/detect_face.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/models/inception_resnet_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/models/inception_resnet_v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/models/inception_resnet_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/models/inception_resnet_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/train_softmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/train_softmax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/FaceDetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/MyGui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/caffe_net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/capture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/face_recognition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/mainwindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/test_ui/UI_mydemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/test_ui/mydemo.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/align/align_dataset_mtcnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/align/align_dataset_mtcnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/calculate_filtering_metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/calculate_filtering_metrics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/compare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/create_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/create_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/emb/faceEmbedding.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/emb/name.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/huge/huge_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/huge/huge_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/huge/huge_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/huge/huge_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/zhoujielun/zhoujielun_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/zhoujielun/zhoujielun_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/zhoujielun/zhoujielun_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/zhoujielun/zhoujielun_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/images/huge/huge_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/images/huge/huge_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/images/huge/huge_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/images/huge/huge_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/images/zhoujielun/zhoujielun_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/images/zhoujielun/zhoujielun_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/images/zhoujielun/zhoujielun_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/images/zhoujielun/zhoujielun_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/test_images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/face_recognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/face_recognition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/facenet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/facenet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/lfw.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/lfw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/test/train_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/test/train_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_softmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_softmax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_tripletloss.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_tripletloss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/utils/file_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/utils/file_processing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/utils/image_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/utils/image_processing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../caffeProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/FaceDetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/MyGui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/caffe_net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/capture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/face_recognition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/gender_recognition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/mainwindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/test_ui/UI_mydemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/test_ui/mydemo.ui" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,48 +125,68 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/OpenSourceProjects$503_visualize_gradient_descent.coverage" NAME="503_visualize_gradient_descent Coverage Results" MODIFIED="1552895523831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents" />
+    <SUITE FILE_PATH="coverage/OpenSourceProjects$predict_with_SVM.coverage" NAME="predict_with_SVM Coverage Results" MODIFIED="1554602444819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition" />
+    <SUITE FILE_PATH="coverage/OpenSourceProjects$main.coverage" NAME="main Coverage Results" MODIFIED="1554125195713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem" />
     <SUITE FILE_PATH="coverage/OpenSourceProjects$validate_on_lfw.coverage" NAME="validate_on_lfw Coverage Results" MODIFIED="1553688742011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src" />
-    <SUITE FILE_PATH="coverage/OpenSourceProjects$create_dataset.coverage" NAME="create_dataset Coverage Results" MODIFIED="1553690030023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition" />
+    <SUITE FILE_PATH="coverage/OpenSourceProjects$train_softmax2.coverage" NAME="train_softmax2 Coverage Results" MODIFIED="1554601690680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition" />
+    <SUITE FILE_PATH="coverage/OpenSourceProjects$classifier2.coverage" NAME="classifier2 Coverage Results" MODIFIED="1554602742789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition" />
+    <SUITE FILE_PATH="coverage/OpenSourceProjects$rea.coverage" NAME="rea Coverage Results" MODIFIED="1554471928576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition-new/utils" />
+    <SUITE FILE_PATH="coverage/OpenSourceProjects$classifier.coverage" NAME="classifier Coverage Results" MODIFIED="1554536801961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition" />
+    <SUITE FILE_PATH="coverage/OpenSourceProjects$503_visualize_gradient_descent.coverage" NAME="503_visualize_gradient_descent Coverage Results" MODIFIED="1552895523831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents" />
+    <SUITE FILE_PATH="coverage/OpenSourceProjects$predict.coverage" NAME="predict Coverage Results" MODIFIED="1554476035218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition" />
+    <SUITE FILE_PATH="coverage/OpenSourceProjects$train_softmax__1_.coverage" NAME="train_softmax (1) Coverage Results" MODIFIED="1554030171501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition" />
+    <SUITE FILE_PATH="coverage/OpenSourceProjects$create_dataset.coverage" NAME="create_dataset Coverage Results" MODIFIED="1554475893132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition" />
+    <SUITE FILE_PATH="coverage/OpenSourceProjects$create_dataset2.coverage" NAME="create_dataset2 Coverage Results" MODIFIED="1554535008346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition" />
+    <SUITE FILE_PATH="coverage/OpenSourceProjects$align_dataset_mtcnn_for_owndata.coverage" NAME="align_dataset_mtcnn_for_owndata Coverage Results" MODIFIED="1554515775448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/align" />
+    <SUITE FILE_PATH="coverage/OpenSourceProjects$compare.coverage" NAME="compare Coverage Results" MODIFIED="1554529573443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition" />
+    <SUITE FILE_PATH="coverage/OpenSourceProjects$predict2.coverage" NAME="predict2 Coverage Results" MODIFIED="1554535156907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition" />
     <SUITE FILE_PATH="coverage/OpenSourceProjects$train_softmax.coverage" NAME="train_softmax Coverage Results" MODIFIED="1553688987210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src" />
-    <SUITE FILE_PATH="coverage/OpenSourceProjects$align_dataset_mtcnn.coverage" NAME="align_dataset_mtcnn Coverage Results" MODIFIED="1553689532074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/align" />
+    <SUITE FILE_PATH="coverage/OpenSourceProjects$align_dataset_mtcnn.coverage" NAME="align_dataset_mtcnn Coverage Results" MODIFIED="1554214584426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/align" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-501896437">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="jpg" value="3" />
+          <entry key="LICENCE" value="1" />
+          <entry key="jpg" value="4" />
           <entry key="m" value="1" />
-          <entry key="md" value="4" />
-          <entry key="png" value="1" />
-          <entry key="py" value="50" />
-          <entry key="txt" value="2" />
+          <entry key="md" value="6" />
+          <entry key="png" value="2" />
+          <entry key="py" value="280" />
+          <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="4" />
-          <entry key="Markdown" value="4" />
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="50" />
+          <entry key="Image" value="6" />
+          <entry key="Markdown" value="6" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Python" value="280" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1085" />
+          <entry key="dummy" value="6" />
+          <entry key="py" value="4826" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1085" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="4826" />
         </counts>
       </usages-collector>
     </session>
@@ -61,31 +194,75 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/train_softmax.py">
+        <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_softmax2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="64" column="33" lean-forward="true" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
+            <state relative-caret-position="13575">
+              <caret line="563" column="60" selection-start-line="563" selection-start-column="60" selection-end-line="563" selection-end-column="60" />
               <folding>
-                <element signature="e#1285#1323#0" expanded="true" />
-                <element signature="e#11335#11599#0" />
-                <element signature="e#11689#12617#0" />
-                <element signature="e#12958#14703#0" />
+                <element signature="e#1197#1235#0" expanded="true" />
+                <element signature="e#3593#3906#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_softmax3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="569" column="57" selection-start-line="569" selection-start-column="57" selection-end-line="569" selection-end-column="57" />
+              <folding>
+                <element signature="e#1193#1231#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/predict.py">
+        <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/align/detect_face.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+            <state relative-caret-position="318">
+              <caret line="96" column="33" selection-start-line="96" selection-start-column="33" selection-end-line="96" selection-end-column="33" />
+              <folding>
+                <element signature="e#1521#2407#0" />
+                <element signature="e#8324#9005#0" />
+                <element signature="e#9033#9823#0" />
+                <element signature="e#9851#10910#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/predict_with_SVM.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2375">
+              <caret line="135" column="12" selection-start-line="135" selection-start-column="12" selection-end-line="135" selection-end-column="12" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
-                <element signature="e#394#1315#0" />
-                <element signature="e#1364#1632#0" />
-                <element signature="e#1697#2228#0" />
+                <element signature="e#110#164#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/classifier2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1300">
+              <caret line="66" column="56" selection-start-line="66" selection-start-column="56" selection-end-line="66" selection-end-column="56" />
+              <folding>
+                <element signature="e#1205#1243#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/validate_on_lfw.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2600">
+              <caret line="116" column="53" selection-start-line="116" selection-start-column="53" selection-end-line="116" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -101,14 +278,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>class</find>
-      <find>data</find>
-      <find>data/</find>
+      <find>img</find>
+      <find>QString</find>
+      <find>dial</find>
+      <find>sep</find>
+      <find>random_flip</find>
+      <find>action</find>
+      <find>detect_multiple_faces</find>
+      <find>nrof_faces</find>
+      <find>pretrained_model</find>
+      <find>frozen_graph_filename</find>
+      <find>random_flip_left_right</find>
+      <find>validation_set_split_ratio</find>
+      <find>val_set</find>
+      <find>RANDOM_ROTATE</find>
+      <find>random_rotate</find>
+      <find>80</find>
+      <find>Accuracy</find>
+      <find>evaluate</find>
+      <find>actual_issame</find>
+      <find>model_file</find>
+      <find>load</find>
+      <find>resize_height</find>
+      <find>image_list</find>
+      <find>facenet</find>
+      <find>prewhiten</find>
+      <find>image_size</find>
+      <find>margin</find>
       <find>batch_size</find>
-      <find>MODEL_PATH</find>
-      <find>bulk_detect_face</find>
-      <find>nrof_classes</find>
-      <find>Unable to align</find>
+      <find>resize_width</find>
+      <find>get_datas</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -120,19 +319,40 @@
         <option value="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/503_visualize_gradient_descent.py" />
         <option value="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/facenet.py" />
         <option value="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/validate_on_lfw.py" />
-        <option value="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/train_softmax.py" />
-        <option value="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/align/detect_face.py" />
-        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/face_recognition.py" />
         <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/align/detect_face.py" />
-        <option value="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/align/align_dataset_mtcnn.py" />
-        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/create_dataset.py" />
-        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/utils/image_processing.py" />
-        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/utils/file_processing.py" />
-        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/predict.py" />
+        <option value="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/train_softmax.py" />
         <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/face_recognition.py" />
-        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/main.py" />
-        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/FaceDetector.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/utils/image_processing.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/mainwindow.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/face_recognizer.py" />
         <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/MyGui.py" />
+        <option value="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/classifier.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/main.py" />
+        <option value="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/align/align_dataset_mtcnn.py" />
+        <option value="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/align/detect_face.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/test/train_test.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/facenet.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/FaceDetector.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_softmax.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_tripletloss.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/face_recognition.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/lfw.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/align/align_dataset_mtcnn.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/create_dataset.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition-new/utils/rea.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/predict.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/align/align_dataset_mtcnn_for_owndata.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/compare.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem-tensorflow/face_recognizer.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/utils/file_processing.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/create_dataset2.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/create_faces_images.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/predict2.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/classifier.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_softmax3.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_softmax2.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/predict_with_SVM.py" />
+        <option value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/classifier2.py" />
       </list>
     </option>
   </component>
@@ -142,9 +362,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="850" />
-    <option name="y" value="307" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1550" />
+    <option name="y" value="250" />
     <option name="width" value="3285" />
     <option name="height" value="1805" />
   </component>
@@ -164,28 +384,6 @@
               <item name="OpenSourceProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="OpenSourceProjects" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="OpenSourceProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenSourceProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Deep-Learning-21-Examples-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OpenSourceProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenSourceProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Face_Detection_Recognition-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OpenSourceProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenSourceProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Face_Detection_Recognition-master" type="462c0819:PsiDirectoryNode" />
-              <item name="faceRecognition" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OpenSourceProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenSourceProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Face_Detection_Recognition-master" type="462c0819:PsiDirectoryNode" />
-              <item name="FaceSystem" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -194,7 +392,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TensorFlow_tutorials" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DL" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -205,8 +403,10 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\develop\workstations\GitHub\AI\OpenSourceProjects\Face_Detection_Recognition-master\faceRecognition" />
-      <recent name="D:\develop\workstations\GitHub\AI\OpenSourceProjects\Face_Detection_Recognition-master" />
-      <recent name="D:\develop\workstations\GitHub\AI\OpenSourceProjects\Face_Detection_Recognition-master\faceRecognition\models" />
+      <recent name="D:\develop\workstations\GitHub\AI\OpenSourceProjects" />
+      <recent name="D:\develop\workstations\GitHub\AI\OpenSourceProjects\Face_Detection_Recognition-master\faceRecognition\utils" />
+      <recent name="D:\develop\workstations\GitHub\AI\OpenSourceProjects\Face_Detection_Recognition-master\faceRecognition\test" />
+      <recent name="D:\develop\workstations\GitHub\AI\OpenSourceProjects\Face_Detection_Recognition-master\faceRecognition\data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -221,52 +421,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.create_dataset">
-    <configuration name="503_visualize_gradient_descent" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="OpenSourceProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/503_visualize_gradient_descent.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="align_dataset_mtcnn" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="OpenSourceProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/align" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/align/align_dataset_mtcnn.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="create_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.classifier2">
+    <configuration name="classifier" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="OpenSourceProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,7 +435,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/create_dataset.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/classifier.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,7 +444,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train_softmax" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="classifier2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="OpenSourceProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,12 +452,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/train_softmax.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/classifier2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,7 +466,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="validate_on_lfw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="predict2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="OpenSourceProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -318,12 +474,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/validate_on_lfw.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/predict2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict_with_SVM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpenSourceProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/predict_with_SVM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_softmax2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpenSourceProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_softmax2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,19 +533,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.503_visualize_gradient_descent" />
-      <item itemvalue="Python.align_dataset_mtcnn" />
-      <item itemvalue="Python.validate_on_lfw" />
-      <item itemvalue="Python.train_softmax" />
-      <item itemvalue="Python.create_dataset" />
+      <item itemvalue="Python.predict2" />
+      <item itemvalue="Python.classifier" />
+      <item itemvalue="Python.train_softmax2" />
+      <item itemvalue="Python.predict_with_SVM" />
+      <item itemvalue="Python.classifier2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.create_dataset" />
-        <item itemvalue="Python.align_dataset_mtcnn" />
-        <item itemvalue="Python.train_softmax" />
-        <item itemvalue="Python.validate_on_lfw" />
-        <item itemvalue="Python.503_visualize_gradient_descent" />
+        <item itemvalue="Python.classifier2" />
+        <item itemvalue="Python.predict_with_SVM" />
+        <item itemvalue="Python.train_softmax2" />
+        <item itemvalue="Python.classifier" />
+        <item itemvalue="Python.predict2" />
       </list>
     </recent_temporary>
   </component>
@@ -363,29 +563,31 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49798387" visible="true" weight="0.22572003" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798387" visible="true" weight="0.24380443" />
       <window_info id="Structure" order="1" sideWeight="0.5020161" side_tool="true" weight="0.22572003" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29745042" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.31161472" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989953" weight="0.32719547" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989953" weight="0.4546742" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010047" side_tool="true" weight="0.27478755" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32953784" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798387" visible="true" weight="0.22572003" />
@@ -421,94 +623,333 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/create_dataset.py</url>
-          <line>74</line>
-          <option name="timeStamp" value="8" />
+          <url>file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/compare.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/create_dataset.py</url>
-          <line>72</line>
-          <option name="timeStamp" value="9" />
+          <line>76</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/predict.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/predict2.py</url>
+          <line>106</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="dist_list[30]" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/test_imgs/1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/util/plot_learning_curves.m">
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/data/pairs.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="84" column="15" lean-forward="true" selection-start-line="84" selection-start-column="15" selection-end-line="84" selection-end-column="15" />
+        <state relative-caret-position="325">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/503_visualize_gradient_descent.py">
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/ntpath.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+        <state relative-caret-position="343">
+          <caret line="307" selection-start-line="307" selection-end-line="307" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-909" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/download_and_extract_model.py">
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/lfw.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-519">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="261">
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/argparse.py">
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_softmax.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="2119" column="45" selection-start-line="2119" selection-start-column="45" selection-end-line="2119" selection-end-column="45" />
+        <state relative-caret-position="215">
+          <caret line="153" column="43" lean-forward="true" selection-start-line="153" selection-start-column="43" selection-end-line="153" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/facenet.py">
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_schedule_classifier_casia.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="354" column="31" selection-start-line="354" selection-start-column="31" selection-end-line="354" selection-end-column="31" />
-          <folding>
-            <element signature="e#1210#1248#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="100">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/README_eng.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-750" />
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition-new/calculate_filtering_metrics.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition-new/classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="182" column="58" lean-forward="true" selection-start-line="182" selection-start-column="58" selection-end-line="182" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/scipy/misc/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="2639" selection-start-line="2639" selection-end-line="2639" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition-new/predict_with_SVM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition-new/train_tripletloss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12268" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition-new/compare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2893" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_tripletloss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="467" selection-start-line="467" selection-end-line="467" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition-new/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1031">
+          <caret line="71" column="38" lean-forward="true" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition-new/utils/image_processing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1344">
+          <caret line="121" column="42" lean-forward="true" selection-start-line="121" selection-start-column="42" selection-end-line="121" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition-new/facenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5927">
+          <caret line="33" selection-start-line="33" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/sklearn/utils/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="554" column="69" lean-forward="true" selection-start-line="554" selection-start-column="69" selection-end-line="554" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition-new/create_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="65" column="24" lean-forward="true" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/sklearn/metrics/pairwise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="895" selection-start-line="895" selection-end-line="895" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition-new/utils/rea.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/face_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="1075" column="58" lean-forward="true" selection-start-line="1075" selection-start-column="58" selection-end-line="1075" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition-new/face_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/align/align_dataset_mtcnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/scipy/misc/pilutil.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1137">
-          <caret line="110" column="4" selection-start-line="110" selection-start-column="4" selection-end-line="110" selection-end-column="4" />
+        <state relative-caret-position="162">
+          <caret line="170" column="4" selection-start-line="170" selection-start-column="4" selection-end-line="170" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/lfw.py">
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/predict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        <state relative-caret-position="377">
+          <caret line="28" column="55" lean-forward="true" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#1776#2044#0" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/README.md">
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/utils/image_processing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="93" column="36" lean-forward="true" selection-start-line="93" selection-start-column="36" selection-end-line="93" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/align/align_dataset_mtcnn_for_owndata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-149">
+          <caret line="103" column="69" selection-start-line="103" selection-start-column="54" selection-end-line="103" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem-tensorflow/FaceDetector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/create_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="54" column="11" lean-forward="true" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
+          <folding>
+            <element signature="e#181#199#0" expanded="true" />
+            <element signature="e#2305#3696#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem-tensorflow/face_recognizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/numpy/core/tests/test_numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="942" column="8" selection-start-line="942" selection-start-column="8" selection-end-line="942" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/matplotlib/colors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="320" column="8" selection-start-line="320" selection-start-column="8" selection-end-line="320" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/utils/file_processing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="78" column="38" lean-forward="true" selection-start-line="78" selection-start-column="38" selection-end-line="78" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/framework/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="3300" column="40" lean-forward="true" selection-start-line="3300" selection-start-column="40" selection-end-line="3300" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="42" column="41" lean-forward="true" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/facenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="86" column="8" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/predict2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="723">
+          <caret line="109" column="55" selection-start-line="109" selection-start-column="55" selection-end-line="109" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#3476#3744#0" />
+            <element signature="e#4218#4769#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/create_faces_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/create_dataset2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/compare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1799">
+          <caret line="152" column="39" lean-forward="true" selection-start-line="152" selection-start-column="39" selection-end-line="152" selection-end-column="39" />
+          <folding>
+            <element signature="e#1206#1244#0" expanded="true" />
+            <element signature="e#3805#4703#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorials-master/片头.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorials-master/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -516,261 +957,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/align/detect_face.py">
+    <entry file="file://$PROJECT_DIR$/tutorials-master/LICENCE">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="216" lean-forward="true" selection-start-line="216" selection-end-line="216" />
+        <state relative-caret-position="500">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_softmax2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13575">
+          <caret line="563" column="60" selection-start-line="563" selection-start-column="60" selection-end-line="563" selection-end-column="60" />
           <folding>
-            <element signature="e#1519#2405#0" />
-            <element signature="e#2435#8291#0" />
-            <element signature="e#8322#9038#0" />
-            <element signature="e#9073#9910#0" />
-            <element signature="e#9937#11058#0" />
+            <element signature="e#1197#1235#0" expanded="true" />
+            <element signature="e#3593#3906#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/utils/freeze_graph.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/lfw.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/models/__init__.py">
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/predict_with_SVM.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/models/learning_rate_schedule_classifier_msceleb.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/align/align_dataset_mtcnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-822">
+        <state relative-caret-position="2375">
+          <caret line="135" column="12" selection-start-line="135" selection-start-column="12" selection-end-line="135" selection-end-column="12" />
           <folding>
-            <element signature="e#1196#1234#0" expanded="true" />
-            <element signature="e#1507#7196#0" />
+            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#110#164#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/validate_on_lfw.py">
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/classifier2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="47" selection-start-line="47" selection-end-line="47" selection-end-column="96" />
+        <state relative-caret-position="1300">
+          <caret line="66" column="56" selection-start-line="66" selection-start-column="56" selection-end-line="66" selection-end-column="56" />
           <folding>
-            <element signature="e#1501#1539#0" expanded="true" />
+            <element signature="e#1205#1243#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/test_images/1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/dataset/emb/name.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/ntpath.py">
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/validate_on_lfw.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        <state relative-caret-position="2600">
+          <caret line="116" column="53" selection-start-line="116" selection-start-column="53" selection-end-line="116" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/test/train_test.py">
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_softmax3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="76" selection-start-line="4" selection-start-column="76" selection-end-line="4" selection-end-column="76" />
+        <state relative-caret-position="147">
+          <caret line="569" column="57" selection-start-line="569" selection-start-column="57" selection-end-line="569" selection-end-column="57" />
+          <folding>
+            <element signature="e#1193#1231#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/align/detect_face.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        <state relative-caret-position="318">
+          <caret line="96" column="33" selection-start-line="96" selection-start-column="33" selection-end-line="96" selection-end-column="33" />
           <folding>
             <element signature="e#1521#2407#0" />
             <element signature="e#8324#9005#0" />
             <element signature="e#9033#9823#0" />
             <element signature="e#9851#10910#0" />
-            <element signature="e#17515#27444#0" />
-            <element signature="e#27530#28010#0" />
-            <element signature="e#28063#28895#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/facenet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="371" column="47" lean-forward="true" selection-start-line="371" selection-start-column="47" selection-end-line="371" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/utils/file_processing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/create_dataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="71" column="37" lean-forward="true" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
-          <folding>
-            <element signature="e#181#199#0" expanded="true" />
-            <element signature="e#386#1741#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/compare.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1079">
-          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
-          <folding>
-            <element signature="e#3042#4468#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/face_recognition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-          <folding>
-            <element signature="e#183#197#0" expanded="true" />
-            <element signature="e#292#1075#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/utils/image_processing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/sklearn/metrics/pairwise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="860" column="4" selection-start-line="860" selection-start-column="4" selection-end-line="860" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/gender_recognition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/mainwindow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-375" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/face_recognition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" column="49" lean-forward="true" selection-start-line="65" selection-start-column="49" selection-end-line="65" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-            <element signature="e#371#854#0" />
-            <element signature="e#957#1257#0" />
-            <element signature="e#2570#3101#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/MyGui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="50" column="40" lean-forward="true" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#3152#4093#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/FaceDetector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/FaceSystem/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="751">
-            <caret line="110" column="29" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/train_softmax.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="64" column="33" lean-forward="true" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
-          <folding>
-            <element signature="e#1285#1323#0" expanded="true" />
-            <element signature="e#11335#11599#0" />
-            <element signature="e#11689#12617#0" />
-            <element signature="e#12958#14703#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples-master/chapter_6/src/align/align_dataset_mtcnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="107" column="68" lean-forward="true" selection-start-line="107" selection-start-column="68" selection-end-line="107" selection-end-column="68" />
-          <folding>
-            <element signature="e#1192#1230#0" expanded="true" />
-            <element signature="e#4853#6628#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/predict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#394#1315#0" />
-            <element signature="e#1364#1632#0" />
-            <element signature="e#1697#2228#0" />
           </folding>
         </state>
       </provider>

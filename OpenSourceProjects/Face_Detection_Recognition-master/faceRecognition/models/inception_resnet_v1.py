@@ -26,7 +26,7 @@ from __future__ import print_function
 import tensorflow as tf
 import tensorflow.contrib.slim as slim
 
-# Inception-Renset-A
+# Inception-Resnet-A
 def block35(net, scale=1.0, activation_fn=tf.nn.relu, scope=None, reuse=None):
     """Builds the 35x35 resnet block."""
     with tf.variable_scope(scope, 'Block35', [net], reuse=reuse):
@@ -47,7 +47,7 @@ def block35(net, scale=1.0, activation_fn=tf.nn.relu, scope=None, reuse=None):
             net = activation_fn(net)
     return net
 
-# Inception-Renset-B
+# Inception-Resnet-B
 def block17(net, scale=1.0, activation_fn=tf.nn.relu, scope=None, reuse=None):
     """Builds the 17x17 resnet block."""
     with tf.variable_scope(scope, 'Block17', [net], reuse=reuse):
@@ -141,7 +141,7 @@ def inference(images, keep_probability, phase_train=True,
     }
     
     with slim.arg_scope([slim.conv2d, slim.fully_connected],
-                        weights_initializer=tf.truncated_normal_initializer(stddev=0.1),
+                        weights_initializer=slim.initializers.xavier_initializer(), 
                         weights_regularizer=slim.l2_regularizer(weight_decay),
                         normalizer_fn=slim.batch_norm,
                         normalizer_params=batch_norm_params):
@@ -205,6 +205,7 @@ def inception_resnet_v1(inputs, is_training=True,
                 
                 # 5 x Inception-resnet-A
                 net = slim.repeat(net, 5, block35, scale=0.17)
+                end_points['Mixed_5a'] = net
         
                 # Reduction-A
                 with tf.variable_scope('Mixed_6a'):
@@ -213,6 +214,7 @@ def inception_resnet_v1(inputs, is_training=True,
                 
                 # 10 x Inception-Resnet-B
                 net = slim.repeat(net, 10, block17, scale=0.10)
+                end_points['Mixed_6b'] = net
                 
                 # Reduction-B
                 with tf.variable_scope('Mixed_7a'):
@@ -221,7 +223,10 @@ def inception_resnet_v1(inputs, is_training=True,
                 
                 # 5 x Inception-Resnet-C
                 net = slim.repeat(net, 5, block8, scale=0.20)
+                end_points['Mixed_8a'] = net
+                
                 net = block8(net, activation_fn=None)
+                end_points['Mixed_8b'] = net
                 
                 with tf.variable_scope('Logits'):
                     end_points['PrePool'] = net

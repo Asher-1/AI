@@ -15,7 +15,7 @@ import os
 def write_data(file, content_list, model):
     with open(file, mode=model) as f:
         for line in content_list:
-            f.write(line + "\n")
+            f.write(os.path.basename(line) + "\n")
 
 
 def read_data(file):

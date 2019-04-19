@@ -2,29 +2,121 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0045b2d-7d90-4c38-9d79-a783679ca237" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CNN/mlp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/FaceDetector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/MyGui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/caffe_net.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/capture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/face_recognition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/gender_recognition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/mainwindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/haarcascade_frontalface_alt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GAN/DCGAN-mnist/dcgan_mnist.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GAN/DCGAN-mnist/jpg/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GAN/DCGAN-mnist/jpg/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GAN/DCGAN-mnist/jpg/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GAN/DCGAN/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GAN/DCGAN/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GAN/DCGAN/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GAN/DCGAN/ops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GAN/DCGAN/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GAN/GAN-mnist/gan_mnist.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GAN/GAN-mnist/jpg/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GAN/GAN-mnist/jpg/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GAN/GAN-mnist/jpg/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GAN/GAN-mnist/jpg/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GAN/GAN-mnist/jpg/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GAN/simpleGAN/gan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAnalization/.idea/DataAnalization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAnalization/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAnalization/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAnalization/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAnalization/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAnalization/Kobe_BryanDataAnalize/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAnalization/Kobe_BryanDataAnalize/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAnalization/Kobe_BryanDataAnalize/科比生涯数据分析.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/models/dummy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/align/align_dataset_mtcnn_for_owndata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/create_faces_images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/images/Anthony_Hopkins_0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/images/Anthony_Hopkins_0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_retrain_tripletloss.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_schedule_classifier_casia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_schedule_classifier_msceleb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_schedule_classifier_vggface2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/my_learning_rate_rate_schedule.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/pairs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/decode_msceleb_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/download_and_extract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/freeze_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/dummy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_softmax2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_softmax3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/BatchProcess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/DataAugmentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/preprocess_images.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/.idea/MachineLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/MachineLearning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/.idea/OpenSourceProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/OpenSourceProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/align/align_dataset_mtcnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/align/align_dataset_mtcnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/align/detect_face.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/align/detect_face.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/models/inception_resnet_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/models/inception_resnet_v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/models/inception_resnet_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/models/inception_resnet_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/train_softmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/train_softmax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/FaceDetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/MyGui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/caffe_net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/capture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/face_recognition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/mainwindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/test_ui/UI_mydemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/test_ui/mydemo.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/align/align_dataset_mtcnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/align/align_dataset_mtcnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/calculate_filtering_metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/calculate_filtering_metrics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/compare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/create_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/create_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb/faceEmbedding.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb/name.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/huge/huge_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/huge/huge_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/huge/huge_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/huge/huge_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/zhoujielun/zhoujielun_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/zhoujielun/zhoujielun_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/zhoujielun/zhoujielun_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/zhoujielun/zhoujielun_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/huge/huge_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/huge/huge_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/huge/huge_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/huge/huge_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/zhoujielun/zhoujielun_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/zhoujielun/zhoujielun_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/zhoujielun/zhoujielun_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/zhoujielun/zhoujielun_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/test_images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/face_recognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/face_recognition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/facenet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/facenet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/lfw.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/lfw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/test/train_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/test/train_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_softmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_softmax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_tripletloss.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_tripletloss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/file_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/file_processing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/image_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/image_processing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../caffeProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../caffeProjects/face-detection/face_detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face-detection/face_detect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/draw_landmarkfortest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/draw_landmarkfortest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/multi_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/multi_train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/FaceDetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/MyGui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/caffe_net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/capture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/face_recognition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/gender_recognition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/mainwindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/test_ui/UI_mydemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeProjects/FaceSystem/test_ui/mydemo.ui" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,12 +129,14 @@
     <SUITE FILE_PATH="coverage/DL$class2_mlp.coverage" NAME="class2_mlp Coverage Results" MODIFIED="1553185981727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN" />
     <SUITE FILE_PATH="coverage/DL$train.coverage" NAME="train Coverage Results" MODIFIED="1551190906582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN" />
     <SUITE FILE_PATH="coverage/DL$mmy_axis.coverage" NAME="mmy_axis Coverage Results" MODIFIED="1552882569522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DL$main.coverage" NAME="main Coverage Results" MODIFIED="1555254932324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GAN/DCGAN" />
     <SUITE FILE_PATH="coverage/DL$train__2_.coverage" NAME="train (2) Coverage Results" MODIFIED="1552611588926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GAN/AI_Photoshop" />
     <SUITE FILE_PATH="coverage/DL$play__1_.coverage" NAME="play (1) Coverage Results" MODIFIED="1552733287047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/2.DQN_Maze" />
     <SUITE FILE_PATH="coverage/DL$16_DNN.coverage" NAME="16_DNN Coverage Results" MODIFIED="1551190874820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNISTClassification" />
     <SUITE FILE_PATH="coverage/DL$tensorflow_cnn_alexnet.coverage" NAME="tensorflow_cnn_alexnet Coverage Results" MODIFIED="1553602972019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN" />
     <SUITE FILE_PATH="coverage/DL$generate.coverage" NAME="generate Coverage Results" MODIFIED="1552569609405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN/AI_Make_Music" />
     <SUITE FILE_PATH="coverage/DL$simple_robot.coverage" NAME="simple-robot Coverage Results" MODIFIED="1552378225904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NeuralNetwork" />
+    <SUITE FILE_PATH="coverage/DL$gan.coverage" NAME="gan Coverage Results" MODIFIED="1554996209091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GAN/simpleGAN" />
     <SUITE FILE_PATH="coverage/DL$pytest_in_test_py.coverage" NAME="pytest in test.py Coverage Results" MODIFIED="1551277172570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN" />
     <SUITE FILE_PATH="coverage/DL$test_py.coverage" NAME="test.py Coverage Results" MODIFIED="1552382416981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN/AI_Make_Music" />
     <SUITE FILE_PATH="coverage/DL$pytest_in_test_music21_py.coverage" NAME="pytest in test_music21.py Coverage Results" MODIFIED="1552382269754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN/AI_Make_Music" />
@@ -56,54 +150,71 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="7" />
-          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gpu" value="1" />
+          <entry key="ipynb" value="2" />
+          <entry key="jpg" value="1" />
           <entry key="lrc" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="81" />
+          <entry key="png" value="1" />
+          <entry key="py" value="99" />
           <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="IPNB" value="2" />
+          <entry key="Image" value="2" />
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Python" value="81" />
+          <entry key="Python" value="99" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="py" value="1444" />
+          <entry key="py" value="1712" />
           <entry key="txt" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="18" />
-          <entry key="Python" value="1444" />
+          <entry key="Python" value="1712" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CNN/tensorflow_cnn_alexnet.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GAN/DCGAN/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="162" selection-start-line="162" selection-end-line="162" />
+            <state relative-caret-position="1013">
+              <caret line="100" column="40" selection-start-line="100" selection-start-column="40" selection-end-line="100" selection-end-column="40" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GAN/DCGAN/model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4">
+              <caret line="323" column="65" lean-forward="true" selection-start-line="323" selection-start-column="65" selection-end-line="323" selection-end-column="65" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -122,6 +233,14 @@
     <findStrings>
       <find>tf.train.</find>
       <find>stream</find>
+      <find>visualize</find>
+      <find>log</find>
+      <find>dataset_name</find>
+      <find>dataset</find>
+      <find>checkpoint_dir</find>
+      <find>sample</find>
+      <find>sample_dir</find>
+      <find>load_mnist</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -155,6 +274,12 @@
         <option value="$PROJECT_DIR$/RL/3.Policy_Gradient/play.py" />
         <option value="$PROJECT_DIR$/mmy_axis.py" />
         <option value="$PROJECT_DIR$/CNN/class2_mlp.py" />
+        <option value="$PROJECT_DIR$/GAN/simpleGAN/gan.py" />
+        <option value="$PROJECT_DIR$/GAN/DCGAN/utils.py" />
+        <option value="$PROJECT_DIR$/GAN/DCGAN/download.py" />
+        <option value="$PROJECT_DIR$/GAN/DCGAN/ops.py" />
+        <option value="$PROJECT_DIR$/GAN/DCGAN/main.py" />
+        <option value="$PROJECT_DIR$/GAN/DCGAN/model.py" />
       </list>
     </option>
   </component>
@@ -164,13 +289,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1550" />
     <option name="y" value="250" />
     <option name="width" value="3285" />
     <option name="height" value="1805" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -186,7 +313,19 @@
             <path>
               <item name="DL" type="b2602c69:ProjectViewProjectNode" />
               <item name="DL" type="462c0819:PsiDirectoryNode" />
-              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="GAN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DL" type="462c0819:PsiDirectoryNode" />
+              <item name="GAN" type="462c0819:PsiDirectoryNode" />
+              <item name="DCGAN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DL" type="462c0819:PsiDirectoryNode" />
+              <item name="GAN" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleGAN" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DL" type="b2602c69:ProjectViewProjectNode" />
@@ -215,12 +354,12 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\workstations\GitHub\AI\DL\GAN" />
+      <recent name="D:\develop\workstations\GitHub\AI\DL\CNN" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\develop\workstations\GitHub\AI\DL\GAN\AI_Photoshop" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\develop\workstations\GitHub\AI\DL\CNN" />
-      <recent name="D:\develop\workstations\GitHub\AI\DL\GAN" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -235,7 +374,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tensorflow_cnn_alexnet">
+  <component name="RunManager" selected="Python.main">
     <configuration name="class2_mlp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,6 +397,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="gan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GAN/simpleGAN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GAN/simpleGAN/gan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GAN/DCGAN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GAN/DCGAN/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="mmy_axis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,50 +455,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mmy_axis.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="play (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RL/2.DQN_Maze" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL/2.DQN_Maze/play.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="play (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RL/3.Policy_Gradient" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL/3.Policy_Gradient/play.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -370,19 +509,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.test.py" />
-      <item itemvalue="Python.play (1)" />
-      <item itemvalue="Python.play (2)" />
       <item itemvalue="Python.mmy_axis" />
       <item itemvalue="Python.class2_mlp" />
       <item itemvalue="Python.tensorflow_cnn_alexnet" />
+      <item itemvalue="Python.gan" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.gan" />
         <item itemvalue="Python.tensorflow_cnn_alexnet" />
         <item itemvalue="Python.class2_mlp" />
         <item itemvalue="Python.mmy_axis" />
-        <item itemvalue="Python.play (2)" />
-        <item itemvalue="Python.play (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -431,12 +570,36 @@
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21299396" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21567315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989953" weight="0.37393767" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989953" weight="0.15864022" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.20538244" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010047" side_tool="true" weight="0.28611898" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.17453505" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" auto_hide="true" id="SciView" order="3" show_stripe_button="false" type="FLOATING" weight="0.32953784" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="337" height="637" id="Documentation" order="5" side_tool="true" weight="0.32953784" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21567315" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989953" weight="0.15864022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -450,33 +613,9 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" auto_hide="true" id="SciView" order="3" show_stripe_button="false" type="FLOATING" weight="0.32953784" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" x="0" y="0" width="337" height="637" id="Documentation" order="5" side_tool="true" weight="0.32953784" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3416321" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989953" visible="true" weight="0.31161472" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010047" side_tool="true" weight="0.28611898" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.17453505" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" x="0" y="0" width="337" height="637" id="Documentation" order="0" side_tool="true" weight="0.32953784" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -493,71 +632,18 @@
     <MESSAGE value="commit some codes" />
     <option name="LAST_COMMIT_MESSAGE" value="commit some codes" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GAN/DCGAN/model.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/develop/tools/Anaconda3/Lib/site-packages/tensorflow/python/training/session_run_hook.py" />
-    <entry file="file://C:/develop/tools/Anaconda3/Lib/collections/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/CNN/tensorflow_cnn_cifar10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/2075167877/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="4947" column="8" selection-start-line="4947" selection-start-column="8" selection-end-line="4947" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NeuralNetwork/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/NeuralNetwork/simple-robot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RNN/utils.py" />
-    <entry file="file://$PROJECT_DIR$/RNN/README.txt" />
-    <entry file="file://$PROJECT_DIR$/RNN/test.py" />
-    <entry file="file://$PROJECT_DIR$/RNN/train.py" />
-    <entry file="file://$PROJECT_DIR$/CNN/ResNet/resnet_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/ResNet/resnet_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9400">
-          <caret line="376" selection-start-line="376" selection-end-line="376" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/ResNet/cifar_input.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-475">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/develop/software/Anaconda3/Lib/site-packages/tensorflow/python/keras/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RNN/AI_Make_Music/1.lrc">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RNN/text_prediction/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4185" />
-      </provider>
-    </entry>
     <entry file="file://C:/develop/software/Anaconda3/Lib/glob.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -766,9 +852,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="175" column="33" selection-start-line="175" selection-start-column="33" selection-end-line="175" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -776,18 +859,137 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
           <caret line="593" column="10" lean-forward="true" selection-start-line="593" selection-start-column="10" selection-end-line="593" selection-end-column="10" />
-          <folding>
-            <element signature="e#762#800#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CNN/tensorflow_cnn_alexnet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="162" selection-start-line="162" selection-end-line="162" />
+        <state relative-caret-position="781">
+          <caret line="164" column="15" lean-forward="true" selection-start-line="164" selection-start-column="15" selection-end-line="164" selection-end-column="15" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#6161#6900#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GAN/GAN-mnist/jpg/4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GAN/GAN-mnist/jpg/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GAN/GAN-mnist/gan_mnist.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GAN/DCGAN-mnist/dcgan_mnist.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GAN/simpleGAN/gan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169">
+          <caret line="200" column="18" lean-forward="true" selection-start-line="200" selection-start-column="18" selection-end-line="200" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/scipy/stats/_distn_infrastructure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="1642" column="21" lean-forward="true" selection-start-line="1642" selection-start-column="21" selection-end-line="1642" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GAN/DCGAN/download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1269">
+          <caret line="82" column="38" selection-start-line="82" selection-start-column="38" selection-end-line="82" selection-end-column="38" />
+          <folding>
+            <element signature="e#172#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/moviepy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GAN/DCGAN/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1694">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#2110#4205#0" />
+            <element signature="e#4961#5647#0" />
+            <element signature="e#5672#6620#0" />
+            <element signature="e#6645#7011#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GAN/DCGAN/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="103" column="53" lean-forward="true" selection-start-line="103" selection-start-column="53" selection-end-line="103" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/ops/variable_scope.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="852" selection-start-line="852" selection-end-line="852" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/ops/nn_impl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="106" column="4" selection-start-line="106" selection-start-column="4" selection-end-line="106" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/platform/flags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/platform/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GAN/DCGAN/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1013">
+          <caret line="100" column="40" selection-start-line="100" selection-start-column="40" selection-end-line="100" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GAN/DCGAN/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="323" column="65" lean-forward="true" selection-start-line="323" selection-start-column="65" selection-end-line="323" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>

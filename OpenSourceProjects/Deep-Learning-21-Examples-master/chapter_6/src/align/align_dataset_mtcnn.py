@@ -117,8 +117,8 @@ def main(args):
                                 offsets = np.vstack([(det[:, 0] + det[:, 2]) / 2 - img_center[1],
                                                      (det[:, 1] + det[:, 3]) / 2 - img_center[0]])
                                 offset_dist_squared = np.sum(np.power(offsets, 2.0), 0)
-                                index = np.argmax(
-                                    bounding_box_size - offset_dist_squared * 2.0)  # some extra weight on the centering
+                                # some extra weight on the centering
+                                index = np.argmax(bounding_box_size - offset_dist_squared * 2.0)
                                 det = det[index, :]
                             det = np.squeeze(det)
                             bb = np.zeros(4, dtype=np.int32)
@@ -152,13 +152,12 @@ def parse_arguments(argv):
                         help='Margin for the crop around the bounding box (height, width) in pixels.', default=44)
     parser.add_argument('--random_order',
                         help='Shuffles the order of images to enable alignment using multiple processes.',
-                        action='store_true')
+                        action='store_true', default=True)
     parser.add_argument('--gpu_memory_fraction', type=float,
                         help='Upper bound on the amount of GPU memory that will be used by the process.', default=0.7)
     return parser.parse_args(argv)
 
 
 if __name__ == '__main__':
-    sys.argv[0] = "align_dataset_mtcnn.py"
     sys.argv[1:] = [INPUT_DIR, OUTPUT_DIR]
     main(parse_arguments(sys.argv[1:]))

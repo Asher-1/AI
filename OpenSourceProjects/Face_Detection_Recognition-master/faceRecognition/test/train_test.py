@@ -26,12 +26,9 @@ import numpy as np
 import cv2
 import os
 import shutil
-import train_tripletloss
-import train_softmax
-import validate_on_lfw
-import compare
-import download_and_extract_model
-import freeze_graph
+import download_and_extract  # @UnresolvedImport
+import subprocess
+
 
 def memory_usage_psutil():
     # return the memory usage in MB
@@ -40,40 +37,49 @@ def memory_usage_psutil():
     mem = process.memory_info()[0] / float(2 ** 20)
     return mem
 
+
+def align_dataset_if_needed(self):
+    if not os.path.exists('data/lfw_aligned'):
+        argv = ['python',
+                'src/align/align_dataset_mtcnn.py',
+                'data/lfw',
+                'data/lfw_aligned',
+                '--image_size', '160',
+                '--margin', '32']
+        subprocess.call(argv)
+
+
 class TrainTest(unittest.TestCase):
-  
+
     @classmethod
     def setUpClass(self):
-        print('setUpClass')
         self.tmp_dir = tempfile.mkdtemp()
         self.dataset_dir = os.path.join(self.tmp_dir, 'dataset')
         create_mock_dataset(self.dataset_dir, 160)
         self.lfw_pairs_file = create_mock_lfw_pairs(self.tmp_dir)
         print(self.lfw_pairs_file)
-        self.pretrained_model_name = '20170512-110547'
-        download_and_extract_model.download_and_extract_model(self.pretrained_model_name, 'data/')
-        self.model_file = os.path.join('data', self.pretrained_model_name, 'model-%s.ckpt-250000' % self.pretrained_model_name)
+        self.pretrained_model_name = '20180402-114759'
+        download_and_extract.download_and_extract_file(self.pretrained_model_name, 'data/')
+        download_and_extract.download_and_extract_file('lfw-subset', 'data/')
+        self.model_file = os.path.join('data', self.pretrained_model_name,
+                                       'model-%s.ckpt-275' % self.pretrained_model_name)
         self.pretrained_model = os.path.join('data', self.pretrained_model_name)
-        self.frozen_graph_filename = os.path.join('data', self.pretrained_model_name+'.pb')
+        self.frozen_graph_filename = os.path.join('data', self.pretrained_model_name + '.pb')
         print('Memory utilization (SetUpClass): %.3f MB' % memory_usage_psutil())
 
-        
     @classmethod
     def tearDownClass(self):
-        print('tearDownClass')
         # Recursively remove the temporary directory
         shutil.rmtree(self.tmp_dir)
-        
+
     def tearDown(self):
-        print('tearDown')
         print('Memory utilization (TearDown): %.3f MB' % memory_usage_psutil())
 
-    # test_align_dataset_mtcnn
-    # http://vis-www.cs.umass.edu/lfw/lfw-a.zip
-    
     def test_training_classifier_inception_resnet_v1(self):
         print('test_training_classifier_inception_resnet_v1')
-        argv = ['--logs_base_dir', self.tmp_dir,
+        argv = ['python',
+                'src/train_softmax.py',
+                '--logs_base_dir', self.tmp_dir,
                 '--models_base_dir', self.tmp_dir,
                 '--data_dir', self.dataset_dir,
                 '--model_def', 'models.inception_resnet_v1',
@@ -84,13 +90,14 @@ class TrainTest(unittest.TestCase):
                 '--lfw_dir', self.dataset_dir,
                 '--lfw_nrof_folds', '2',
                 '--lfw_batch_size', '1',
-                '--nrof_preprocess_threads', '1' ]
-        args = train_softmax.parse_arguments(argv)
-        train_softmax.main(args)
+                '--nrof_preprocess_threads', '1']
+        subprocess.call(argv)
 
     def test_training_classifier_inception_resnet_v2(self):
         print('test_training_classifier_inception_resnet_v2')
-        argv = ['--logs_base_dir', self.tmp_dir,
+        argv = ['python',
+                'src/train_softmax.py',
+                '--logs_base_dir', self.tmp_dir,
                 '--models_base_dir', self.tmp_dir,
                 '--data_dir', self.dataset_dir,
                 '--model_def', 'models.inception_resnet_v2',
@@ -100,13 +107,14 @@ class TrainTest(unittest.TestCase):
                 '--lfw_pairs', self.lfw_pairs_file,
                 '--lfw_dir', self.dataset_dir,
                 '--lfw_nrof_folds', '2',
-                '--lfw_batch_size', '1' ]
-        args = train_softmax.parse_arguments(argv)
-        train_softmax.main(args)
- 
+                '--lfw_batch_size', '1']
+        subprocess.call(argv)
+
     def test_training_classifier_squeezenet(self):
         print('test_training_classifier_squeezenet')
-        argv = ['--logs_base_dir', self.tmp_dir,
+        argv = ['python',
+                'src/train_softmax.py',
+                '--logs_base_dir', self.tmp_dir,
                 '--models_base_dir', self.tmp_dir,
                 '--data_dir', self.dataset_dir,
                 '--model_def', 'models.squeezenet',
@@ -117,13 +125,14 @@ class TrainTest(unittest.TestCase):
                 '--lfw_dir', self.dataset_dir,
                 '--lfw_nrof_folds', '2',
                 '--lfw_batch_size', '1',
-                '--nrof_preprocess_threads', '1' ]
-        args = train_softmax.parse_arguments(argv)
-        train_softmax.main(args)
+                '--nrof_preprocess_threads', '1']
+        subprocess.call(argv)
 
     def test_train_tripletloss_inception_resnet_v1(self):
         print('test_train_tripletloss_inception_resnet_v1')
-        argv = ['--logs_base_dir', self.tmp_dir,
+        argv = ['python',
+                'src/train_tripletloss.py',
+                '--logs_base_dir', self.tmp_dir,
                 '--models_base_dir', self.tmp_dir,
                 '--data_dir', self.dataset_dir,
                 '--model_def', 'models.inception_resnet_v1',
@@ -134,17 +143,19 @@ class TrainTest(unittest.TestCase):
                 '--images_per_person', '3',
                 '--lfw_pairs', self.lfw_pairs_file,
                 '--lfw_dir', self.dataset_dir,
-                '--lfw_nrof_folds', '2' ]
-        args = train_tripletloss.parse_arguments(argv)
-        train_tripletloss.main(args)
- 
+                '--lfw_nrof_folds', '2']
+        subprocess.call(argv)
+
     def test_finetune_tripletloss_inception_resnet_v1(self):
         print('test_finetune_tripletloss_inception_resnet_v1')
-        argv = ['--logs_base_dir', self.tmp_dir,
+        argv = ['python',
+                'src/train_tripletloss.py',
+                '--logs_base_dir', self.tmp_dir,
                 '--models_base_dir', self.tmp_dir,
                 '--data_dir', self.dataset_dir,
                 '--model_def', 'models.inception_resnet_v1',
                 '--pretrained_model', self.model_file,
+                '--embedding_size', '512',
                 '--epoch_size', '1',
                 '--max_nrof_epochs', '1',
                 '--batch_size', '6',
@@ -152,64 +163,68 @@ class TrainTest(unittest.TestCase):
                 '--images_per_person', '3',
                 '--lfw_pairs', self.lfw_pairs_file,
                 '--lfw_dir', self.dataset_dir,
-                '--lfw_nrof_folds', '2' ]
-        args = train_tripletloss.parse_arguments(argv)
-        train_tripletloss.main(args)
- 
+                '--lfw_nrof_folds', '2']
+        subprocess.call(argv)
+
     def test_compare(self):
         print('test_compare')
-        argv = [os.path.join('data/', self.pretrained_model_name),
+        argv = ['python',
+                'src/compare.py',
+                os.path.join('data/', self.pretrained_model_name),
                 'data/images/Anthony_Hopkins_0001.jpg',
-                'data/images/Anthony_Hopkins_0002.jpg' ]
-        args = compare.parse_arguments(argv)
-        compare.main(args)
-        
+                'data/images/Anthony_Hopkins_0002.jpg']
+        subprocess.call(argv)
+
     def test_validate_on_lfw(self):
         print('test_validate_on_lfw')
-        argv = [self.dataset_dir,
+        align_dataset_if_needed(self)
+        argv = ['python',
+                'src/validate_on_lfw.py',
+                'data/lfw_aligned',
                 self.pretrained_model,
-                '--lfw_pairs', self.lfw_pairs_file,
+                '--lfw_pairs', 'data/lfw/pairs_small.txt',
                 '--lfw_nrof_folds', '2',
                 '--lfw_batch_size', '6']
-        args = validate_on_lfw.parse_arguments(argv)
-        validate_on_lfw.main(args)
+        subprocess.call(argv)
 
     def test_validate_on_lfw_frozen_graph(self):
         print('test_validate_on_lfw_frozen_graph')
         self.pretrained_model = os.path.join('data', self.pretrained_model_name)
-        frozen_model = os.path.join(self.pretrained_model, self.pretrained_model_name+'.pb')
-        argv = [self.dataset_dir,
+        frozen_model = os.path.join(self.pretrained_model, self.pretrained_model_name + '.pb')
+        argv = ['python',
+                'src/validate_on_lfw.py',
+                self.dataset_dir,
                 frozen_model,
                 '--lfw_pairs', self.lfw_pairs_file,
                 '--lfw_nrof_folds', '2',
                 '--lfw_batch_size', '6']
-        args = validate_on_lfw.parse_arguments(argv)
-        validate_on_lfw.main(args)
+        subprocess.call(argv)
 
-    @unittest.skip("This test case results in a memory leak")
     def test_freeze_graph(self):
         print('test_freeze_graph')
-        argv = [ self.pretrained_model,
-                 self.frozen_graph_filename ]
-        args = freeze_graph.parse_arguments(argv)
-        freeze_graph.main(args)
+        argv = ['python',
+                'src/freeze_graph.py',
+                self.pretrained_model,
+                self.frozen_graph_filename]
+        subprocess.call(argv)
+
 
 # Create a mock dataset with random pixel images
 def create_mock_dataset(dataset_dir, image_size):
-   
     nrof_persons = 3
     nrof_images_per_person = 2
     np.random.seed(seed=666)
     os.mkdir(dataset_dir)
     for i in range(nrof_persons):
-        class_name = '%04d' % (i+1)
+        class_name = '%04d' % (i + 1)
         class_dir = os.path.join(dataset_dir, class_name)
         os.mkdir(class_dir)
         for j in range(nrof_images_per_person):
-            img_name = '%04d' % (j+1)
-            img_path = os.path.join(class_dir, class_name+'_'+img_name + '.png')
-            img = np.random.uniform(low=0.0, high=255.0, size=(image_size,image_size,3))
-            cv2.imwrite(img_path, img) #@UndefinedVariable
+            img_name = '%04d' % (j + 1)
+            img_path = os.path.join(class_dir, class_name + '_' + img_name + '.png')
+            img = np.random.uniform(low=0.0, high=255.0, size=(image_size, image_size, 3))
+            cv2.imwrite(img_path, img)  # @UndefinedVariable
+
 
 # Create a mock LFW pairs file
 def create_mock_lfw_pairs(tmp_dir):
@@ -230,6 +245,6 @@ def create_mock_lfw_pairs(tmp_dir):
         f.write('0001 1 0003 2\n')
     return pairs_filename
 
+
 if __name__ == "__main__":
     unittest.main()
-    

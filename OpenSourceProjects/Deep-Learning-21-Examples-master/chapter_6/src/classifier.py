@@ -36,18 +36,24 @@ import math
 import pickle
 from sklearn.svm import SVC
 
+ROOT_PATH = "D:/develop/workstations/GitHub/Datasets/facenet-detection/"
+MODEL_PATH = ROOT_PATH + "models/20180408-102900"
+svm_classifier = ROOT_PATH + "/models/classifiers/SVMFaceClassifier.pkl"
+data_dir = ROOT_PATH + 'dataset/emb_face'
+
 
 def main(args):
-
     with tf.Graph().as_default():
-
-        with tf.Session() as sess:
+        config = tf.ConfigProto()
+        config.gpu_options.allow_growth = True
+        with tf.Session(config=config) as sess:
 
             np.random.seed(seed=args.seed)
 
             if args.use_split_dataset:
                 dataset_tmp = facenet.get_dataset(args.data_dir)
-                train_set, test_set = split_dataset(dataset_tmp, args.min_nrof_images_per_class, args.nrof_train_images_per_class)
+                train_set, test_set = split_dataset(dataset_tmp, args.min_nrof_images_per_class,
+                                                    args.nrof_train_images_per_class)
                 if (args.mode == 'TRAIN'):
                     dataset = train_set
                 elif (args.mode == 'CLASSIFY'):
@@ -57,7 +63,7 @@ def main(args):
 
             # Check that there are at least one training image per class
             for cls in dataset:
-                assert(len(cls.image_paths) > 0, 'There must be at least one image for each class in the dataset')
+                assert (len(cls.image_paths) > 0, 'There must be at least one image for each class in the dataset')
 
             paths, labels = facenet.get_image_paths_and_labels(dataset)
 
@@ -140,17 +146,20 @@ def parse_arguments(argv):
 
     parser.add_argument('mode', type=str, choices=['TRAIN', 'CLASSIFY'],
                         help='Indicates if a new classifier should be trained or a classification ' +
-                        'model should be used for classification', default='CLASSIFY')
+                             'model should be used for classification', default='TRAIN')
     parser.add_argument('data_dir', type=str,
-                        help='Path to the data directory containing aligned LFW face patches.')
-    parser.add_argument('model', type=str,
-                        help='Could be either a directory containing the meta_file and ckpt_file or a model protobuf (.pb) file')
+                        help='Path to the data directory containing aligned LFW face patches.', default=data_dir)
+    parser.add_argument('model', type=str, help='Could be either a directory containing the meta_file and '
+                                                'ckpt file or a model protobuf (.pb) file', default=MODEL_PATH)
     parser.add_argument('classifier_filename',
                         help='Classifier model file name as a pickle (.pkl) file. ' +
-                        'For training this is the output and for classification this is an input.')
-    parser.add_argument('--use_split_dataset',
-                        help='Indicates that the dataset specified by data_dir should be split into a training and test set. ' +
-                        'Otherwise a separate test set can be specified using the test_data_dir option.', action='store_true')
+                             'For training this is the output and for classification this is an input.',
+                        default=svm_classifier)
+    parser.add_argument('use_split_dataset', type=bool,
+                        help='Indicates that the dataset specified by data_dir should be '
+                             'split into a training and test set. ' +
+                             'Otherwise a separate test set can be specified'
+                             ' using the test_data_dir option.', default=True)
     parser.add_argument('--test_data_dir', type=str,
                         help='Path to the test data directory containing aligned images used for testing.')
     parser.add_argument('--batch_size', type=int,
@@ -160,11 +169,15 @@ def parse_arguments(argv):
     parser.add_argument('--seed', type=int,
                         help='Random seed.', default=666)
     parser.add_argument('--min_nrof_images_per_class', type=int,
-                        help='Only include classes with at least this number of images in the dataset', default=20)
+                        help='Only include classes with at least this number of images in the dataset', default=4)
     parser.add_argument('--nrof_train_images_per_class', type=int,
-                        help='Use this number of images from each class for training and the rest for testing', default=10)
+                        help='Use this number of images from each class for '
+                             'training and the rest for testing', default=3)
 
     return parser.parse_args(argv)
 
+
 if __name__ == '__main__':
+    # sys.argv[1:] = ['TRAIN', data_dir, MODEL_PATH, svm_classifier, "True"]
+    sys.argv[1:] = ['CLASSIFY', data_dir, MODEL_PATH, svm_classifier, "True"]
     main(parse_arguments(sys.argv[1:]))

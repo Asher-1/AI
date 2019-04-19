@@ -37,8 +37,8 @@ import numpy as np
 import importlib
 import argparse
 
-SRC = "D:/develop/workstations/GitHub/AI/OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/"
-sys.path.insert(0, SRC+"src")
+SRC = "D:/develop/workstations/GitHub/AI/OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/"
+sys.path.insert(0, SRC + "src")
 import facenet
 import lfw
 import h5py
@@ -55,8 +55,10 @@ data_dir = "D:/develop/workstations/GitHub/Datasets/DL/Images/CASIA_WebFace/casi
 ROOT_DIR = "D:/develop/workstations/GitHub/Datasets/DL/Images/lfw/"
 lfw_dir = ROOT_DIR + "lfw_mtcnnpy_160/"
 pair_dir = ROOT_DIR + "lfw_home/pairs.txt"
-
 learning_rate_schedule_file = SRC + 'data/learning_rate_schedule_classifier_casia.txt'
+
+ROOT_PATH = "D:/develop/workstations/GitHub/Datasets/facenet-detection/"
+MODEL_PATH = ROOT_PATH + "models/20180408-102900/"
 
 
 def main(args):
@@ -144,6 +146,10 @@ def main(args):
                     image = tf.image.resize_image_with_crop_or_pad(image, args.image_size, args.image_size)
                 if args.random_flip:
                     image = tf.image.random_flip_left_right(image)
+                if args.random_brightness:
+                    image = tf.image.random_brightness(image, max_delta=63)
+                if args.random_contrast:
+                    image = tf.image.random_contrast(image, lower=0.2, upper=1.8)
 
                 # pylint: disable=no-member
                 image.set_shape((args.image_size, args.image_size, 3))
@@ -215,10 +221,10 @@ def main(args):
         tf.train.start_queue_runners(coord=coord, sess=sess)
 
         with sess.as_default():
-
             if pretrained_model:
                 print('Restoring pretrained model: %s' % pretrained_model)
-                saver.restore(sess, pretrained_model)
+                facenet.load_model(pretrained_model)
+                # saver_restore.restore(sess, os.path.join(model_exp, ckpt_file))
 
             # Training and validation loop
             print('Running training')
@@ -338,7 +344,10 @@ def evaluate(sess, enqueue_op, image_paths_placeholder, labels_placeholder, phas
 
     embedding_size = embeddings.get_shape()[1]
     nrof_images = len(actual_issame) * 2
-    assert nrof_images % batch_size == 0, 'The number of LFW images must be an integer multiple of the LFW batch size'
+    # The number of LFW images must be an integer multiple of the LFW batch size'
+    if nrof_images % batch_size != 0:
+        nrof_images = nrof_images - nrof_images % batch_size
+        actual_issame = actual_issame[:nrof_images//2]
     nrof_batches = nrof_images // batch_size
     emb_array = np.zeros((nrof_images, embedding_size))
     lab_array = np.zeros((nrof_images,))
@@ -349,7 +358,9 @@ def evaluate(sess, enqueue_op, image_paths_placeholder, labels_placeholder, phas
         emb_array[lab] = emb
 
     assert np.array_equal(lab_array, np.arange(
-        nrof_images)) == True, 'Wrong labels used for evaluation, possibly caused by training examples left in the input pipeline'
+        nrof_images)) == True, 'Wrong labels used for evaluation, possibly caused by ' \
+                               'training examples left in the input pipeline'
+
     _, _, accuracy, val, val_std, far = lfw.evaluate(emb_array, actual_issame, nrof_folds=nrof_folds)
 
     print('Accuracy: %1.3f+-%1.3f' % (np.mean(accuracy), np.std(accuracy)))
@@ -403,7 +414,7 @@ def parse_arguments(argv):
     parser.add_argument('--gpu_memory_fraction', type=float,
                         help='Upper bound on the amount of GPU memory that will be used by the process.', default=0.7)
     parser.add_argument('--pretrained_model', type=str,
-                        help='Load a pretrained model before training starts.')
+                        help='Load a pretrained model before training starts.', default="")
     parser.add_argument('--model_def', type=str,
                         help='Model definition. Points to a module containing the definition of the inference graph.',
                         default='models.inception_resnet_v1')
@@ -416,16 +427,21 @@ def parse_arguments(argv):
     parser.add_argument('--epoch_size', type=int,
                         help='Number of batches per epoch.', default=1000)
     parser.add_argument('--embedding_size', type=int,
-                        help='Dimensionality of the embedding.', default=128)
+                        help='Dimensionality of the embedding.', default=512)
     parser.add_argument('--random_crop',
                         help='Performs random cropping of training images. If false, '
                              'the center image_size pixels from the training images are used. ' +
                              'If the size of the images in the data directory is equal to image_size '
-                             'no cropping is performed', action='store_true')
+                             'no cropping is performed', action='store_true', default=True)
     parser.add_argument('--random_flip',
-                        help='Performs random horizontal flipping of training images.', action='store_true')
+                        help='Performs random horizontal flipping of training images.',
+                        action='store_true', default=True)
+    parser.add_argument('--random_brightness',
+                        help='Performs random brightness of training images.', action='store_true', default=True)
+    parser.add_argument('--random_contrast',
+                        help='Performs random contrast of training images.', action='store_true', default=True)
     parser.add_argument('--random_rotate',
-                        help='Performs random rotations of training images.', action='store_true')
+                        help='Performs random rotations of training images.', action='store_true', default=True)
     parser.add_argument('--keep_probability', type=float,
                         help='Keep probability of dropout for the fully connected layer(s).', default=0.8)
     parser.add_argument('--weight_decay', type=float,
@@ -452,7 +468,8 @@ def parse_arguments(argv):
     parser.add_argument('--nrof_preprocess_threads', type=int,
                         help='Number of preprocessing (data loading and augumentation) threads.', default=4)
     parser.add_argument('--log_histograms',
-                        help='Enables logging of weight/bias histograms in tensorboard.', action='store_true')
+                        help='Enables logging of weight/bias histograms in tensorboard.',
+                        action='store_true', default=True)
     parser.add_argument('--learning_rate_schedule_file', type=str,
                         help='File containing the learning rate schedule that is used when learning'
                              '_rate is set to to -1.', default=learning_rate_schedule_file)
@@ -465,11 +482,11 @@ def parse_arguments(argv):
 
     # Parameters for validation on LFW
     parser.add_argument('--lfw_pairs', type=str,
-                        help='The file containing the pairs to use for validation.', default=pair_dir)
+                        help='The file containing the pairs to use for validation.', default="")
     parser.add_argument('--lfw_file_ext', type=str,
                         help='The file extension for the LFW dataset.', default='png', choices=['jpg', 'png'])
     parser.add_argument('--lfw_dir', type=str,
-                        help='Path to the data directory containing aligned face patches.', default=lfw_dir)
+                        help='Path to the data directory containing aligned face patches.', default="")
     parser.add_argument('--lfw_batch_size', type=int,
                         help='Number of images to process in a batch in the LFW test set.', default=100)
     parser.add_argument('--lfw_nrof_folds', type=int,

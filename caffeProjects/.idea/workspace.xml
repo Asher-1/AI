@@ -2,8 +2,92 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f9f7f7e-3996-4f48-abef-26e768d57341" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/models/dummy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition-new/utils/rea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/align/align_dataset_mtcnn_for_owndata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/images/Anthony_Hopkins_0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/images/Anthony_Hopkins_0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_retrain_tripletloss.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_schedule_classifier_casia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_schedule_classifier_msceleb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_schedule_classifier_vggface2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/my_learning_rate_rate_schedule.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/pairs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/decode_msceleb_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/download_and_extract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/freeze_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/dummy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_softmax2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_softmax3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/BatchProcess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/DataAugmentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/preprocess_images.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/align/align_dataset_mtcnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/align/align_dataset_mtcnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/align/detect_face.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/align/detect_face.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/models/inception_resnet_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/models/inception_resnet_v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/models/inception_resnet_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/models/inception_resnet_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/train_softmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/train_softmax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/FaceDetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/MyGui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/caffe_net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/capture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/face_recognition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/mainwindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/test_ui/UI_mydemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/test_ui/mydemo.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/align/align_dataset_mtcnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/align/align_dataset_mtcnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/calculate_filtering_metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/calculate_filtering_metrics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/compare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/create_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/create_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb/faceEmbedding.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb/name.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/huge/huge_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/huge/huge_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/huge/huge_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/huge/huge_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/zhoujielun/zhoujielun_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/zhoujielun/zhoujielun_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/zhoujielun/zhoujielun_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/zhoujielun/zhoujielun_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/huge/huge_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/huge/huge_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/huge/huge_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/huge/huge_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/zhoujielun/zhoujielun_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/zhoujielun/zhoujielun_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/zhoujielun/zhoujielun_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/zhoujielun/zhoujielun_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/test_images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/face_recognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/face_recognition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/facenet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/facenet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/lfw.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/lfw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/test/train_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/test/train_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_softmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_softmax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_tripletloss.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_tripletloss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/file_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/file_processing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/image_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/image_processing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceSystem/FaceDetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceSystem/MyGui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceSystem/caffe_net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceSystem/capture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceSystem/face_recognition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceSystem/gender_recognition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceSystem/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceSystem/mainwindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceSystem/test_ui/UI_mydemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceSystem/test_ui/mydemo.ui" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +101,7 @@
     <SUITE FILE_PATH="coverage/caffeProjects$write_net.coverage" NAME="write_net Coverage Results" MODIFIED="1552990215726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_tools" />
     <SUITE FILE_PATH="coverage/caffeProjects$level1.coverage" NAME="level1 Coverage Results" MODIFIED="1553528056706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/face_landmark/data" />
     <SUITE FILE_PATH="coverage/caffeProjects$level3.coverage" NAME="level3 Coverage Results" MODIFIED="1553569827636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/face_landmark/data" />
+    <SUITE FILE_PATH="coverage/caffeProjects$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1554462576630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceSystem-caffe" />
     <SUITE FILE_PATH="coverage/caffeProjects$multi_train.coverage" NAME="multi_train Coverage Results" MODIFIED="1553569881484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/face_landmark/train" />
     <SUITE FILE_PATH="coverage/caffeProjects$generate_batch_prototxts.coverage" NAME="generate_batch_prototxts Coverage Results" MODIFIED="1553177516600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/face_landmark/data" />
     <SUITE FILE_PATH="coverage/caffeProjects$level2.coverage" NAME="level2 Coverage Results" MODIFIED="1553569755970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/face_landmark/data" />
@@ -25,7 +110,7 @@
     <SUITE FILE_PATH="coverage/caffeProjects$draw_landmarkfortest.coverage" NAME="draw_landmarkfortest Coverage Results" MODIFIED="1553584499406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/face_landmark/test" />
     <SUITE FILE_PATH="coverage/caffeProjects$draw_loss.coverage" NAME="draw_loss Coverage Results" MODIFIED="1552991393898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_tools" />
     <SUITE FILE_PATH="coverage/caffeProjects$pytest_in_test_model_py.coverage" NAME="pytest in test_model.py Coverage Results" MODIFIED="1552991799706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
-    <SUITE FILE_PATH="coverage/caffeProjects$main.coverage" NAME="main Coverage Results" MODIFIED="1553525002359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceSystem" />
+    <SUITE FILE_PATH="coverage/caffeProjects$main.coverage" NAME="main Coverage Results" MODIFIED="1554457363381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceSystem" />
     <SUITE FILE_PATH="coverage/caffeProjects$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1553050585212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/face_landmark/train" />
     <SUITE FILE_PATH="coverage/caffeProjects$app.coverage" NAME="app Coverage Results" MODIFIED="1553179414388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/face-landmark-web-app" />
     <SUITE FILE_PATH="coverage/caffeProjects$mainwindow.coverage" NAME="mainwindow Coverage Results" MODIFIED="1553507854624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceSystem" />
@@ -36,11 +121,14 @@
     <session id="-576669655">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -52,7 +140,7 @@
           <entry key="jpg" value="5" />
           <entry key="md" value="1" />
           <entry key="prototxt" value="4" />
-          <entry key="py" value="176" />
+          <entry key="py" value="187" />
           <entry key="txt" value="2" />
           <entry key="xml" value="2" />
         </counts>
@@ -65,7 +153,7 @@
           <entry key="Ini" value="2" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="176" />
+          <entry key="Python" value="187" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -87,46 +175,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/face_landmark/test/draw_landmarkfortest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3675">
-              <caret line="153" column="25" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="25" />
-              <folding>
-                <element signature="e#103#112#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/face_landmark/data/level3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1450">
-              <caret line="66" column="56" selection-start-line="66" selection-start-column="56" selection-end-line="66" selection-end-column="56" />
-              <folding>
-                <element signature="e#43#52#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/face_landmark/train/multi_train.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/face_landmark/train/train.py">
+        <entry file="file://$PROJECT_DIR$/FaceSystem-caffe/FaceDetector.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            <state relative-caret-position="400">
+              <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
               <folding>
-                <element signature="e#103#115#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -211,11 +266,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="850" />
-    <option name="y" value="307" />
-    <option name="width" value="3285" />
-    <option name="height" value="1805" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2070" />
+    <option name="y" value="300" />
+    <option name="width" value="1315" />
+    <option name="height" value="725" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -223,7 +278,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,15 +285,26 @@
               <item name="caffeProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="caffeProjects" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="caffeProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caffeProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="face-detection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="caffeProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caffeProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="FaceSystem-caffe" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/develop/software/Anaconda3/envs/py27/Lib/site-packages/PyQt4/pyrcc4.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OpenSourceProjects" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -270,7 +335,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.train">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="draw_landmarkfortest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="caffeProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -293,7 +358,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="level2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="caffeProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,12 +366,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/face_landmark/data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FaceSystem-caffe" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_landmark/data/level2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaceSystem-caffe/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,7 +380,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="level3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="caffeProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,12 +388,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/face_landmark/data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FaceSystem" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_landmark/data/level3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaceSystem/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -384,17 +449,17 @@
     <list>
       <item itemvalue="Python.draw_landmarkfortest" />
       <item itemvalue="Python.train" />
-      <item itemvalue="Python.level2" />
-      <item itemvalue="Python.level3" />
       <item itemvalue="Python.multi_train" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.train" />
         <item itemvalue="Python.draw_landmarkfortest" />
         <item itemvalue="Python.multi_train" />
-        <item itemvalue="Python.level3" />
-        <item itemvalue="Python.level2" />
       </list>
     </recent_temporary>
   </component>
@@ -417,14 +482,15 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19691895" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16811788" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.27620396" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31586403" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31586403" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.43633762" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -515,27 +581,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/develop/software/Anaconda3/envs/py27/Lib/site-packages/caffe/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/face_landmark/test/draw_rect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/face_landmark/data/makeh5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="169" column="46" lean-forward="true" selection-start-line="169" selection-start-column="46" selection-end-line="169" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/face_landmark/data/generate_batch_prototxts.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
@@ -714,20 +759,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FaceSystem/face_recognition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="75" column="41" lean-forward="true" selection-start-line="75" selection-start-column="41" selection-end-line="75" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FaceSystem/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1300">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FaceSystem/capture.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14">
@@ -739,34 +770,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="27" column="39" lean-forward="true" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FaceSystem/FaceDetector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FaceSystem/gender_recognition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FaceSystem/mainwindow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2641">
-          <caret line="193" column="21" lean-forward="true" selection-start-line="193" selection-start-column="21" selection-end-line="193" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FaceSystem/MyGui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -826,22 +832,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/face_landmark/test/draw_landmarkfortest.py">
+    <entry file="file://$PROJECT_DIR$/FaceSystem/MyGui.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3675">
-          <caret line="153" column="25" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="25" />
+        <state relative-caret-position="650">
+          <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
           <folding>
-            <element signature="e#103#112#0" expanded="true" />
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/face_landmark/data/level3.py">
+    <entry file="file://$PROJECT_DIR$/FaceSystem/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1450">
-          <caret line="66" column="56" selection-start-line="66" selection-start-column="56" selection-end-line="66" selection-end-column="56" />
+        <state relative-caret-position="-125">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face_landmark/train/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
-            <element signature="e#43#52#0" expanded="true" />
+            <element signature="e#103#115#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -853,12 +866,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/face_landmark/train/train.py">
+    <entry file="file://$PROJECT_DIR$/face_landmark/data/level3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="66" column="56" selection-start-line="66" selection-start-column="56" selection-end-line="66" selection-end-column="56" />
+          <folding>
+            <element signature="e#43#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face_landmark/test/draw_landmarkfortest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="153" column="25" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="25" />
+          <folding>
+            <element signature="e#103#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceSystem/mainwindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="193" column="21" lean-forward="true" selection-start-line="193" selection-start-column="21" selection-end-line="193" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceSystem/gender_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceSystem/face_recognition.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <caret line="18" column="55" lean-forward="true" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
           <folding>
-            <element signature="e#103#115#0" expanded="true" />
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceSystem/FaceDetector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="7" column="89" lean-forward="true" selection-start-line="7" selection-start-column="89" selection-end-line="7" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceSystem-caffe/caffe_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675">
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceSystem-caffe/face_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600">
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceSystem-caffe/FaceDetector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>

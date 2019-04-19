@@ -2,61 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d2783a1-3709-430b-853a-98504b02a33a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../DL/CNN/mlp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/FaceDetector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/MyGui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/caffe_net.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/capture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/face_recognition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/gender_recognition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/mainwindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/test_ui/UI_mydemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/test_ui/mydemo.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/calculate_filtering_metrics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/compare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/models/dummy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/images/Anthony_Hopkins_0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/images/Anthony_Hopkins_0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_retrain_tripletloss.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_schedule_classifier_casia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_schedule_classifier_msceleb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/learning_rate_schedule_classifier_vggface2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/data/pairs.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/decode_msceleb_dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/download_and_extract_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/download_vgg_face_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/download_and_extract.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/freeze_graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/lfw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/learning_rate_retrain_tripletloss.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/learning_rate_schedule_classifier_casia.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/learning_rate_schedule_classifier_msceleb.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/squeezenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_softmax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_tripletloss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/validate_on_lfw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/FaceDetector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/MyGui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/caffe_net.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/capture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/face_recognition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/gender_recognition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/FaceSystem/mainwindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/haarcascade_frontalface_alt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/.idea/DL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/DL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/.idea/OpenSourceProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/OpenSourceProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/dummy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_softmax2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TensorFlow_tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TensorFlow_tutorials.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/align/align_dataset_mtcnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/align/align_dataset_mtcnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/align/detect_face.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/align/detect_face.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/models/inception_resnet_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/models/inception_resnet_v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/models/inception_resnet_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/models/inception_resnet_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/train_softmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Deep-Learning-21-Examples-master/chapter_6/src/train_softmax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/FaceDetector.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/FaceDetector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/MyGui.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/MyGui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/face_recognition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/mainwindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/FaceSystem/mainwindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/align/align_dataset_mtcnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/align/align_dataset_mtcnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/calculate_filtering_metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/calculate_filtering_metrics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/compare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/create_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/create_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb/faceEmbedding.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb/name.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/huge/huge_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/huge/huge_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/huge/huge_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/huge/huge_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/zhoujielun/zhoujielun_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/zhoujielun/zhoujielun_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/zhoujielun/zhoujielun_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/emb_face/zhoujielun/zhoujielun_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/huge/huge_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/huge/huge_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/huge/huge_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/huge/huge_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/zhoujielun/zhoujielun_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/zhoujielun/zhoujielun_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/zhoujielun/zhoujielun_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/images/zhoujielun/zhoujielun_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/dataset/test_images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/facenet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/facenet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/lfw.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/lfw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/models/inception_resnet_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/test/train_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/test/train_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_softmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_softmax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_tripletloss.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/train_tripletloss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/image_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/Face_Detection_Recognition-master/faceRecognition/utils/image_processing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../caffeProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../caffeProjects/face-detection/face_detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face-detection/face_detect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/data/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/draw_landmarkfortest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/test/draw_landmarkfortest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/multi_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/multi_train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeProjects/face_landmark/train/train.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -318,8 +325,8 @@
     <session id="-1478734568">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.0" value="6" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="7" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="1" />
@@ -327,7 +334,7 @@
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -336,7 +343,7 @@
           <entry key="jpg" value="7" />
           <entry key="md" value="2" />
           <entry key="png" value="5" />
-          <entry key="py" value="97" />
+          <entry key="py" value="99" />
           <entry key="pyi" value="1" />
           <entry key="run_align_train_classify" value="1" />
           <entry key="run_my_train" value="1" />
@@ -348,7 +355,7 @@
           <entry key="Image" value="12" />
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="97" />
+          <entry key="Python" value="99" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
@@ -368,7 +375,17 @@
     <favorites_list name="TensorFlow_tutorials" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/real_time_face_recognition.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="57" column="58" lean-forward="true" selection-start-line="57" selection-start-column="58" selection-end-line="57" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -494,7 +511,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1720" />
-    <option name="y" value="87" />
+    <option name="y" value="85" />
     <option name="width" value="3285" />
     <option name="height" value="1805" />
   </component>
@@ -854,8 +871,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="848" y="166" width="224" height="697" id="Project" order="0" sideWeight="0.49328858" visible="true" weight="0.22103149" />
+      <window_info active="true" content_ui="combo" x="848" y="166" width="224" height="697" id="Project" order="0" sideWeight="0.49328858" visible="true" weight="0.22371066" />
       <window_info id="Structure" order="1" sideWeight="0.49433428" weight="0.24983256" />
       <window_info id="Favorites" order="2" sideWeight="0.5056657" side_tool="true" weight="0.24983256" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1139,13 +1157,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/real_time_face_recognition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TensorFlow_text_recognition/cnn-text-classification-tf-master/train.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3983">
@@ -1194,13 +1205,6 @@
         <state relative-caret-position="-1294" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/src/face.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/face_detection_classify_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1244,9 +1248,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
-          <folding>
-            <element signature="e#1196#1234#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1265,21 +1266,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/facenet-master/src/validate_on_lfw.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#1501#1539#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/facenet-master/classifier_train.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
           <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="e#25#48#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1287,6 +1279,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/src/face.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="85" column="54" lean-forward="true" selection-start-line="85" selection-start-column="54" selection-end-line="85" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow_FaceNet_face_detection/real_time_face_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="57" column="58" lean-forward="true" selection-start-line="57" selection-start-column="58" selection-end-line="57" selection-end-column="58" />
         </state>
       </provider>
     </entry>

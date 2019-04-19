@@ -325,8 +325,8 @@ def train(args, sess, epoch, image_list, label_list, index_dequeue_op, enqueue_o
 
 
 def evaluate(sess, enqueue_op, image_paths_placeholder, labels_placeholder, phase_train_placeholder,
-             batch_size_placeholder,
-             embeddings, labels, image_paths, actual_issame, batch_size, nrof_folds, log_dir, step, summary_writer):
+             batch_size_placeholder, embeddings, labels, image_paths, actual_issame, batch_size,
+             nrof_folds, log_dir, step, summary_writer):
     start_time = time.time()
     # Run forward pass to calculate embeddings
     print('Runnning forward pass on LFW images')
@@ -349,7 +349,8 @@ def evaluate(sess, enqueue_op, image_paths_placeholder, labels_placeholder, phas
         emb_array[lab] = emb
 
     assert np.array_equal(lab_array, np.arange(
-        nrof_images)) == True, 'Wrong labels used for evaluation, possibly caused by training examples left in the input pipeline'
+        nrof_images)) == True, 'Wrong labels used for evaluation, possibly caused by training examples ' \
+                               'left in the input pipeline'
     _, _, accuracy, val, val_std, far = lfw.evaluate(emb_array, actual_issame, nrof_folds=nrof_folds)
 
     print('Accuracy: %1.3f+-%1.3f' % (np.mean(accuracy), np.std(accuracy)))
@@ -408,7 +409,7 @@ def parse_arguments(argv):
                         help='Model definition. Points to a module containing the definition of the inference graph.',
                         default='models.inception_resnet_v1')
     parser.add_argument('--max_nrof_epochs', type=int,
-                        help='Number of epochs to run.', default=500)
+                        help='Number of epochs to run.', default=80)
     parser.add_argument('--batch_size', type=int,
                         help='Number of images to process in a batch.', default=90)
     parser.add_argument('--image_size', type=int,

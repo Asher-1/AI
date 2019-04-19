@@ -21,6 +21,7 @@ class facenetEmbedding:
         self.images_placeholder = tf.get_default_graph().get_tensor_by_name("input:0")
         self.tf_embeddings = tf.get_default_graph().get_tensor_by_name("embeddings:0")
         self.phase_train_placeholder = tf.get_default_graph().get_tensor_by_name("phase_train:0")
+        self.embedding_size = self.tf_embeddings.get_shape()[1]
 
     def get_embedding(self, images):
         feed_dict = {self.images_placeholder: images, self.phase_train_placeholder: False}
