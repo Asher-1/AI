@@ -2,8 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b03b0369-41cc-488e-a79e-200e41863a1e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DL/CNN/DeepLab_TF/fine_tune.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/CNN/DeepLab_TF/test_images/res25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/GAN/DCGAN/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/GAN/DCGAN/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/GAN/DCGAN/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/GAN/DCGAN/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/GAN/DCGAN/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/GAN/DCGAN/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/1.Q_learning_Maze/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/1.Q_learning_Maze/env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/1.Q_learning_Maze/play.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/1.Q_learning_Maze/q_learning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/2.DQN_Maze/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/2.DQN_Maze/deep_q_learning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/2.DQN_Maze/env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/2.DQN_Maze/play.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/3.Policy_Gradient/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/3.Policy_Gradient/play.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/3.Policy_Gradient/policy_gradient.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/4.Driving_3D_Car/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/4.Driving_3D_Car/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/4.Driving_3D_Car/a3c.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/4.Driving_3D_Car/env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/4.Driving_3D_Car/play.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/4.Driving_3D_Car/worker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/test_gym.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/test_universe1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/test_universe2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/test_universe3.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,11 +68,12 @@
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -80,7 +110,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -176,10 +206,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="257" />
-    <option name="y" value="-25" />
-    <option name="width" value="3285" />
-    <option name="height" value="1805" />
+    <option name="x" value="2767" />
+    <option name="y" value="517" />
+    <option name="width" value="780" />
+    <option name="height" value="830" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -196,11 +226,6 @@
               <item name="OpenSourceProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="OpenSourceProjects" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="OpenSourceProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenSourceProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="tensorflow-in-depth" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -210,7 +235,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TensorFlow_tutorials" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -382,8 +407,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798387" visible="true" weight="0.24715339" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798387" visible="true" weight="0.19156061" />
       <window_info id="Structure" order="1" sideWeight="0.5020161" side_tool="true" weight="0.22572003" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -684,9 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1300">
           <caret line="66" column="56" selection-start-line="66" selection-start-column="56" selection-end-line="66" selection-end-column="56" />
-          <folding>
-            <element signature="e#1205#1243#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -701,12 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
           <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
-          <folding>
-            <element signature="e#1521#2407#0" />
-            <element signature="e#8324#9005#0" />
-            <element signature="e#9033#9823#0" />
-            <element signature="e#9851#10910#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -714,9 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="569" column="57" selection-start-line="569" selection-start-column="57" selection-end-line="569" selection-end-column="57" />
-          <folding>
-            <element signature="e#1193#1231#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -724,10 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="606">
           <caret line="135" column="12" selection-start-line="135" selection-start-column="12" selection-end-line="135" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#110#164#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -735,10 +745,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="606">
           <caret line="563" column="60" selection-start-line="563" selection-start-column="60" selection-end-line="563" selection-end-column="60" />
-          <folding>
-            <element signature="e#1197#1235#0" expanded="true" />
-            <element signature="e#3593#3906#0" />
-          </folding>
         </state>
       </provider>
     </entry>

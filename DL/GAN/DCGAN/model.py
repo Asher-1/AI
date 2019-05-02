@@ -161,7 +161,7 @@ class DCGAN(object):
                                     self.G_sum, self.d_loss_fake_sum, self.g_loss_sum])
         self.d_sum = merge_summary(
             [self.z_sum, self.d_sum, self.d_loss_real_sum, self.d_loss_sum])
-        self.writer = SummaryWriter(config.work_dir, "logs", self.sess.graph)
+        self.writer = SummaryWriter(os.path.join(config.work_dir, "logs"), self.sess.graph)
 
         sample_z = np.random.uniform(-1, 1, size=(self.sample_num, self.z_dim))
 
@@ -303,7 +303,7 @@ class DCGAN(object):
                                 },
                             )
                             save_images(samples, [8, 8],
-                                        './{}/train_{:02d}_{:04d}.png'.format(config.sample_dir, epoch, idx))
+                                        '{}/train_{:02d}_{:04d}.png'.format(config.sample_dir, epoch, idx))
                             print("[Sample] d_loss: %.8f, g_loss: %.8f" % (d_loss, g_loss))
                         except:
                             print("one pic error!...")

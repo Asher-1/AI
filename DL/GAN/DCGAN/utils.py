@@ -3,6 +3,7 @@ Some codes from https://github.com/Newmu/dcgan_code
 """
 from __future__ import division
 import math
+import os
 import json
 import random
 import pprint
@@ -83,7 +84,7 @@ def to_json(output_path, *layers):
     with open(output_path, "w") as layer_f:
         lines = ""
         for w, b, bn in layers:
-            layer_idx = w.name.split('/')[0].split('h')[1]
+            layer_idx = w.name.split('/')[1].split('h')[1]
 
             B = b.eval()
 
@@ -163,10 +164,14 @@ def make_gif(images, fname, duration=2, true_image=False):
 
 
 def visualize(sess, dcgan, config, option):
+    sample_dir = os.path.join(config.sample_dir, 'test_samples')
+    if not os.path.exists(sample_dir):
+        os.makedirs(sample_dir)
+
     if option == 0:
         z_sample = np.random.uniform(-0.5, 0.5, size=(config.batch_size, dcgan.z_dim))
         samples = sess.run(dcgan.sampler, feed_dict={dcgan.z: z_sample})
-        save_images(samples, [8, 8], './samples/test_%s.png' % strftime("%Y-%m-%d %H:%M:%S", gmtime()))
+        save_images(samples, [8, 8], '{}/test_{}.png'.format(sample_dir, strftime("%Y-%m-%d %H:%M:%S", gmtime())))
     elif option == 1:
         values = np.arange(0, 1, 1. / config.batch_size)
         for idx in xrange(100):
@@ -184,7 +189,7 @@ def visualize(sess, dcgan, config, option):
             else:
                 samples = sess.run(dcgan.sampler, feed_dict={dcgan.z: z_sample})
 
-            save_images(samples, [8, 8], './samples/test_arange_%s.png' % (idx))
+            save_images(samples, [8, 8], '{}/test_arange_{}.png'.format(sample_dir, idx))
     elif option == 2:
         values = np.arange(0, 1, 1. / config.batch_size)
         for idx in [random.randint(0, 99) for _ in xrange(100)]:
@@ -205,9 +210,9 @@ def visualize(sess, dcgan, config, option):
                 samples = sess.run(dcgan.sampler, feed_dict={dcgan.z: z_sample})
 
             try:
-                make_gif(samples, './samples/test_gif_%s.gif' % (idx))
+                make_gif(samples, '{}/test_gif_{}.gif'.format(sample_dir, idx))
             except:
-                save_images(samples, [8, 8], './samples/test_%s.png' % strftime("%Y-%m-%d %H:%M:%S", gmtime()))
+                save_images(samples, [8, 8], '{}/test_{}.png'.format(sample_dir, strftime("%Y-%m-%d %H:%M:%S", gmtime())))
     elif option == 3:
         values = np.arange(0, 1, 1. / config.batch_size)
         for idx in xrange(100):
@@ -217,7 +222,7 @@ def visualize(sess, dcgan, config, option):
                 z[idx] = values[kdx]
 
             samples = sess.run(dcgan.sampler, feed_dict={dcgan.z: z_sample})
-            make_gif(samples, './samples/test_gif_%s.gif' % (idx))
+            make_gif(samples, '{}/test_gif_{}.gif'.format(sample_dir, idx))
     elif option == 4:
         image_set = []
         values = np.arange(0, 1, 1. / config.batch_size)
@@ -228,8 +233,8 @@ def visualize(sess, dcgan, config, option):
             for kdx, z in enumerate(z_sample): z[idx] = values[kdx]
 
             image_set.append(sess.run(dcgan.sampler, feed_dict={dcgan.z: z_sample}))
-            make_gif(image_set[-1], './samples/test_gif_%s.gif' % (idx))
+            make_gif(image_set[-1], '{}/test_gif_{}.gif'.format(sample_dir, idx))
 
         new_image_set = [merge(np.array([images[idx] for images in image_set]), [10, 10]) \
                          for idx in range(64) + range(63, -1, -1)]
-        make_gif(new_image_set, './samples/test_gif_merged.gif', duration=8)
+        make_gif(new_image_set, '{}/test_gif_merged.gif'.format(sample_dir), duration=8)
