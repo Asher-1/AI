@@ -1,0 +1,3 @@
+tensorflow
+pygame
+opencv-python

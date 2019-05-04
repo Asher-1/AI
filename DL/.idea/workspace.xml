@@ -2,40 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0045b2d-7d90-4c38-9d79-a783679ca237" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CNN/DeepLab_TF/fine_tune.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CNN/DeepLab_TF/test_images/res25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RL/RL_APP/Mario-Level-1/data/env.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GAN/DCGAN/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/GAN/DCGAN/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GAN/DCGAN/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/GAN/DCGAN/model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GAN/DCGAN/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/GAN/DCGAN/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/1.Q_learning_Maze/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/1.Q_learning_Maze/env.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/1.Q_learning_Maze/play.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/1.Q_learning_Maze/q_learning.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/2.DQN_Maze/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/2.DQN_Maze/deep_q_learning.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/2.DQN_Maze/env.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/2.DQN_Maze/play.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/3.Policy_Gradient/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/3.Policy_Gradient/play.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/3.Policy_Gradient/policy_gradient.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/4.Driving_3D_Car/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/4.Driving_3D_Car/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/4.Driving_3D_Car/a3c.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/4.Driving_3D_Car/env.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/4.Driving_3D_Car/play.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/4.Driving_3D_Car/worker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird/deep_q_network.py" beforeDir="false" afterPath="$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird/deep_q_network.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird/game/flappy_bird_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird/game/flappy_bird_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/test_gym.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/test_universe1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/test_universe2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/test_universe3.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenSourceProjects/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,139 +16,173 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/DL$play__2_.coverage" NAME="play (2) Coverage Results" MODIFIED="1552882087132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/3.Policy_Gradient" />
     <SUITE FILE_PATH="coverage/DL$class2_mlp.coverage" NAME="class2_mlp Coverage Results" MODIFIED="1553185981727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN" />
-    <SUITE FILE_PATH="coverage/DL$train.coverage" NAME="train Coverage Results" MODIFIED="1556795033516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird" />
-    <SUITE FILE_PATH="coverage/DL$mmy_axis.coverage" NAME="mmy_axis Coverage Results" MODIFIED="1552882569522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/DL$main.coverage" NAME="main Coverage Results" MODIFIED="1556791321667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GAN/DCGAN" />
-    <SUITE FILE_PATH="coverage/DL$train__2_.coverage" NAME="train (2) Coverage Results" MODIFIED="1552611588926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GAN/AI_Photoshop" />
-    <SUITE FILE_PATH="coverage/DL$play__1_.coverage" NAME="play (1) Coverage Results" MODIFIED="1552733287047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/2.DQN_Maze" />
+    <SUITE FILE_PATH="coverage/DL$train_mineral_shards.coverage" NAME="train_mineral_shards Coverage Results" MODIFIED="1556977834908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/deepmind/pysc2-examples" />
+    <SUITE FILE_PATH="coverage/DL$train_defeat_zerglings.coverage" NAME="train_defeat_zerglings Coverage Results" MODIFIED="1556979416604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/deepmind/pysc2-examples" />
     <SUITE FILE_PATH="coverage/DL$16_DNN.coverage" NAME="16_DNN Coverage Results" MODIFIED="1551190874820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNISTClassification" />
     <SUITE FILE_PATH="coverage/DL$tensorflow_cnn_alexnet.coverage" NAME="tensorflow_cnn_alexnet Coverage Results" MODIFIED="1553602972019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN" />
+    <SUITE FILE_PATH="coverage/DL$enjoy_mineral_shards.coverage" NAME="enjoy_mineral_shards Coverage Results" MODIFIED="1556965144165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/deepmind/pysc2-examples" />
+    <SUITE FILE_PATH="coverage/DL$gan.coverage" NAME="gan Coverage Results" MODIFIED="1554996209091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GAN/simpleGAN" />
+    <SUITE FILE_PATH="coverage/DL$FlappyBirdDQN.coverage" NAME="FlappyBirdDQN Coverage Results" MODIFIED="1556927673566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird" />
+    <SUITE FILE_PATH="coverage/DL$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1552438058043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN/AI_Make_Music" />
+    <SUITE FILE_PATH="coverage/DL$generate__1_.coverage" NAME="generate (1) Coverage Results" MODIFIED="1552612246787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GAN/AI_Photoshop" />
+    <SUITE FILE_PATH="coverage/DL$run_experiment.coverage" NAME="run_experiment Coverage Results" MODIFIED="1556953740553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/RL_APP/Super-Mario-Bros-DQN" />
+    <SUITE FILE_PATH="coverage/DL$deep_q_network.coverage" NAME="deep_q_network Coverage Results" MODIFIED="1556979344353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/RL_APP/DeepLearningTRexRush" />
+    <SUITE FILE_PATH="coverage/DL$resnet_main.coverage" NAME="resnet_main Coverage Results" MODIFIED="1552380454865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN/ResNet" />
+    <SUITE FILE_PATH="coverage/DL$train.coverage" NAME="train Coverage Results" MODIFIED="1556795033516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird" />
+    <SUITE FILE_PATH="coverage/DL$mmy_axis.coverage" NAME="mmy_axis Coverage Results" MODIFIED="1552882569522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DL$mario_level_1.coverage" NAME="mario_level_1 Coverage Results" MODIFIED="1556954012037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/RL_APP/Mario-Level-1" />
+    <SUITE FILE_PATH="coverage/DL$main.coverage" NAME="main Coverage Results" MODIFIED="1556977204143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/deepmind/pysc2-agents" />
+    <SUITE FILE_PATH="coverage/DL$train__2_.coverage" NAME="train (2) Coverage Results" MODIFIED="1552611588926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GAN/AI_Photoshop" />
+    <SUITE FILE_PATH="coverage/DL$SuperMarioDQN.coverage" NAME="SuperMarioDQN Coverage Results" MODIFIED="1556929804068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird" />
+    <SUITE FILE_PATH="coverage/DL$play__1_.coverage" NAME="play (1) Coverage Results" MODIFIED="1556968736319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/reinforce_learning_tutorial/4.Driving_3D_Car" />
+    <SUITE FILE_PATH="coverage/DL$test.coverage" NAME="test Coverage Results" MODIFIED="1556869703866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird" />
     <SUITE FILE_PATH="coverage/DL$generate.coverage" NAME="generate Coverage Results" MODIFIED="1552569609405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN/AI_Make_Music" />
     <SUITE FILE_PATH="coverage/DL$simple_robot.coverage" NAME="simple-robot Coverage Results" MODIFIED="1552378225904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NeuralNetwork" />
     <SUITE FILE_PATH="coverage/DL$ValueIteration.coverage" NAME="ValueIteration Coverage Results" MODIFIED="1556784968252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/RL_APP" />
-    <SUITE FILE_PATH="coverage/DL$gan.coverage" NAME="gan Coverage Results" MODIFIED="1554996209091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GAN/simpleGAN" />
     <SUITE FILE_PATH="coverage/DL$inference.coverage" NAME="inference Coverage Results" MODIFIED="1556709998466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN/DeepLab_TF" />
     <SUITE FILE_PATH="coverage/DL$pytest_in_test_py.coverage" NAME="pytest in test.py Coverage Results" MODIFIED="1551277172570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN" />
     <SUITE FILE_PATH="coverage/DL$test_py.coverage" NAME="test.py Coverage Results" MODIFIED="1552382416981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN/AI_Make_Music" />
     <SUITE FILE_PATH="coverage/DL$pytest_in_test_music21_py.coverage" NAME="pytest in test_music21.py Coverage Results" MODIFIED="1552382269754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN/AI_Make_Music" />
-    <SUITE FILE_PATH="coverage/DL$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1552438058043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN/AI_Make_Music" />
-    <SUITE FILE_PATH="coverage/DL$generate__1_.coverage" NAME="generate (1) Coverage Results" MODIFIED="1552612246787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GAN/AI_Photoshop" />
-    <SUITE FILE_PATH="coverage/DL$play.coverage" NAME="play Coverage Results" MODIFIED="1556773022292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/reinforce_learning_tutorial/1.Q_learning_Maze" />
-    <SUITE FILE_PATH="coverage/DL$deep_q_network.coverage" NAME="deep_q_network Coverage Results" MODIFIED="1556795176787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird" />
-    <SUITE FILE_PATH="coverage/DL$resnet_main.coverage" NAME="resnet_main Coverage Results" MODIFIED="1552380454865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN/ResNet" />
+    <SUITE FILE_PATH="coverage/DL$tools.coverage" NAME="tools Coverage Results" MODIFIED="1556878006830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/game/SuperMario/data" />
+    <SUITE FILE_PATH="coverage/DL$play.coverage" NAME="play Coverage Results" MODIFIED="1556968701995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL/reinforce_learning_tutorial/3.Policy_Gradient" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1223921058">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.1" value="5" />
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="9" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="2" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gif" value="2" />
           <entry key="gpu" value="1" />
-          <entry key="ipynb" value="2" />
+          <entry key="ipynb" value="3" />
           <entry key="jpg" value="1" />
           <entry key="lrc" value="1" />
-          <entry key="md" value="4" />
+          <entry key="md" value="10" />
           <entry key="png" value="3" />
-          <entry key="py" value="156" />
-          <entry key="txt" value="16" />
+          <entry key="py" value="453" />
+          <entry key="pylintrc" value="1" />
+          <entry key="txt" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="2" />
-          <entry key="Image" value="4" />
-          <entry key="Markdown" value="4" />
-          <entry key="PLAIN_TEXT" value="18" />
-          <entry key="Python" value="156" />
+          <entry key="IPNB" value="3" />
+          <entry key="Image" value="6" />
+          <entry key="Markdown" value="10" />
+          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="Python" value="453" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="py" value="2221" />
+          <entry key="py" value="4104" />
           <entry key="txt" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="18" />
-          <entry key="Python" value="2221" />
+          <entry key="Python" value="4104" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GAN/DCGAN/main.py">
+        <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-examples/train_mineral_shards.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1000">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            <state relative-caret-position="170">
+              <caret line="45" column="49" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#3531#4502#0" />
+                <element signature="e#4555#5529#0" />
+                <element signature="e#5575#6118#0" />
+                <element signature="e#5986#7587#0" />
+                <element signature="e#7713#9205#0" />
+                <element signature="e#9350#10517#0" />
+                <element signature="e#10084#10173#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GAN/DCGAN/utils.py">
+        <entry file="file://$PROJECT_DIR$/RL/RL_APP/DeepLearningTRexRush/deep_q_network.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-976">
-              <caret line="82" column="34" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
+            <state relative-caret-position="375">
+              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
               <folding>
-                <element signature="e#60#91#0" expanded="true" />
-                <element signature="e#2236#4583#0" />
-                <element signature="e#4649#5056#0" />
-                <element signature="e#5742#6012#0" />
-                <element signature="e#7515#7934#0" />
-                <element signature="e#7965#8655#0" />
+                <element signature="e#22#59#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GAN/DCGAN/model.py">
+        <entry file="file://$PROJECT_DIR$/RL/RL_APP/DeepLearningTRexRush/game/wrapped_trex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="268" column="107" lean-forward="true" selection-start-line="268" selection-start-column="107" selection-end-line="268" selection-end-column="107" />
+            <state relative-caret-position="281">
+              <caret line="237" column="25" selection-start-line="237" selection-start-column="25" selection-end-line="237" selection-end-column="25" />
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
-                <element signature="e#9106#10905#0" />
-                <element signature="e#12393#13009#0" />
-                <element signature="e#14579#15217#0" />
+                <element signature="e#446#2684#0" />
+                <element signature="e#2726#3298#0" />
+                <element signature="e#3339#4187#0" />
+                <element signature="e#4210#4872#0" />
+                <element signature="e#4913#5381#0" />
+                <element signature="e#5407#6213#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-examples/train_defeat_zerglings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+              <folding>
+                <element signature="e#1526#1820#0" />
+                <element signature="e#1622#1810#0" />
+                <element signature="e#1866#2078#0" />
+                <element signature="e#1951#2068#0" />
+                <element signature="e#2123#2272#0" />
+                <element signature="e#2314#2461#0" />
+                <element signature="e#3238#4405#0" />
+                <element signature="e#3955#4048#0" />
+                <element signature="e#4449#5472#0" />
+                <element signature="e#4676#5472#0" />
+                <element signature="e#4877#5015#0" />
+                <element signature="e#5061#5150#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird/deep_q_network.py">
+        <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-examples/defeat_zerglings/dqfd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-775">
-              <caret line="111" column="28" lean-forward="true" selection-start-line="111" selection-start-column="28" selection-end-line="111" selection-end-column="28" />
+            <state relative-caret-position="3469">
+              <caret line="253" column="21" selection-start-line="253" selection-start-column="21" selection-end-line="253" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#3860#6346#1" />
+                <element signature="e#11485#12294#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -194,24 +198,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>tf.train.</find>
-      <find>stream</find>
-      <find>visualize</find>
-      <find>log</find>
-      <find>dataset_name</find>
-      <find>dataset</find>
-      <find>checkpoint_dir</find>
-      <find>sample</find>
-      <find>sample_dir</find>
-      <find>load_mnist</find>
-      <find>DeepLabResNetModel</find>
-      <find>ImageReader</find>
-      <find>batch_size</find>
-      <find>reshape</find>
-      <find>Mat</find>
-      <find>sampler</find>
-      <find>./</find>
-      <find>g_bn0</find>
+      <find>SubprocVecEnv</find>
+      <find>race</find>
+      <find>diff</find>
+      <find>FLAGS</find>
+      <find>bot_race</find>
+      <find>Random</find>
+      <find>sc_pb</find>
+      <find>U</find>
+      <find>save</find>
+      <find>mineral</find>
+      <find>obs.observation</find>
+      <find>run_thread</find>
+      <find>snapshot_step</find>
+      <find>BatchInput</find>
+      <find>save_state</find>
+      <find>load_state</find>
+      <find>screen</find>
+      <find>observation</find>
+      <find>minimap</find>
+      <find>Episode Reward</find>
+      <find>print_freq</find>
+      <find>train_freq</find>
+      <find>num_actions</find>
+      <find>continuation</find>
+      <find>Starting episode</find>
+      <find>Move_minimap</find>
+      <find>steps</find>
+      <find>num_agents</find>
+      <find>parallel</find>
+      <find>high_score</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -220,49 +236,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/faceswap/setup.py" />
-        <option value="$PROJECT_DIR$/RNN/train.py" />
-        <option value="$PROJECT_DIR$/RNN/test.py" />
-        <option value="$PROJECT_DIR$/RNN/utils.py" />
-        <option value="$PROJECT_DIR$/CNN/tensorflow_cnn_cifar10.py" />
-        <option value="$PROJECT_DIR$/CNN/ResNet/cifar_input.py" />
-        <option value="$PROJECT_DIR$/CNN/ResNet/resnet_model.py" />
-        <option value="$PROJECT_DIR$/NeuralNetwork/simple-robot.py" />
-        <option value="$PROJECT_DIR$/CNN/ResNet/resnet_main.py" />
-        <option value="$PROJECT_DIR$/RNN/AI_Make_Music/test_music21.py" />
-        <option value="$PROJECT_DIR$/RNN/AI_Make_Music/network.py" />
-        <option value="$PROJECT_DIR$/RNN/AI_Make_Music/utils.py" />
-        <option value="$PROJECT_DIR$/RNN/AI_Make_Music/train.py" />
-        <option value="$PROJECT_DIR$/RNN/AI_Make_Music/generate.py" />
-        <option value="$PROJECT_DIR$/GAN/AI_Photoshop/generate.py" />
-        <option value="$PROJECT_DIR$/GAN/AI_Photoshop/train.py" />
-        <option value="$PROJECT_DIR$/GAN/AI_Photoshop/network.py" />
-        <option value="$PROJECT_DIR$/RL/1.Q_learning_Maze/q_learning.py" />
-        <option value="$PROJECT_DIR$/RL/1.Q_learning_Maze/play.py" />
-        <option value="$PROJECT_DIR$/RL/1.Q_learning_Maze/env.py" />
-        <option value="$PROJECT_DIR$/RL/2.DQN_Maze/play.py" />
-        <option value="$PROJECT_DIR$/RL/2.DQN_Maze/deep_q_learning.py" />
-        <option value="$PROJECT_DIR$/RL/3.Policy_Gradient/play.py" />
-        <option value="$PROJECT_DIR$/mmy_axis.py" />
-        <option value="$PROJECT_DIR$/CNN/class2_mlp.py" />
-        <option value="$PROJECT_DIR$/GAN/simpleGAN/gan.py" />
-        <option value="$PROJECT_DIR$/GAN/DCGAN/download.py" />
-        <option value="$PROJECT_DIR$/CNN/DeepLab_TF/inference.py" />
-        <option value="$PROJECT_DIR$/CNN/DeepLab_TF/deeplab_resnet/model.py" />
-        <option value="$PROJECT_DIR$/CNN/DeepLab_TF/deeplab_resnet/network.py" />
-        <option value="$PROJECT_DIR$/CNN/DeepLab_TF/deeplab_resnet/utils.py" />
-        <option value="$PROJECT_DIR$/CNN/DeepLab_TF/deeplab_resnet/image_reader.py" />
-        <option value="$PROJECT_DIR$/CNN/DeepLab_TF/fine_tune.py" />
-        <option value="$PROJECT_DIR$/CNN/DeepLab_TF/evaluate.py" />
-        <option value="$PROJECT_DIR$/GAN/DCGAN/ops.py" />
-        <option value="$PROJECT_DIR$/RL/RL_APP/ValueIteration.py" />
-        <option value="$PROJECT_DIR$/RL/RL_APP/gridworld.py" />
-        <option value="$PROJECT_DIR$/GAN/DCGAN/utils.py" />
-        <option value="$PROJECT_DIR$/GAN/DCGAN/main.py" />
-        <option value="$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird/deep_q_network.py" />
-        <option value="$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird/train.py" />
-        <option value="$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird/game/flappy_bird_utils.py" />
         <option value="$PROJECT_DIR$/GAN/DCGAN/model.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/Super-Mario-Bros-DQN/ops.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/Super-Mario-Bros-DQN/SarstReplayMemory.py" />
+        <option value="C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/gym_pull/__init__.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/Mario-Level-1/mario_level_1.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/gym-super-mario/ppaquette_gym_super_mario/super_mario_bros.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/Mario-Level-1/data/env.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/Mario-Level-1/data/setup.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/Mario-Level-1/data/tools.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/BrainDQN_NIPS.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DQN-play-SuperMario/replay_memory.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/game/flappy_bird/wrapped_flappy_bird.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/game/flappy_bird/flappy_bird_utils.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DQN-play-SuperMario/play_mario.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird/deep_q_network.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/FlappyBirdDQN.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/Mario-Level-1/data/main.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DQN-play-SuperMario/test.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/game/SuperMario/data/states/main_menu.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/test.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/game/SuperMario/data/main.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/game/SuperMario/data/constants.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/game/SuperMario/data/components/mario.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/game/SuperMario/data/setup.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/game/SuperMario/data/components/powerups.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/game/SuperMario/data/env.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/game/SuperMario/data/tools.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/BrainDQN_Nature.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DQN-play-SuperMario/net_pytorch.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/SuperMarioDQN.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/Super-Mario-Bros-DQN/MarioDQNAgent.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/Super-Mario-Bros-DQN/run_experiment.py" />
+        <option value="C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/gym/envs/user/nes_env.py" />
+        <option value="$PROJECT_DIR$/RL/deepmind/pysc2-examples/deepq_mineral_shards.py" />
+        <option value="$PROJECT_DIR$/RL/deepmind/pysc2-examples/common/vec_env/subproc_vec_env.py" />
+        <option value="C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/pysc2/run_configs/__init__.py" />
+        <option value="C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/pysc2/run_configs/platforms.py" />
+        <option value="$PROJECT_DIR$/RL/deepmind/pysc2-examples/enjoy_mineral_shards.py" />
+        <option value="$PROJECT_DIR$/RL/deepmind/pysc2-agents/run_loop.py" />
+        <option value="$PROJECT_DIR$/RL/deepmind/pysc2-examples/main.py" />
+        <option value="$PROJECT_DIR$/RL/deepmind/pysc2-examples/demo.py" />
+        <option value="$PROJECT_DIR$/RL/deepmind/pysc2-examples/defeat_zerglings/dqfd.py" />
+        <option value="$PROJECT_DIR$/RL/deepmind/pysc2-agents/agents/a3c_agent.py" />
+        <option value="$PROJECT_DIR$/RL/deepmind/pysc2-agents/agents/network.py" />
+        <option value="$PROJECT_DIR$/RL/deepmind/pysc2-agents/utils.py" />
+        <option value="$PROJECT_DIR$/RL/deepmind/pysc2-examples/train_defeat_zerglings.py" />
+        <option value="$PROJECT_DIR$/RL/deepmind/pysc2-agents/main.py" />
+        <option value="$PROJECT_DIR$/RL/deepmind/pysc2-examples/a2c/a2c.py" />
+        <option value="$PROJECT_DIR$/RL/deepmind/pysc2-examples/train_mineral_shards.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DeepLearningTRexRush/deep_q_network.py" />
+        <option value="$PROJECT_DIR$/RL/RL_APP/DeepLearningTRexRush/game/wrapped_trex.py" />
       </list>
     </option>
   </component>
@@ -272,9 +296,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2050" />
-    <option name="y" value="340" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="805" />
+    <option name="y" value="-45" />
     <option name="width" value="1490" />
     <option name="height" value="1255" />
   </component>
@@ -297,13 +321,7 @@
             <path>
               <item name="DL" type="b2602c69:ProjectViewProjectNode" />
               <item name="DL" type="462c0819:PsiDirectoryNode" />
-              <item name="GAN" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DL" type="462c0819:PsiDirectoryNode" />
-              <item name="GAN" type="462c0819:PsiDirectoryNode" />
-              <item name="AI_Photoshop" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DL" type="b2602c69:ProjectViewProjectNode" />
@@ -321,15 +339,7 @@
               <item name="DL" type="462c0819:PsiDirectoryNode" />
               <item name="RL" type="462c0819:PsiDirectoryNode" />
               <item name="RL_APP" type="462c0819:PsiDirectoryNode" />
-              <item name="DeepLearningFlappyBird" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DL" type="462c0819:PsiDirectoryNode" />
-              <item name="RL" type="462c0819:PsiDirectoryNode" />
-              <item name="RL_APP" type="462c0819:PsiDirectoryNode" />
-              <item name="DeepLearningFlappyBird" type="462c0819:PsiDirectoryNode" />
-              <item name="game" type="462c0819:PsiDirectoryNode" />
+              <item name="DeepLearningTRexRush" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DL" type="b2602c69:ProjectViewProjectNode" />
@@ -343,10 +353,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PythonApplications" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -358,9 +368,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\develop\workstations\GitHub\AI\DL\RL\RL_APP\DRL-FlappyBird\game\flappy_bird" />
       <recent name="D:\develop\workstations\GitHub\AI\DL\GAN\AI_Photoshop" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\workstations\GitHub\AI\DL\RL\RL_APP\DRL-FlappyBird" />
+      <recent name="D:\develop\workstations\GitHub\AI\DL\RL\RL_APP\Mario-Level-1\data" />
       <recent name="D:\develop\workstations\GitHub\AI\DL\CNN\DeepLab_TF\test_images" />
       <recent name="D:\develop\workstations\GitHub\AI\DL\GAN" />
       <recent name="D:\develop\workstations\GitHub\AI\DL\CNN" />
@@ -378,29 +391,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.deep_q_network">
-    <configuration name="ValueIteration" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RL/RL_APP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL/RL_APP/ValueIteration.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.train_defeat_zerglings">
     <configuration name="deep_q_network" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -409,12 +400,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RL/RL_APP/DeepLearningTRexRush" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird/deep_q_network.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL/RL_APP/DeepLearningTRexRush/deep_q_network.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -431,12 +422,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GAN/DCGAN" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RL/deepmind/pysc2-agents" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GAN/DCGAN/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL/deepmind/pysc2-agents/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -445,7 +436,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="play" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="play (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -453,12 +444,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RL/reinforce_learning_tutorial/1.Q_learning_Maze" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RL/reinforce_learning_tutorial/4.Driving_3D_Car" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL/reinforce_learning_tutorial/1.Q_learning_Maze/play.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL/reinforce_learning_tutorial/4.Driving_3D_Car/play.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -489,7 +480,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="train_defeat_zerglings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -497,12 +488,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RL/deepmind/pysc2-examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird/train.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL/deepmind/pysc2-examples/train_defeat_zerglings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_mineral_shards" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RL/deepmind/pysc2-examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL/deepmind/pysc2-examples/train_mineral_shards.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -513,19 +526,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.test.py" />
+      <item itemvalue="Python.train_mineral_shards" />
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.play" />
-      <item itemvalue="Python.ValueIteration" />
-      <item itemvalue="Python.train" />
+      <item itemvalue="Python.play (1)" />
+      <item itemvalue="Python.train_defeat_zerglings" />
       <item itemvalue="Python.deep_q_network" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.train_defeat_zerglings" />
         <item itemvalue="Python.deep_q_network" />
-        <item itemvalue="Python.train" />
+        <item itemvalue="Python.train_mineral_shards" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.ValueIteration" />
-        <item itemvalue="Python.play" />
+        <item itemvalue="Python.play (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -547,7 +560,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552563361413</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit some codes">
+      <created>1556800954460</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556800954460</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -570,20 +590,29 @@
       <configuration name="pytest in test_music21.py" configurationId="tests" />
     </history-entry>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18888144" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18687207" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989953" visible="true" weight="0.3711048" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41926345" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989953" visible="true" weight="0.3512748" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42351276" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
@@ -598,13 +627,13 @@
       <window_info anchor="right" x="0" y="0" width="337" height="637" id="Documentation" order="5" side_tool="true" weight="0.32953784" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21567315" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19691895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989953" weight="0.15864022" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989953" weight="0.25637394" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23229462" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -636,405 +665,477 @@
     <MESSAGE value="commit some codes" />
     <option name="LAST_COMMIT_MESSAGE" value="commit some codes" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/game/flappy_bird/wrapped_flappy_bird.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/FlappyBirdDQN.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/game/SuperMario/data/tools.py</url>
+          <line>115</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/game/SuperMario/data/tools.py</url>
+          <line>111</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/game/SuperMario/data/tools.py</url>
+          <line>109</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird/game/SuperMario/data/tools.py</url>
+          <line>107</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/gym/envs/user/nes_env.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GAN/GAN-mnist/jpg/4.png">
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/pysc2/run_configs/lib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="177" column="44" selection-start-line="177" selection-start-column="44" selection-end-line="177" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/pysc2/lib/sc_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1407174843/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="2800" column="8" selection-start-line="2800" selection-start-column="8" selection-end-line="2800" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/s2clientprotocol/sc2api_pb2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3200">
+          <caret line="167" column="18" selection-start-line="167" selection-start-column="12" selection-end-line="167" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/training/saver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="1311" column="62" selection-start-line="1311" selection-start-column="62" selection-end-line="1311" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/absl/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-agents/images/DefeatRoaches.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/GAN/GAN-mnist/jpg/1.jpg">
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-agents/images/CollectMineralShards.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/GAN/GAN-mnist/gan_mnist.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="19" />
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/pysc2/lib/features.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GAN/DCGAN-mnist/dcgan_mnist.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/scipy/stats/_distn_infrastructure.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="1642" column="21" lean-forward="true" selection-start-line="1642" selection-start-column="21" selection-end-line="1642" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/moviepy/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/ops/nn_impl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="106" column="4" selection-start-line="106" selection-start-column="4" selection-end-line="106" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/DeepLab_TF/dataset/train.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1725" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/DeepLab_TF/dataset/val.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-900" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/DeepLab_TF/dataset/dataset下载说明.txt">
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/pysc2/run_configs/platforms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="63" lean-forward="true" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/DeepLab_TF/运行文档.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="53" lean-forward="true" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/DeepLab_TF/test_images/res25.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/DeepLab_TF/output/mask.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/DeepLab_TF/deeplab_resnet/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1434">
-          <caret line="16" column="61" lean-forward="true" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+          <caret line="33" column="67" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#675#713#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/DeepLab_TF/fine_tune.py">
+    <entry file="file://$PROJECT_DIR$/RL/reinforce_learning_tutorial/1.Q_learning_Maze/q_learning.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="137">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/DeepLab_TF/deeplab_resnet/image_reader.py">
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/absl/flags/_flagvalues.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="152" column="6" selection-start-line="152" selection-start-column="6" selection-end-line="152" selection-end-column="6" />
+        <state relative-caret-position="252">
+          <caret line="429" selection-start-line="429" selection-end-line="429" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/pysc2/run_configs/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+          <folding>
+            <element signature="e#647#685#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/baselines/deepq/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="41" column="64" lean-forward="true" selection-start-line="41" selection-start-column="64" selection-end-line="41" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-examples/common/vec_env/subproc_vec_env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="54" column="42" lean-forward="true" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-examples/enjoy_mineral_shards.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="38" selection-start-line="38" selection-end-line="39" selection-end-column="78" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-examples/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-examples/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-examples/replay_mineral.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1425" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-examples/pylintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1050" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/reinforce_learning_tutorial/3.Policy_Gradient/play.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/reinforce_learning_tutorial/4.Driving_3D_Car/play.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#570#603#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/reinforce_learning_tutorial/4.Driving_3D_Car/env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/reinforce_learning_tutorial/4.Driving_3D_Car/a3c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="64" column="32" lean-forward="true" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
+          <folding>
+            <element signature="e#58#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-examples/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="274" column="43" selection-start-line="274" selection-start-column="43" selection-end-line="274" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-examples/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="80" column="20" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/baselines/deepq/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/numpy/lib/shape_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="325" column="56" lean-forward="true" selection-start-line="325" selection-start-column="56" selection-end-line="325" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/baselines/common/tf_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="190" column="39" lean-forward="true" selection-start-line="190" selection-start-column="39" selection-end-line="190" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#211#769#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/baselines/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="256" selection-start-line="256" selection-end-line="256" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/DeepLab_TF/evaluate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/DeepLab_TF/deeplab_resnet/model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="e#176#204#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/DeepLab_TF/inference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/DeepLab_TF/deeplab_resnet/network.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="46" column="72" selection-start-line="46" selection-start-column="72" selection-end-line="46" selection-end-column="72" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#122#1182#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/ops/gen_array_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="7430" selection-start-line="7430" selection-end-line="7430" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/ops/variable_scope.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="852" selection-start-line="852" selection-end-line="852" />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/client/session.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="1534" selection-start-line="1534" selection-end-line="1534" />
+        <state relative-caret-position="213">
+          <caret line="1351" column="45" lean-forward="true" selection-start-line="1351" selection-start-column="45" selection-end-line="1351" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/ops/variables.py">
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-examples/deepq_mineral_shards.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="1600" column="4" selection-start-line="1600" selection-start-column="4" selection-end-line="1600" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_monkey_qt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GAN/simpleGAN/gan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4325">
-          <caret line="207" column="23" lean-forward="true" selection-start-line="207" selection-start-column="23" selection-end-line="207" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RNN/text_prediction/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="48" column="29" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="29" />
-          <folding>
-            <element signature="e#1014#1037#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RNN/text_prediction/network.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3125" />
-      </provider>
-    </entry>
-    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/platform/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="124" selection-start-line="124" selection-end-line="124" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/summary/writer/writer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="318" column="13" lean-forward="true" selection-start-line="318" selection-start-column="13" selection-end-line="318" selection-end-column="13" />
-          <folding>
-            <element signature="e#7147#7257#0" />
-            <element signature="e#7338#7838#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GAN/DCGAN/download.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2115">
-          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding>
-            <element signature="e#172#209#0" expanded="true" />
-            <element signature="e#639#1427#0" />
-            <element signature="e#1455#1624#0" />
-            <element signature="e#1662#2172#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GAN/DCGAN/ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/platform/flags.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/numpy/lib/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="99" selection-start-line="99" selection-end-line="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RL/RL_APP/gridworld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        <state relative-caret-position="25">
+          <caret line="190" column="20" lean-forward="true" selection-start-line="190" selection-start-column="20" selection-end-line="190" selection-end-column="20" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RL/reinforce_learning_tutorial/2.DQN_Maze/env.py">
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/pysc2/env/sc2_env.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="525">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
           <folding>
-            <element signature="e#169#179#0" expanded="true" />
+            <element signature="e#632#670#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RL/reinforce_learning_tutorial/3.Policy_Gradient/policy_gradient.py">
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/baselines/deepq/build_graph.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-347">
+          <caret line="316" column="4" selection-start-line="316" selection-start-column="4" selection-end-line="316" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faceswap/scripts/convert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="102" column="25" lean-forward="true" selection-start-line="102" selection-start-column="25" selection-end-line="102" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-agents/agents/network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="e#81#99#0" expanded="true" />
+            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#254#519#0" />
+            <element signature="e#559#3386#0" />
+            <element signature="e#3455#5855#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RL/reinforce_learning_tutorial/3.Policy_Gradient/play.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/PIL/Image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="1990" selection-start-line="1990" selection-end-line="1990" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GAN/DCGAN/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-976">
-          <caret line="82" column="34" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
-          <folding>
-            <element signature="e#60#91#0" expanded="true" />
-            <element signature="e#2236#4583#0" />
-            <element signature="e#4649#5056#0" />
-            <element signature="e#5742#6012#0" />
-            <element signature="e#7515#7934#0" />
-            <element signature="e#7965#8655#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GAN/AI_Photoshop/generate.py">
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-agents/agents/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/GAN/AI_Photoshop/network.py">
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-agents/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GAN/AI_Photoshop/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1775">
-          <caret line="71" column="58" lean-forward="true" selection-start-line="71" selection-start-column="58" selection-end-line="71" selection-end-column="58" />
+        <state relative-caret-position="294">
+          <caret line="136" column="22" lean-forward="true" selection-start-line="136" selection-start-column="22" selection-end-line="136" selection-end-column="22" />
           <folding>
-            <element signature="e#43#52#0" expanded="true" />
+            <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RL/RL_APP/ValueIteration.py">
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-agents/run_loop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+        <state relative-caret-position="295">
+          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-agents/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <element signature="e#470#1176#0" />
+            <element signature="e#1958#2213#0" />
+            <element signature="e#2240#2517#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-agents/agents/a3c_agent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="110" column="58" lean-forward="true" selection-start-line="110" selection-start-column="58" selection-end-line="110" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-examples/defeat_zerglings/dqfd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3469">
+          <caret line="253" column="21" selection-start-line="253" selection-start-column="21" selection-end-line="253" selection-end-column="21" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#637#1204#0" />
-            <element signature="e#1259#1791#0" />
-            <element signature="e#1942#2148#0" />
+            <element signature="e#3860#6346#1" />
+            <element signature="e#11485#12294#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird/train.py">
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-examples/train_defeat_zerglings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="694">
-          <caret line="217" column="11" lean-forward="true" selection-start-line="217" selection-start-column="11" selection-end-line="217" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird/game/wrapped_flappy_bird.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4306">
-          <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+        <state relative-caret-position="370">
+          <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#1526#1820#0" />
+            <element signature="e#1622#1810#0" />
+            <element signature="e#1866#2078#0" />
+            <element signature="e#1951#2068#0" />
+            <element signature="e#2123#2272#0" />
+            <element signature="e#2314#2461#0" />
+            <element signature="e#3238#4405#0" />
+            <element signature="e#3955#4048#0" />
+            <element signature="e#4449#5472#0" />
+            <element signature="e#4676#5472#0" />
+            <element signature="e#4877#5015#0" />
+            <element signature="e#5061#5150#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird/game/flappy_bird_utils.py">
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-examples/a2c/a2c.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1631">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="295">
+          <caret line="738" column="32" lean-forward="true" selection-start-line="738" selection-start-column="32" selection-end-line="738" selection-end-column="32" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#12767#12810#0" />
+            <element signature="e#24358#24372#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird/deep_q_network.py">
+    <entry file="file://$PROJECT_DIR$/RL/RL_APP/DeepLearningTRexRush/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-775">
-          <caret line="111" column="28" lean-forward="true" selection-start-line="111" selection-start-column="28" selection-end-line="111" selection-end-column="28" />
+        <state relative-caret-position="50">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird/README.md">
+    <entry file="file://$PROJECT_DIR$/RL/RL_APP/DeepLearningTRexRush/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="75">
+            <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GAN/DCGAN/main.py">
+    <entry file="file://$PROJECT_DIR$/RL/deepmind/pysc2-examples/train_mineral_shards.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1000">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <state relative-caret-position="170">
+          <caret line="45" column="49" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#3531#4502#0" />
+            <element signature="e#4555#5529#0" />
+            <element signature="e#5575#6118#0" />
+            <element signature="e#5986#7587#0" />
+            <element signature="e#7713#9205#0" />
+            <element signature="e#9350#10517#0" />
+            <element signature="e#10084#10173#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GAN/DCGAN/model.py">
+    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/cv2/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="268" column="107" lean-forward="true" selection-start-line="268" selection-start-column="107" selection-end-line="268" selection-end-column="107" />
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/RL_APP/DeepLearningTRexRush/deep_q_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#9106#10905#0" />
-            <element signature="e#12393#13009#0" />
-            <element signature="e#14579#15217#0" />
+            <element signature="e#22#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/RL_APP/DeepLearningTRexRush/game/wrapped_trex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="237" column="25" selection-start-line="237" selection-start-column="25" selection-end-line="237" selection-end-column="25" />
+          <folding>
+            <element signature="e#446#2684#0" />
+            <element signature="e#2726#3298#0" />
+            <element signature="e#3339#4187#0" />
+            <element signature="e#4210#4872#0" />
+            <element signature="e#4913#5381#0" />
+            <element signature="e#5407#6213#0" />
           </folding>
         </state>
       </provider>

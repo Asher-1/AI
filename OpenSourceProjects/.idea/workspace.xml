@@ -2,37 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b03b0369-41cc-488e-a79e-200e41863a1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DL/CNN/DeepLab_TF/fine_tune.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DL/CNN/DeepLab_TF/test_images/res25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/RL/RL_APP/Mario-Level-1/data/env.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DL/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/GAN/DCGAN/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/GAN/DCGAN/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/GAN/DCGAN/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/GAN/DCGAN/model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/GAN/DCGAN/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/GAN/DCGAN/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/1.Q_learning_Maze/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/1.Q_learning_Maze/env.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/1.Q_learning_Maze/play.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/1.Q_learning_Maze/q_learning.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/2.DQN_Maze/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/2.DQN_Maze/deep_q_learning.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/2.DQN_Maze/env.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/2.DQN_Maze/play.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/3.Policy_Gradient/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/3.Policy_Gradient/play.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/3.Policy_Gradient/policy_gradient.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/4.Driving_3D_Car/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/4.Driving_3D_Car/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/4.Driving_3D_Car/a3c.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/4.Driving_3D_Car/env.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/4.Driving_3D_Car/play.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/4.Driving_3D_Car/worker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/test_gym.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/test_universe1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/test_universe2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/test_universe3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/RL/RL_APP/DeepLearningTRexRush/game/wrapped_trex.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/RL/RL_APP/DeepLearningTRexRush/game/wrapped_trex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlow_tutorials/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,12 +42,13 @@
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -83,7 +58,7 @@
           <entry key="m" value="1" />
           <entry key="md" value="15" />
           <entry key="png" value="2" />
-          <entry key="py" value="280" />
+          <entry key="py" value="282" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
@@ -92,7 +67,7 @@
           <entry key="Image" value="6" />
           <entry key="Markdown" value="15" />
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="280" />
+          <entry key="Python" value="282" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -110,7 +85,21 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_softmax3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="636" column="26" selection-start-line="636" selection-start-column="26" selection-end-line="636" selection-end-column="26" />
+              <folding>
+                <element signature="e#26114#27150#0" />
+                <element signature="e#27184#34756#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -206,10 +195,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="2767" />
-    <option name="y" value="517" />
-    <option name="width" value="780" />
-    <option name="height" value="830" />
+    <option name="x" value="805" />
+    <option name="y" value="-45" />
+    <option name="width" value="1490" />
+    <option name="height" value="1255" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -219,6 +208,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,11 +216,21 @@
               <item name="OpenSourceProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="OpenSourceProjects" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="OpenSourceProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpenSourceProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Face_Detection_Recognition-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OpenSourceProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpenSourceProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Face_Detection_Recognition-master" type="462c0819:PsiDirectoryNode" />
+              <item name="faceRecognition" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -405,11 +405,20 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798387" visible="true" weight="0.19156061" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49798387" visible="true" weight="0.19557936" />
       <window_info id="Structure" order="1" sideWeight="0.5020161" side_tool="true" weight="0.22572003" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -418,7 +427,7 @@
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989953" weight="0.4546742" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
@@ -494,13 +503,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/develop/software/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/PIL/Image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="2639" selection-start-line="2639" selection-end-line="2639" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition-new/predict_with_SVM.py" />
     <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition-new/train_tripletloss.py" />
     <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition-new/compare.py" />
@@ -727,13 +729,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_softmax3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="569" column="57" selection-start-line="569" selection-start-column="57" selection-end-line="569" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/predict_with_SVM.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="606">
@@ -823,6 +818,27 @@
             <caret line="490" column="14" selection-start-line="490" selection-start-column="14" selection-end-line="490" selection-end-column="14" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorBox/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_softmax3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="636" column="26" selection-start-line="636" selection-start-column="26" selection-end-line="636" selection-end-column="26" />
+          <folding>
+            <element signature="e#26114#27150#0" />
+            <element signature="e#27184#34756#0" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,0 +1,6 @@
+git+https://github.com/deepmind/pysc2
+git+https://github.com/openai/baselines
+numpy
+tensorflow
+absl-py
+cloudpickle

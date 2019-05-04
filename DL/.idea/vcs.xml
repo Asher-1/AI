@@ -2,6 +2,18 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RL/RL_APP/DQN-play-SuperMario" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RL/RL_APP/DRL-FlappyBird" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/RL/RL_APP/DeepLearningFlappyBird" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RL/RL_APP/DeepLearningTRexRush" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RL/RL_APP/Mario-Level-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RL/RL_APP/Super-Mario-Bros-DQN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RL/RL_APP/atari-py" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RL/RL_APP/gym" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RL/RL_APP/gym-super-mario" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RL/RL_APP/mujoco-py" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RL/deepmind/pysc2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RL/deepmind/pysc2-agents" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RL/deepmind/pysc2-examples" vcs="Git" />
   </component>
 </project>

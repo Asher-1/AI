@@ -6,6 +6,7 @@ import numpy as np
 import scipy.misc
 import random
 
+
 class Env:
     action_idx = {
         0: 273,
@@ -44,11 +45,10 @@ class Env:
 
     def __init__(self):
 
-
-        #self.resize_x = 120
-        #self.resize_y = 120
-        #self.color_chanel = 1
-        #self.state_n = self.resize_x * self.resize_y * self.color_chanel
+        # self.resize_x = 120
+        # self.resize_y = 120
+        # self.color_chanel = 1
+        # self.state_n = self.resize_x * self.resize_y * self.color_chanel
 
         self.run_it = tools.Control(setup.ORIGINAL_CAPTION, self)
         self.state_dict = {
@@ -60,7 +60,6 @@ class Env:
         }
         self.run_it.ml_done = False
         self.run_it.setup_states(self.state_dict, c.LEVEL1)
-
 
     def get_random_actions(self):
         return random.randint(0, 13)
@@ -79,22 +78,20 @@ class Env:
         self.run_it.ml_done = False
         self.run_it.setup_states(self.state_dict, c.LEVEL1)
         self.run_it.max_posision_x = 200
-        #if start_position < 0:
+        # if start_position < 0:
         #    start_position = 0
-        #self.run_it.max_posision_x = start_position
-        #self.run_it.state.viewport.x = start_position
+        # self.run_it.max_posision_x = start_position
+        # self.run_it.state.viewport.x = start_position
 
         state, _, _, _, _, _, _ = self.run_it.get_step()
         state = scipy.misc.imresize(state, (self.resize_x, self.resize_y))
         state = self.rgb2gray(state) / 255.
         state = scipy.misc.imresize(state, (self.resize_x, self.resize_y))
-        #state = scipy.misc.imresize(state, (self.resize_x, self.resize_y))
+        # state = scipy.misc.imresize(state, (self.resize_x, self.resize_y))
 
-        #state = scipy.misc.imresize(state, (self.resize_x, self.resize_y))
+        # state = scipy.misc.imresize(state, (self.resize_x, self.resize_y))
 
         return state
-
-
 
     def step(self, action):
         input_action = [
@@ -116,18 +113,17 @@ class Env:
         pg.display.update()
         next_state, reward, gameover, clear, max_x, timeout, now_x = self.run_it.get_step()
 
-        #self.run_it.clock.tick(self.run_it.fps)
-        #fps = self.run_it.clock.get_fps()
-        #with_fps = "{} - {:.2f} FPS".format(self.run_it.caption, fps)
-        #pg.display.set_caption(with_fps)
-
+        # self.run_it.clock.tick(self.run_it.fps)
+        # fps = self.run_it.clock.get_fps()
+        # with_fps = "{} - {:.2f} FPS".format(self.run_it.caption, fps)
+        # pg.display.set_caption(with_fps)
 
         next_state = scipy.misc.imresize(next_state, (self.resize_x, self.resize_y))
         next_state = self.rgb2gray(next_state) / 255.
         next_state = scipy.misc.imresize(next_state, (self.resize_x, self.resize_y))
-        #next_state = scipy.misc.imresize(next_state, (self.resize_x, self.resize_y))
+        # next_state = scipy.misc.imresize(next_state, (self.resize_x, self.resize_y))
 
-        #next_state = scipy.misc.imrotate(next_state, -90.)
+        # next_state = scipy.misc.imrotate(next_state, -90.)
 
         return (next_state, reward, gameover, clear, max_x, timeout, now_x)
 
