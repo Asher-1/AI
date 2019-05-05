@@ -2,11 +2,241 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b03b0369-41cc-488e-a79e-200e41863a1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DL/RL/RL_APP/Mario-Level-1/data/env.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DL/RL/RL_APP/DeepLearningTRexRush/game/wrapped_trex.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/RL/RL_APP/DeepLearningTRexRush/game/wrapped_trex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/LICENCE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/RL_cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/10_A3C/A3C_RNN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/10_A3C/A3C_continuous_action.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/10_A3C/A3C_discrete_action.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/10_A3C/A3C_distributed_tf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/11_Dyna_Q/RL_brain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/11_Dyna_Q/maze_env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/11_Dyna_Q/run_this.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/12_Proximal_Policy_Optimization/DPPO.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/12_Proximal_Policy_Optimization/discrete_DPPO.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/12_Proximal_Policy_Optimization/simply_PPO.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/1_command_line_reinforcement_learning/treasure_on_right.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/2_Q_Learning_maze/RL_brain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/2_Q_Learning_maze/maze_env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/2_Q_Learning_maze/run_this.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/3_Sarsa_maze/RL_brain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/3_Sarsa_maze/maze_env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/3_Sarsa_maze/run_this.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/4_Sarsa_lambda_maze/RL_brain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/4_Sarsa_lambda_maze/maze_env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/4_Sarsa_lambda_maze/run_this.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/5.1_Double_DQN/RL_brain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/5.1_Double_DQN/run_Pendulum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/5.2_Prioritized_Replay_DQN/RL_brain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/5.2_Prioritized_Replay_DQN/run_MountainCar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/5.3_Dueling_DQN/RL_brain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/5.3_Dueling_DQN/run_Pendulum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/DQN_modified.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/RL_brain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/maze_env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/run_this.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/6_OpenAI_gym/RL_brain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/6_OpenAI_gym/run_CartPole.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/6_OpenAI_gym/run_MountainCar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/7_Policy_gradient_softmax/RL_brain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/7_Policy_gradient_softmax/run_CartPole.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/7_Policy_gradient_softmax/run_MountainCar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/8_Actor_Critic_Advantage/AC_CartPole.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/8_Actor_Critic_Advantage/AC_continue_Pendulum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/9_Deep_Deterministic_Policy_Gradient_DDPG/DDPG.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/9_Deep_Deterministic_Policy_Gradient_DDPG/DDPG_update.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/9_Deep_Deterministic_Policy_Gradient_DDPG/DDPG_update2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/Curiosity_Model/Curiosity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/Curiosity_Model/Curiosity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/contents/Curiosity_Model/Random_Network_Distillation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/experiments/2D_car/DDPG.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/experiments/2D_car/car_env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/experiments/2D_car/collision.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/experiments/Robot_arm/A3C.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/experiments/Robot_arm/DDPG.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/experiments/Robot_arm/DPPO.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/experiments/Robot_arm/arm_env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/experiments/Solve_BipedalWalker/A3C.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/experiments/Solve_BipedalWalker/A3C_rnn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/experiments/Solve_BipedalWalker/DDPG.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/experiments/Solve_BipedalWalker/log/events.out.tfevents.1490801027.Morvan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/experiments/Solve_LunarLander/A3C.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/experiments/Solve_LunarLander/DuelingDQNPrioritizedReplay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-tensorflow-master/experiments/Solve_LunarLander/run_LunarLander.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/LICENCE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/201_session.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/202_placeholder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/203_variable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/204_activation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/301_simple_regression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/302_simple_classification.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/303_save_reload.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/304_optimizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/305_tensorboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/306_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/401_CNN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/402_RNN_classification.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/403_RNN_regression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/404_AutoEncoder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/405_DQN_reinforcement_learning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/406_GAN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/406_conditional_GAN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/407_transfer_learning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/501_dropout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/502_batch_normalization.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/503_visualize_gradient_descent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/504_distributed_training.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/for_transfer_learning/data/kittycat/000129037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/for_transfer_learning/data/tiger/391412.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/for_transfer_learning/imagenet_kittycat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/for_transfer_learning/imagenet_tiger.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/for_transfer_learning/model/transfer_learn.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/for_transfer_learning/model/transfer_learn.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tensorflow-Tutorial-master/tutorial-contents/install from source.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/LICENCE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/Reinforcement_learning_TUT/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/basic/25_import.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/basic/28_try.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/basic/29_zip_lambda_map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/basic/30_copy_deepcopy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/basic/34_pickle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/basic/35_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/basic/36_RegEx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/basic/36_regex.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/gitTUT/for_gitTUT_2-2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/gitTUT/for_gitTUT_3-1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/gitTUT/for_gitTUT_3-2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/gitTUT/for_gitTUT_4-1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/gitTUT/for_gitTUT_4-2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/gitTUT/for_gitTUT_4-3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/gitTUT/for_gitTUT_4-4.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/gitTUT/for_gitTUT_5-1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/kerasTUT/10-save.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/kerasTUT/2-installation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/kerasTUT/3-backend.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/kerasTUT/4-regressor_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/kerasTUT/5-classifier_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/kerasTUT/6-CNN_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/kerasTUT/7-RNN_Classifier_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/kerasTUT/8-RNN_LSTM_Regressor_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/kerasTUT/9-Autoencoder_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/kerasTUT/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/matplotlibTUT/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/matplotlibTUT/plt10_scatter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/matplotlibTUT/plt11_bar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/matplotlibTUT/plt12_contours.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/matplotlibTUT/plt13_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/matplotlibTUT/plt14_3d.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/matplotlibTUT/plt15_subplot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/matplotlibTUT/plt16_grid_subplot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/matplotlibTUT/plt17_plot_in_plot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/matplotlibTUT/plt18_secondary_yaxis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/matplotlibTUT/plt19_animation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/matplotlibTUT/plt1_why.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/matplotlibTUT/plt2_install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/matplotlibTUT/plt3_simple_plot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/matplotlibTUT/plt4_figure.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/matplotlibTUT/plt5_ax_setting1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/matplotlibTUT/plt6_ax_setting2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/matplotlibTUT/plt7_legend.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/matplotlibTUT/plt8_annotation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/matplotlibTUT/plt9_tick_visibility.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/multiprocessingTUT/multiprocessing3_queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/multiprocessingTUT/multiprocessing4_efficiency_comparison.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/multiprocessingTUT/multiprocessing5_pool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/multiprocessingTUT/multiprocessing7_lock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/numpy&amp;pandas/11_pandas_intro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/numpy&amp;pandas/12_selection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/numpy&amp;pandas/13_set_value.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/numpy&amp;pandas/14_nan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/numpy&amp;pandas/15_read_to/15_read_to.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/numpy&amp;pandas/15_read_to/student.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/numpy&amp;pandas/16_concat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/numpy&amp;pandas/17_merge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/numpy&amp;pandas/18_plot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/pyTorch tutorial/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/sklearnTUT/sk10_cross_validation3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/sklearnTUT/sk11_save.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/sklearnTUT/sk4_learning_pattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/sklearnTUT/sk5_datasets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/sklearnTUT/sk6_model_attribute_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/sklearnTUT/sk7_normalization.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/sklearnTUT/sk8_cross_validation/for_you_to_practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/sklearnTUT/sk8_cross_validation/full_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/sklearnTUT/sk9_cross_validation2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/logo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tensorflow10_def_add_layer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tensorflow11_build_network.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tensorflow12_plut_result.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tensorflow6_session.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tensorflow7_variable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tensorflow8_feeds.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tf11_build_network/full_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tf12_plot_result/full_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tf14_tensorboard/full_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tf15_tensorboard/full_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tf16_classification/full_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tf17_dropout/full_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tf18_CNN2/full_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tf18_CNN3/full_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tf19_saver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tf20_RNN2.2/full_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tf20_RNN2/full_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tf21_autoencoder/full_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tf22_scope/tf22_RNN_scope.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tf22_scope/tf22_scope.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tf23_BN/tf23_BN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tensorflowTUT/tf5_example2/full_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/theanoTUT/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/theanoTUT/theano10_regression_visualization/for_you_to_practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/theanoTUT/theano10_regression_visualization/full_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/theanoTUT/theano11_classification_nn/for_you_to_practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/theanoTUT/theano11_classification_nn/full_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/theanoTUT/theano12_regularization/for_you_to_practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/theanoTUT/theano12_regularization/full_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/theanoTUT/theano13_save/for_you_to_practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/theanoTUT/theano13_save/full_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/theanoTUT/theano14_summary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/theanoTUT/theano2_install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/theanoTUT/theano3_what_does_ML_do.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/theanoTUT/theano4_basic_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/theanoTUT/theano5_function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/theanoTUT/theano6_shared_variable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/theanoTUT/theano7_activation_function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/theanoTUT/theano8_Layer_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/theanoTUT/theano9_regression_nn/for_you_to_practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/theanoTUT/theano9_regression_nn/full_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/threadingTUT/thread2_add_thread.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/threadingTUT/thread3_join.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/threadingTUT/thread4_queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/threadingTUT/thread5_GIL.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/threadingTUT/thread6_lock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tkinterTUT/ins.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tkinterTUT/tk10_frame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tkinterTUT/tk11_msgbox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tkinterTUT/tk12_position.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tkinterTUT/tk13_login_example/tk13_login_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tkinterTUT/tk13_login_example/welcome.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tkinterTUT/tk14_login_example/tk14_login_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tkinterTUT/tk14_login_example/welcome.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tkinterTUT/tk15_login_example/tk15_login_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tkinterTUT/tk15_login_example/welcome.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tkinterTUT/tk2_label_button.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tkinterTUT/tk3_entry_text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tkinterTUT/tk4_listbox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tkinterTUT/tk5_radiobutton.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tkinterTUT/tk6_scale.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tkinterTUT/tk7_checkbutton.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tkinterTUT/tk8_canvas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/tkinterTUT/tk9_menubar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials-master/片头.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +267,7 @@
     <session id="-501896437">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.11" value="1" />
@@ -56,7 +286,7 @@
           <entry key="LICENCE" value="1" />
           <entry key="jpg" value="4" />
           <entry key="m" value="1" />
-          <entry key="md" value="15" />
+          <entry key="md" value="17" />
           <entry key="png" value="2" />
           <entry key="py" value="282" />
           <entry key="txt" value="10" />
@@ -65,7 +295,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="6" />
-          <entry key="Markdown" value="15" />
+          <entry key="Markdown" value="17" />
           <entry key="PLAIN_TEXT" value="12" />
           <entry key="Python" value="282" />
         </counts>
@@ -85,21 +315,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_softmax3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="636" column="26" selection-start-line="636" selection-start-column="26" selection-end-line="636" selection-end-column="26" />
-              <folding>
-                <element signature="e#26114#27150#0" />
-                <element signature="e#27184#34756#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -194,11 +410,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="805" />
-    <option name="y" value="-45" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="2375" />
     <option name="width" value="1490" />
-    <option name="height" value="1255" />
+    <option name="height" value="2075" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -215,17 +430,6 @@
             <path>
               <item name="OpenSourceProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="OpenSourceProjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OpenSourceProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenSourceProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Face_Detection_Recognition-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OpenSourceProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenSourceProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Face_Detection_Recognition-master" type="462c0819:PsiDirectoryNode" />
-              <item name="faceRecognition" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -416,9 +620,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49798387" visible="true" weight="0.19557936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798387" visible="true" weight="0.31882116" />
       <window_info id="Structure" order="1" sideWeight="0.5020161" side_tool="true" weight="0.22572003" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -427,7 +630,7 @@
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989953" weight="0.4546742" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
@@ -503,8 +706,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition-new/predict_with_SVM.py" />
-    <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition-new/train_tripletloss.py" />
     <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition-new/compare.py" />
     <entry file="file://$PROJECT_DIR$/Face_Detection_Recognition-master/faceRecognition/train_tripletloss.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -839,6 +1040,22 @@
             <element signature="e#26114#27150#0" />
             <element signature="e#27184#34756#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tensorflow-Tutorial-master/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorials-master/Reinforcement_learning_TUT/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
