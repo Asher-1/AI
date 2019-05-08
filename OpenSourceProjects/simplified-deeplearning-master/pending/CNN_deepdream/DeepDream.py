@@ -112,7 +112,7 @@ def deep_dream(model, output_path, input_image=noise):
         return np.roll(np.roll(total_gradient, -shift_x, 1), -shift_y, 0)
 
     for i in range(octave_num):
-        print("octave num %s/%s..." % (i+1, octave_num))
+        print("octave num %s/%s..." % (i + 1, octave_num))
         if i > 0:
             # restore image except original image
             diff = octaves[-i]

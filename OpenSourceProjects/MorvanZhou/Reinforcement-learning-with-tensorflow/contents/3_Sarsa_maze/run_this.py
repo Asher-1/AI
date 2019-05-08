@@ -44,6 +44,7 @@ def update():
     print('game over')
     env.destroy()
 
+
 if __name__ == "__main__":
     env = Maze()
     RL = SarsaTable(actions=list(range(env.n_actions)))
